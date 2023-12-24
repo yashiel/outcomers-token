@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "brand/default",
+    "alias/default",
+    "mapped/light",
+    "mapped/dark"
+  ]
+}
