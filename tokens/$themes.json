@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "6945e1530dc4809ae93360feb9860dc2f6942286",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/default": "source",
+      "alias/default": "enabled",
+      "mapped/light": "enabled"
+    },
+    "group": "theme"
+  }
+]
