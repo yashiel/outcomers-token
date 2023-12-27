@@ -1,11 +1,11 @@
 {
   "text": {
     "heading": {
-      "value": "{neutral.black}",
+      "value": "{neutral.white}",
       "type": "color"
     },
     "body": {
-      "value": "{neutral.black}",
+      "value": "{neutral.white}",
       "type": "color"
     },
     "action": {
@@ -51,11 +51,11 @@
   },
   "surface": {
     "page": {
-      "value": "{gray.700}",
+      "value": "{neutral.black}",
       "type": "color"
     },
     "primary": {
-      "value": "{neutral.white}",
+      "value": "{neutral.black}",
       "type": "color"
     },
     "disabled": {
