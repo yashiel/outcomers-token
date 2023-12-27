@@ -51,7 +51,7 @@
   },
   "surface": {
     "page": {
-      "value": "{neutral.white}",
+      "value": "{gray.700}",
       "type": "color"
     },
     "primary": {
