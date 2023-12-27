@@ -350,5 +350,159 @@
       "value": "5",
       "type": "borderWidth"
     }
+  },
+  "opacity": {
+    "25": {
+      "value": "25%",
+      "type": "opacity"
+    },
+    "50": {
+      "value": "50%",
+      "type": "opacity"
+    },
+    "75": {
+      "value": "75%",
+      "type": "opacity"
+    },
+    "100": {
+      "value": "100%",
+      "type": "opacity"
+    },
+    "none": {
+      "value": "none",
+      "type": "opacity"
+    }
+  },
+  "fontFamily": {
+    "inter": {
+      "value": "inter",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeight": {
+    "100": {
+      "value": "100",
+      "type": "fontWeights"
+    },
+    "200": {
+      "value": "200",
+      "type": "fontWeights"
+    },
+    "300": {
+      "value": "300",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "600": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "800": {
+      "value": "800",
+      "type": "fontWeights"
+    },
+    "900": {
+      "value": "900",
+      "type": "fontWeights"
+    }
+  },
+  "lineHeight": {
+    "120": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "130": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
+    "140": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "150": {
+      "value": "150%",
+      "type": "lineHeights"
+    }
+  },
+  "sizing": {
+    "2": {
+      "value": "2",
+      "type": "sizing"
+    },
+    "4": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "8": {
+      "value": "8",
+      "type": "sizing"
+    },
+    "12": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "16": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "20": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "24": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "28": {
+      "value": "28",
+      "type": "sizing"
+    },
+    "32": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "36": {
+      "value": "36",
+      "type": "sizing"
+    },
+    "40": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "44": {
+      "value": "44",
+      "type": "sizing"
+    },
+    "48": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "52": {
+      "value": "52",
+      "type": "sizing"
+    },
+    "56": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "60": {
+      "value": "60",
+      "type": "sizing"
+    },
+    "64": {
+      "value": "64",
+      "type": "sizing"
+    }
   }
 }

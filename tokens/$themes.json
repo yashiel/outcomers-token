@@ -225,8 +225,7 @@
       "neutral.900": "S:86e240f584bc553e96efb0673fc7cdc207da9edb,"
     },
     "selectedTokenSets": {
-      "alias/default": "enabled",
-      "brand/default": "source"
+      "alias/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:843",
     "$figmaModeId": "99:11",
@@ -340,9 +339,7 @@
       "icon.error": "S:183a3434fed52a9c56281a461f9e8e6d67afadbd,"
     },
     "selectedTokenSets": {
-      "mapped/light": "enabled",
-      "brand/default": "source",
-      "alias/default": "source"
+      "mapped/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:906",
     "$figmaModeId": "99:12",
@@ -393,8 +390,6 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/default": "source",
-      "alias/default": "source",
       "mapped/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:906",
