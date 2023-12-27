@@ -154,7 +154,24 @@
       "borderWidth.xs": "2d0f0dc62b2c16842db9b6acc851a629cf26cd5b",
       "borderWidth.sm": "6139951efd7d75f1bc75e04e159fe152ed385f35",
       "borderWidth.md": "9280223dae92896f3f898f63ac402134d05aa0f6",
-      "borderWidth.lg": "53bb6b98cfab4510a84cf91bce848a567b177796"
+      "borderWidth.lg": "53bb6b98cfab4510a84cf91bce848a567b177796",
+      "sizing.2": "2817465a75ec3ba8f400207fd438e5e835d52d71",
+      "sizing.4": "a8eb4ebeb7609178fa6565ac790f53b513467bce",
+      "sizing.8": "093355335fb197b12f4835e4ee15ae596fc77e5a",
+      "sizing.12": "a895e0948fdd1d0ada15eecda4e62de7c8dae28e",
+      "sizing.16": "eb1c9d53278f3ce81b6f8a527a3e42888c5ccb1a",
+      "sizing.20": "c317e918524753ab404a4adc7d23fa0e044c743c",
+      "sizing.24": "564262ff497ffea74ec94ed16b2d0d7a0035efba",
+      "sizing.28": "0a073125c2087f314619729bef240873125b336d",
+      "sizing.32": "1e3c64ae47621636917264ea2063cdf60061598d",
+      "sizing.36": "968e3ae51c044d45b04a64c5403eae0804123724",
+      "sizing.40": "f62cd498c4cf0e3c6f3fadddc3f40389c16a88dd",
+      "sizing.44": "eec9d8a78d5d1c9c1f17d97c095b3a6849e3b6a4",
+      "sizing.48": "4ff8e692201dc87f28c46e7ad16b1cf6a02012bd",
+      "sizing.52": "1d645d15ade5eb8cd6feeeebc02bdc8dd6fd74a3",
+      "sizing.56": "3332261566188c1916fe5b18768b69b4d8ba94bf",
+      "sizing.60": "6a84a162ca84355abb9a492113da7a28e6eeab4e",
+      "sizing.64": "35d0f47001419d1cc587b6b1a462a6db248129c2"
     }
   },
   {
