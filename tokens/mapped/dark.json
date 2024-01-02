@@ -1,11 +1,11 @@
 {
   "text": {
     "heading": {
-      "value": "{neutral.white}",
+      "value": "{neutral.black}",
       "type": "color"
     },
     "body": {
-      "value": "{neutral.white}",
+      "value": "{neutral.black}",
       "type": "color"
     },
     "action": {
