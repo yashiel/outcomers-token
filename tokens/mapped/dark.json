@@ -58,20 +58,24 @@
       "value": "{neutral.black}",
       "type": "color"
     },
+    "secondary": {
+      "value": "{neutral.800}",
+      "type": "color"
+    },
     "disabled": {
       "value": "{neutral.40}",
       "type": "color"
     },
     "success": {
-      "value": "{success.lightest}",
+      "value": "{gray.900}",
       "type": "color"
     },
     "error": {
-      "value": "{error.lightest}",
+      "value": "{error.darker}",
       "type": "color"
     },
     "warning": {
-      "value": "{warning.lightest}",
+      "value": "{neutral.700}",
       "type": "color"
     },
     "information": {

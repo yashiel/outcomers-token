@@ -55,7 +55,11 @@
       "type": "color"
     },
     "primary": {
-      "value": "{neutral.white}",
+      "value": "{neutral.10}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{neutral.20}",
       "type": "color"
     },
     "disabled": {
