@@ -59,7 +59,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{neutral.900}",
+      "value": "{neutral.black}",
       "type": "color"
     },
     "disabled": {

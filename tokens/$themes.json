@@ -69,7 +69,6 @@
     "selectedTokenSets": {
       "brand/default": "enabled"
     },
-    "group": "brand",
     "$figmaCollectionId": "VariableCollectionId:99:760",
     "$figmaModeId": "99:10",
     "$figmaVariableReferences": {
@@ -172,7 +171,8 @@
       "sizing.56": "3332261566188c1916fe5b18768b69b4d8ba94bf",
       "sizing.60": "6a84a162ca84355abb9a492113da7a28e6eeab4e",
       "sizing.64": "35d0f47001419d1cc587b6b1a462a6db248129c2"
-    }
+    },
+    "group": "brand"
   },
   {
     "id": "9368d40c5f77215f99925e67f27cf08f1dc611e7",
