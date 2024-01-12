@@ -5,7 +5,7 @@
       "type": "color"
     },
     "body": {
-      "value": "{neutral.black}",
+      "value": "{neutral.white}",
       "type": "color"
     },
     "action": {
@@ -59,7 +59,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{neutral.800}",
+      "value": "{neutral.900}",
       "type": "color"
     },
     "disabled": {
@@ -87,7 +87,7 @@
       "type": "color"
     },
     "action": {
-      "value": "{primary.default}",
+      "value": "{primary.darker}",
       "type": "color"
     },
     "action-hover": {
