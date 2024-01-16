@@ -36,14 +36,13 @@ StyleDictionary.registerTransform({
     );
   },
   transformer: (token) => {
-    const floatVal = parseFloat(token.value);
-    if (isNaN(floatVal)) {
+    if (isNaN(token.value)) {
       throwSizeError(token.name, token.value, "rem");
     }
-    if (floatVal === 0) {
+    if (token.value === 0) {
       return "0";
     }
-    return `${(floatVal / 16).toFixed(3)}rem`;
+    return `${(token.value / 16).toFixed(3)}rem`;
   },
 });
 
