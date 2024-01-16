@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 06:22:52 GMT
+// Generated on Tue, 16 Jan 2024 06:23:50 GMT
 
 
 #import ".h"
@@ -206,7 +206,7 @@
  const OcSurfacePrimary = #111111;
  const OcSurfaceSecondary = #111111;
  const OcSurfaceDisabled = #DFE2E6;
- const OcSurfaceSuccess = #091E42;
+ const OcSurfaceSuccess = #026033;
  const OcSurfaceError = #761409;
  const OcSurfaceWarning = #243757;
  const OcSurfaceInformation = #E6F0FF;

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 06:22:52 GMT
+// Generated on Tue, 16 Jan 2024 06:23:50 GMT
 
 
 #import ".h"
@@ -217,7 +217,7 @@ inter,
 #111111,
 #111111,
 #DFE2E6,
-#091E42,
+#026033,
 #761409,
 #243757,
 #E6F0FF,

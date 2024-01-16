@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 06:22:52 GMT
+// Generated on Tue, 16 Jan 2024 06:23:50 GMT
 
 
 #import ".h"
@@ -206,7 +206,7 @@ NSString * const OcSurfacePage = #111111;
 NSString * const OcSurfacePrimary = #111111;
 NSString * const OcSurfaceSecondary = #111111;
 NSString * const OcSurfaceDisabled = #DFE2E6;
-NSString * const OcSurfaceSuccess = #091E42;
+NSString * const OcSurfaceSuccess = #026033;
 NSString * const OcSurfaceError = #761409;
 NSString * const OcSurfaceWarning = #243757;
 NSString * const OcSurfaceInformation = #E6F0FF;
@@ -1415,7 +1415,7 @@ NSString * const OcIconError = #C2210F;
     @"type": @"disabled"
   },
 @{
-  @"value": #091E42,
+  @"value": #026033,
   @"name": @"OcSurfaceSuccess",
     @"category": @"surface",
     @"type": @"success"

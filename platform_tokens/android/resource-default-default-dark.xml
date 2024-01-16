@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 16 Jan 2024 06:22:52 GMT
+  Generated on Tue, 16 Jan 2024 06:23:50 GMT
 -->
 <resources>
   <string name="oc_radius_none">0</string>
@@ -201,7 +201,7 @@
   <string name="oc_surface_primary">#111111</string>
   <string name="oc_surface_secondary">#111111</string>
   <string name="oc_surface_disabled">#DFE2E6</string>
-  <string name="oc_surface_success">#091E42</string>
+  <string name="oc_surface_success">#026033</string>
   <string name="oc_surface_error">#761409</string>
   <string name="oc_surface_warning">#243757</string>
   <string name="oc_surface_information">#E6F0FF</string>

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 Jan 2024 06:22:52 GMT
+ * Generated on Tue, 16 Jan 2024 06:23:50 GMT
  */
 
 export const ocRadiusNone = "0";
@@ -199,7 +199,7 @@ export const ocSurfacePage = "#111111";
 export const ocSurfacePrimary = "#111111";
 export const ocSurfaceSecondary = "#111111";
 export const ocSurfaceDisabled = "#DFE2E6";
-export const ocSurfaceSuccess = "#091E42";
+export const ocSurfaceSuccess = "#026033";
 export const ocSurfaceError = "#761409";
 export const ocSurfaceWarning = "#243757";
 export const ocSurfaceInformation = "#E6F0FF";

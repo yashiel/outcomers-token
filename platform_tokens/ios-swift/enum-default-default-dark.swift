@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 06:22:52 GMT
+// Generated on Tue, 16 Jan 2024 06:23:50 GMT
 
 
 import UIKit
@@ -194,7 +194,7 @@ public enum  {
     public static let ocSurfacePage = #111111
     public static let ocSurfacePrimary = #111111
     public static let ocSurfaceSecondary = #111111
-    public static let ocSurfaceSuccess = #091E42
+    public static let ocSurfaceSuccess = #026033
     public static let ocSurfaceWarning = #243757
     public static let ocTeal100 = #7FC0CA
     public static let ocTeal200 = #48A5B3

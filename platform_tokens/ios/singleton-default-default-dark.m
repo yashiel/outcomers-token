@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 06:22:52 GMT
+// Generated on Tue, 16 Jan 2024 06:23:50 GMT
 
 
 #import ".h"
@@ -1255,7 +1255,7 @@
       @"type": @"disabled"
       },
     @"success": @{
-      @"value": #091E42,
+      @"value": #026033,
       @"name": @"OcSurfaceSuccess",
       @"category": @"surface",
       @"type": @"success"

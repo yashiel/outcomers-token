@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 06:22:52 GMT
+// Generated on Tue, 16 Jan 2024 06:23:50 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -206,7 +206,7 @@
 #define OcSurfacePrimary #111111
 #define OcSurfaceSecondary #111111
 #define OcSurfaceDisabled #DFE2E6
-#define OcSurfaceSuccess #091E42
+#define OcSurfaceSuccess #026033
 #define OcSurfaceError #761409
 #define OcSurfaceWarning #243757
 #define OcSurfaceInformation #E6F0FF
