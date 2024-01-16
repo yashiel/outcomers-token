@@ -67,7 +67,7 @@
       "type": "color"
     },
     "success": {
-      "value": "{gray.900}",
+      "value": "{primary.darker}",
       "type": "color"
     },
     "error": {

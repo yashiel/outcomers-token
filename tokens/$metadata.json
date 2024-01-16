@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "brand/default",
-    "alias/default",
+    "alias/color",
     "theme/light",
     "theme/dark"
   ]
