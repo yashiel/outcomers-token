@@ -1,0 +1,21 @@
+{
+  "name": "ocdesigntokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build-tokens.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build-tokens.js"
+  },
+  "keywords": [
+    "tokens",
+    "design",
+    "style",
+    "style-dictionary"],
+  "author": "Yashi El",
+  "license": "ISC",
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^0.13.2",
+    "style-dictionary": "^3.9.1"
+  }
+}
