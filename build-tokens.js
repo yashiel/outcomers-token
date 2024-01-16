@@ -5,11 +5,46 @@ import {
   permutateThemes,
 } from "@tokens-studio/sd-transforms";
 
-// sd-transforms, 2nd parameter for options can be added
-// See docs: https://github.com/tokens-studio/sd-transforms
 registerTransforms(StyleDictionary, {
   expand: { composition: true, typography: true, border: false, shadow: false },
   excludeParentKeys: false,
+});
+
+// StyleDictionary.registerTransform({
+//   name: "size/rem",
+//   type: "value",
+//   transformer: function (prop) {
+//     if (prop.unit === "px") {
+//       return `${prop.value / 16}rem`;
+//     } else {
+//       return prop.original;
+//     }
+//   },
+// });
+
+StyleDictionary.registerTransform({
+  type: `value`,
+  name: `scale/unit`,
+  transitive: true,
+  matcher: (token) => {
+    return (
+      token.type === "fontSizes"
+      // ||
+      // token.type === "spacing" ||
+      // token.type === "borderRadius" ||
+      // token.type === "sizing"
+    );
+  },
+  transformer: (token) => {
+    const floatVal = parseFloat(token.value);
+    if (isNaN(floatVal)) {
+      throwSizeError(token.name, token.value, "rem");
+    }
+    if (floatVal === 0) {
+      return "0";
+    }
+    return `${(floatVal / 16).toFixed(3)}rem`;
+  },
 });
 
 // format helpers from style-dictionary
@@ -29,12 +64,12 @@ const configs = Object.entries(themes).map(([name, tokensets]) => ({
         "name/cti/kebab",
         "time/seconds",
         "content/icon",
-        "size/rem",
         "color/css",
-        // "scale/unit",
+        "scale/unit",
         // "width/px", //
         "ts/descriptionToComment",
         "ts/size/px",
+        // "size/rem",
         "ts/opacity",
         "ts/size/lineheight",
         "ts/typography/fontWeight",
