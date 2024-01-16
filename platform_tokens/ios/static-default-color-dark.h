@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -13,6 +13,9 @@ extern  const OcRadiusNone;
 extern  const OcRadiusXs;
 extern  const OcRadiusSm;
 extern  const OcRadiusMd;
+extern  const OcRadiusLg;
+extern  const OcRadiusXl;
+extern  const OcRadiusXxl;
 extern  const OcRadiusRound;
 extern  const OcColorRed50;
 extern  const OcColorRed75;
@@ -85,12 +88,12 @@ extern  const OcSpacingLg;
 extern  const OcSpacingXl;
 extern  const OcSpacingXxl;
 extern  const OcSpacingXxxl;
+extern  const OcBorderWidth1;
+extern  const OcBorderWidth2;
+extern  const OcBorderWidth3;
+extern  const OcBorderWidth4;
+extern  const OcBorderWidth5;
 extern  const OcBorderWidthNone;
-extern  const OcBorderWidthDefault;
-extern  const OcBorderWidthXs;
-extern  const OcBorderWidthSm;
-extern  const OcBorderWidthMd;
-extern  const OcBorderWidthLg;
 extern  const OcOpacity25;
 extern  const OcOpacity50;
 extern  const OcOpacity75;

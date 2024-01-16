@@ -1,12 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 Jan 2024 13:14:39 GMT
+ * Generated on Tue, 16 Jan 2024 13:28:07 GMT
  */
 
 export const ocRadiusNone = "0";
 export const ocRadiusXs = "2px";
 export const ocRadiusSm = "4px";
 export const ocRadiusMd = "8px";
+export const ocRadiusLg = "16px";
+export const ocRadiusXl = "24px";
+export const ocRadiusXxl = "32px";
 export const ocRadiusRound = "50px";
 export const ocColorRed50 = "#F9E9E7";
 export const ocColorRed75 = "#E6A49D";
@@ -79,27 +82,27 @@ export const ocSpacingLg = "24px";
 export const ocSpacingXl = "32px";
 export const ocSpacingXxl = "48px";
 export const ocSpacingXxxl = "64px";
+export const ocBorderWidth1 = "1px";
+export const ocBorderWidth2 = "2px";
+export const ocBorderWidth3 = "3px";
+export const ocBorderWidth4 = "4px";
+export const ocBorderWidth5 = "5px";
 export const ocBorderWidthNone = "0";
-export const ocBorderWidthDefault = "1px";
-export const ocBorderWidthXs = "2px";
-export const ocBorderWidthSm = "3px";
-export const ocBorderWidthMd = "4px";
-export const ocBorderWidthLg = "5px";
 export const ocOpacity25 = 0.25;
 export const ocOpacity50 = 0.5;
 export const ocOpacity75 = 0.75;
 export const ocOpacity100 = 1;
 export const ocOpacityNone = "none";
 export const ocFontFamilyInter = "inter";
-export const ocFontWeight100 = "100";
-export const ocFontWeight200 = "200";
-export const ocFontWeight300 = "300";
-export const ocFontWeight400 = "400";
-export const ocFontWeight500 = "500";
-export const ocFontWeight600 = "600";
-export const ocFontWeight700 = "700";
-export const ocFontWeight800 = "800";
-export const ocFontWeight900 = "900";
+export const ocFontWeight100 = 100;
+export const ocFontWeight200 = "Extra Light";
+export const ocFontWeight300 = 300;
+export const ocFontWeight400 = 400;
+export const ocFontWeight500 = 500;
+export const ocFontWeight600 = "Semi Bold";
+export const ocFontWeight700 = 700;
+export const ocFontWeight800 = "Extra Bold";
+export const ocFontWeight900 = 900;
 export const ocLineHeight120 = 1.2;
 export const ocLineHeight130 = 1.3;
 export const ocLineHeight140 = 1.4;

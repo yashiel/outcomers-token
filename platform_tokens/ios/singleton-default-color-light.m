@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import ".h"
@@ -49,6 +49,24 @@
       @"name": @"OcRadiusMd",
       @"category": @"radius",
       @"type": @"md"
+      },
+    @"lg": @{
+      @"value": 16,
+      @"name": @"OcRadiusLg",
+      @"category": @"radius",
+      @"type": @"lg"
+      },
+    @"xl": @{
+      @"value": 24,
+      @"name": @"OcRadiusXl",
+      @"category": @"radius",
+      @"type": @"xl"
+      },
+    @"xxl": @{
+      @"value": 32,
+      @"name": @"OcRadiusXxl",
+      @"category": @"radius",
+      @"type": @"xxl"
       },
     @"round": @{
       @"value": 50,
@@ -568,41 +586,41 @@
       }
     },
   @"borderWidth": @{
+    @"1": @{
+      @"value": 1,
+      @"name": @"OcBorderWidth1",
+      @"category": @"borderWidth",
+      @"type": @"1"
+      },
+    @"2": @{
+      @"value": 2,
+      @"name": @"OcBorderWidth2",
+      @"category": @"borderWidth",
+      @"type": @"2"
+      },
+    @"3": @{
+      @"value": 3,
+      @"name": @"OcBorderWidth3",
+      @"category": @"borderWidth",
+      @"type": @"3"
+      },
+    @"4": @{
+      @"value": 4,
+      @"name": @"OcBorderWidth4",
+      @"category": @"borderWidth",
+      @"type": @"4"
+      },
+    @"5": @{
+      @"value": 5,
+      @"name": @"OcBorderWidth5",
+      @"category": @"borderWidth",
+      @"type": @"5"
+      },
     @"none": @{
       @"value": 0,
       @"name": @"OcBorderWidthNone",
       @"category": @"borderWidth",
       @"type": @"none"
-      },
-    @"default": @{
-      @"value": 1,
-      @"name": @"OcBorderWidthDefault",
-      @"category": @"borderWidth",
-      @"type": @"default"
-      },
-    @"xs": @{
-      @"value": 2,
-      @"name": @"OcBorderWidthXs",
-      @"category": @"borderWidth",
-      @"type": @"xs"
-      },
-    @"sm": @{
-      @"value": 3,
-      @"name": @"OcBorderWidthSm",
-      @"category": @"borderWidth",
-      @"type": @"sm"
-      },
-    @"md": @{
-      @"value": 4,
-      @"name": @"OcBorderWidthMd",
-      @"category": @"borderWidth",
-      @"type": @"md"
-      },
-    @"lg": @{
-      @"value": 5,
-      @"name": @"OcBorderWidthLg",
-      @"category": @"borderWidth",
-      @"type": @"lg"
       }
     },
   @"opacity": @{
@@ -647,55 +665,55 @@
     },
   @"fontWeight": @{
     @"100": @{
-      @"value": 100,
+      @"value": Thin,
       @"name": @"OcFontWeight100",
       @"category": @"fontWeight",
       @"type": @"100"
       },
     @"200": @{
-      @"value": 200,
+      @"value": Extra Light,
       @"name": @"OcFontWeight200",
       @"category": @"fontWeight",
       @"type": @"200"
       },
     @"300": @{
-      @"value": 300,
+      @"value": Light,
       @"name": @"OcFontWeight300",
       @"category": @"fontWeight",
       @"type": @"300"
       },
     @"400": @{
-      @"value": 400,
+      @"value": Regular,
       @"name": @"OcFontWeight400",
       @"category": @"fontWeight",
       @"type": @"400"
       },
     @"500": @{
-      @"value": 500,
+      @"value": Medium,
       @"name": @"OcFontWeight500",
       @"category": @"fontWeight",
       @"type": @"500"
       },
     @"600": @{
-      @"value": 600,
+      @"value": Semi Bold,
       @"name": @"OcFontWeight600",
       @"category": @"fontWeight",
       @"type": @"600"
       },
     @"700": @{
-      @"value": 700,
+      @"value": Bold,
       @"name": @"OcFontWeight700",
       @"category": @"fontWeight",
       @"type": @"700"
       },
     @"800": @{
-      @"value": 800,
+      @"value": Extra Bold,
       @"name": @"OcFontWeight800",
       @"category": @"fontWeight",
       @"type": @"800"
       },
     @"900": @{
-      @"value": 900,
+      @"value": Black,
       @"name": @"OcFontWeight900",
       @"category": @"fontWeight",
       @"type": @"900"

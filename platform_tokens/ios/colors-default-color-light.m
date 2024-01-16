@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import ".h"
@@ -25,6 +25,9 @@
 2,
 4,
 8,
+16,
+24,
+32,
 50,
 [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f],
 [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f],
@@ -97,27 +100,27 @@
 32,
 48,
 64,
-0,
 1,
 2,
 3,
 4,
 5,
+0,
 25%,
 50%,
 75%,
 100%,
 none,
 inter,
-100,
-200,
-300,
-400,
-500,
-600,
-700,
-800,
-900,
+Thin,
+Extra Light,
+Light,
+Regular,
+Medium,
+Semi Bold,
+Bold,
+Extra Bold,
+Black,
 120%,
 130%,
 140%,

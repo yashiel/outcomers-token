@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -14,6 +14,9 @@ OcRadiusNone,
 OcRadiusXs,
 OcRadiusSm,
 OcRadiusMd,
+OcRadiusLg,
+OcRadiusXl,
+OcRadiusXxl,
 OcRadiusRound,
 OcColorRed50,
 OcColorRed75,
@@ -86,12 +89,12 @@ OcSpacingLg,
 OcSpacingXl,
 OcSpacingXxl,
 OcSpacingXxxl,
+OcBorderWidth1,
+OcBorderWidth2,
+OcBorderWidth3,
+OcBorderWidth4,
+OcBorderWidth5,
 OcBorderWidthNone,
-OcBorderWidthDefault,
-OcBorderWidthXs,
-OcBorderWidthSm,
-OcBorderWidthMd,
-OcBorderWidthLg,
 OcOpacity25,
 OcOpacity50,
 OcOpacity75,

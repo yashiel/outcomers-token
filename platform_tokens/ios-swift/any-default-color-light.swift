@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 import UIKit
@@ -27,12 +27,12 @@ public class  {
     public static let ocBorderSecondary = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocBorderSuccess = UIColor(red: 0.012, green: 0.435, blue: 0.227, alpha: 1)
     public static let ocBorderWarning = UIColor(red: 0.953, green: 0.820, blue: 0.455, alpha: 1)
-    public static let ocBorderWidthDefault = 1
-    public static let ocBorderWidthLg = 5
-    public static let ocBorderWidthMd = 4
+    public static let ocBorderWidth1 = 1
+    public static let ocBorderWidth2 = 2
+    public static let ocBorderWidth3 = 3
+    public static let ocBorderWidth4 = 4
+    public static let ocBorderWidth5 = 5
     public static let ocBorderWidthNone = 0
-    public static let ocBorderWidthSm = 3
-    public static let ocBorderWidthXs = 2
     public static let ocColorBlackBlack = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
     public static let ocColorBlue100 = UIColor(red: 0.420, green: 0.651, blue: 1.000, alpha: 1)
     public static let ocColorBlue200 = UIColor(red: 0.169, green: 0.498, blue: 1.000, alpha: 1)
@@ -102,15 +102,15 @@ public class  {
     public static let ocErrorLighter = UIColor(red: 0.902, green: 0.643, blue: 0.616, alpha: 1)
     public static let ocErrorLightest = UIColor(red: 0.976, green: 0.914, blue: 0.906, alpha: 1)
     public static let ocFontFamilyInter = inter
-    public static let ocFontWeight100 = 100
-    public static let ocFontWeight200 = 200
-    public static let ocFontWeight300 = 300
-    public static let ocFontWeight400 = 400
-    public static let ocFontWeight500 = 500
-    public static let ocFontWeight600 = 600
-    public static let ocFontWeight700 = 700
-    public static let ocFontWeight800 = 800
-    public static let ocFontWeight900 = 900
+    public static let ocFontWeight100 = Thin
+    public static let ocFontWeight200 = Extra Light
+    public static let ocFontWeight300 = Light
+    public static let ocFontWeight400 = Regular
+    public static let ocFontWeight500 = Medium
+    public static let ocFontWeight600 = Semi Bold
+    public static let ocFontWeight700 = Bold
+    public static let ocFontWeight800 = Extra Bold
+    public static let ocFontWeight900 = Black
     public static let ocIconError = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocIconInformation = UIColor(red: 0.000, green: 0.396, blue: 1.000, alpha: 1)
     public static let ocIconPrimary = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
@@ -157,11 +157,14 @@ public class  {
     public static let ocPrimaryLight = UIColor(red: 0.427, green: 0.780, blue: 0.608, alpha: 1)
     public static let ocPrimaryLighter = UIColor(red: 0.596, green: 0.843, blue: 0.722, alpha: 1)
     public static let ocPrimaryLightest = UIColor(red: 0.902, green: 0.961, blue: 0.933, alpha: 1)
+    public static let ocRadiusLg = 16
     public static let ocRadiusMd = 8
     public static let ocRadiusNone = 0
     public static let ocRadiusRound = 50
     public static let ocRadiusSm = 4
+    public static let ocRadiusXl = 24
     public static let ocRadiusXs = 2
+    public static let ocRadiusXxl = 32
     public static let ocSecondaryDark = UIColor(red: 0.663, green: 0.349, blue: 0.114, alpha: 1)
     public static let ocSecondaryDarker = UIColor(red: 0.576, green: 0.302, blue: 0.098, alpha: 1)
     public static let ocSecondaryDefault = UIColor(red: 0.945, green: 0.498, blue: 0.161, alpha: 1)

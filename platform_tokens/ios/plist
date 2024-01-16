@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Tue, 16 Jan 2024 13:14:39 GMT
+  Generated on Tue, 16 Jan 2024 13:28:07 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -19,6 +19,15 @@
     <key>OcRadiusMd</key>
     </dict>
       <string>8</string>
+    <key>OcRadiusLg</key>
+    </dict>
+      <string>16</string>
+    <key>OcRadiusXl</key>
+    </dict>
+      <string>24</string>
+    <key>OcRadiusXxl</key>
+    </dict>
+      <string>32</string>
     <key>OcRadiusRound</key>
     </dict>
       <string>50</string>
@@ -731,24 +740,24 @@
     <key>OcSpacingXxxl</key>
     </dict>
       <string>64</string>
+    <key>OcBorderWidth1</key>
+    </dict>
+      <string>1</string>
+    <key>OcBorderWidth2</key>
+    </dict>
+      <string>2</string>
+    <key>OcBorderWidth3</key>
+    </dict>
+      <string>3</string>
+    <key>OcBorderWidth4</key>
+    </dict>
+      <string>4</string>
+    <key>OcBorderWidth5</key>
+    </dict>
+      <string>5</string>
     <key>OcBorderWidthNone</key>
     </dict>
       <string>0</string>
-    <key>OcBorderWidthDefault</key>
-    </dict>
-      <string>1</string>
-    <key>OcBorderWidthXs</key>
-    </dict>
-      <string>2</string>
-    <key>OcBorderWidthSm</key>
-    </dict>
-      <string>3</string>
-    <key>OcBorderWidthMd</key>
-    </dict>
-      <string>4</string>
-    <key>OcBorderWidthLg</key>
-    </dict>
-      <string>5</string>
     <key>OcOpacity25</key>
     </dict>
       <string>25%</string>
@@ -769,31 +778,31 @@
       <string>inter</string>
     <key>OcFontWeight100</key>
     </dict>
-      <string>100</string>
+      <string>Thin</string>
     <key>OcFontWeight200</key>
     </dict>
-      <string>200</string>
+      <string>Extra Light</string>
     <key>OcFontWeight300</key>
     </dict>
-      <string>300</string>
+      <string>Light</string>
     <key>OcFontWeight400</key>
     </dict>
-      <string>400</string>
+      <string>Regular</string>
     <key>OcFontWeight500</key>
     </dict>
-      <string>500</string>
+      <string>Medium</string>
     <key>OcFontWeight600</key>
     </dict>
-      <string>600</string>
+      <string>Semi Bold</string>
     <key>OcFontWeight700</key>
     </dict>
-      <string>700</string>
+      <string>Bold</string>
     <key>OcFontWeight800</key>
     </dict>
-      <string>800</string>
+      <string>Extra Bold</string>
     <key>OcFontWeight900</key>
     </dict>
-      <string>900</string>
+      <string>Black</string>
     <key>OcLineHeight120</key>
     </dict>
       <string>120%</string>

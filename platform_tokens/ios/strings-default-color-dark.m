@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import ".h"
@@ -14,6 +14,9 @@ NSString * const OcRadiusNone = 0;
 NSString * const OcRadiusXs = 2;
 NSString * const OcRadiusSm = 4;
 NSString * const OcRadiusMd = 8;
+NSString * const OcRadiusLg = 16;
+NSString * const OcRadiusXl = 24;
+NSString * const OcRadiusXxl = 32;
 NSString * const OcRadiusRound = 50;
 NSString * const OcColorRed50 = [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f];
 NSString * const OcColorRed75 = [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f];
@@ -86,27 +89,27 @@ NSString * const OcSpacingLg = 24;
 NSString * const OcSpacingXl = 32;
 NSString * const OcSpacingXxl = 48;
 NSString * const OcSpacingXxxl = 64;
+NSString * const OcBorderWidth1 = 1;
+NSString * const OcBorderWidth2 = 2;
+NSString * const OcBorderWidth3 = 3;
+NSString * const OcBorderWidth4 = 4;
+NSString * const OcBorderWidth5 = 5;
 NSString * const OcBorderWidthNone = 0;
-NSString * const OcBorderWidthDefault = 1;
-NSString * const OcBorderWidthXs = 2;
-NSString * const OcBorderWidthSm = 3;
-NSString * const OcBorderWidthMd = 4;
-NSString * const OcBorderWidthLg = 5;
 NSString * const OcOpacity25 = 25%;
 NSString * const OcOpacity50 = 50%;
 NSString * const OcOpacity75 = 75%;
 NSString * const OcOpacity100 = 100%;
 NSString * const OcOpacityNone = none;
 NSString * const OcFontFamilyInter = inter;
-NSString * const OcFontWeight100 = 100;
-NSString * const OcFontWeight200 = 200;
-NSString * const OcFontWeight300 = 300;
-NSString * const OcFontWeight400 = 400;
-NSString * const OcFontWeight500 = 500;
-NSString * const OcFontWeight600 = 600;
-NSString * const OcFontWeight700 = 700;
-NSString * const OcFontWeight800 = 800;
-NSString * const OcFontWeight900 = 900;
+NSString * const OcFontWeight100 = Thin;
+NSString * const OcFontWeight200 = Extra Light;
+NSString * const OcFontWeight300 = Light;
+NSString * const OcFontWeight400 = Regular;
+NSString * const OcFontWeight500 = Medium;
+NSString * const OcFontWeight600 = Semi Bold;
+NSString * const OcFontWeight700 = Bold;
+NSString * const OcFontWeight800 = Extra Bold;
+NSString * const OcFontWeight900 = Black;
 NSString * const OcLineHeight120 = 120%;
 NSString * const OcLineHeight130 = 130%;
 NSString * const OcLineHeight140 = 140%;
@@ -261,6 +264,24 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcRadiusMd",
     @"category": @"radius",
     @"type": @"md"
+  },
+@{
+  @"value": 16,
+  @"name": @"OcRadiusLg",
+    @"category": @"radius",
+    @"type": @"lg"
+  },
+@{
+  @"value": 24,
+  @"name": @"OcRadiusXl",
+    @"category": @"radius",
+    @"type": @"xl"
+  },
+@{
+  @"value": 32,
+  @"name": @"OcRadiusXxl",
+    @"category": @"radius",
+    @"type": @"xxl"
   },
 @{
   @"value": 50,
@@ -757,40 +778,40 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"xxxl"
   },
 @{
+  @"value": 1,
+  @"name": @"OcBorderWidth1",
+    @"category": @"borderWidth",
+    @"type": @"1"
+  },
+@{
+  @"value": 2,
+  @"name": @"OcBorderWidth2",
+    @"category": @"borderWidth",
+    @"type": @"2"
+  },
+@{
+  @"value": 3,
+  @"name": @"OcBorderWidth3",
+    @"category": @"borderWidth",
+    @"type": @"3"
+  },
+@{
+  @"value": 4,
+  @"name": @"OcBorderWidth4",
+    @"category": @"borderWidth",
+    @"type": @"4"
+  },
+@{
+  @"value": 5,
+  @"name": @"OcBorderWidth5",
+    @"category": @"borderWidth",
+    @"type": @"5"
+  },
+@{
   @"value": 0,
   @"name": @"OcBorderWidthNone",
     @"category": @"borderWidth",
     @"type": @"none"
-  },
-@{
-  @"value": 1,
-  @"name": @"OcBorderWidthDefault",
-    @"category": @"borderWidth",
-    @"type": @"default"
-  },
-@{
-  @"value": 2,
-  @"name": @"OcBorderWidthXs",
-    @"category": @"borderWidth",
-    @"type": @"xs"
-  },
-@{
-  @"value": 3,
-  @"name": @"OcBorderWidthSm",
-    @"category": @"borderWidth",
-    @"type": @"sm"
-  },
-@{
-  @"value": 4,
-  @"name": @"OcBorderWidthMd",
-    @"category": @"borderWidth",
-    @"type": @"md"
-  },
-@{
-  @"value": 5,
-  @"name": @"OcBorderWidthLg",
-    @"category": @"borderWidth",
-    @"type": @"lg"
   },
 @{
   @"value": 25%,
@@ -829,55 +850,55 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"inter"
   },
 @{
-  @"value": 100,
+  @"value": Thin,
   @"name": @"OcFontWeight100",
     @"category": @"fontWeight",
     @"type": @"100"
   },
 @{
-  @"value": 200,
+  @"value": Extra Light,
   @"name": @"OcFontWeight200",
     @"category": @"fontWeight",
     @"type": @"200"
   },
 @{
-  @"value": 300,
+  @"value": Light,
   @"name": @"OcFontWeight300",
     @"category": @"fontWeight",
     @"type": @"300"
   },
 @{
-  @"value": 400,
+  @"value": Regular,
   @"name": @"OcFontWeight400",
     @"category": @"fontWeight",
     @"type": @"400"
   },
 @{
-  @"value": 500,
+  @"value": Medium,
   @"name": @"OcFontWeight500",
     @"category": @"fontWeight",
     @"type": @"500"
   },
 @{
-  @"value": 600,
+  @"value": Semi Bold,
   @"name": @"OcFontWeight600",
     @"category": @"fontWeight",
     @"type": @"600"
   },
 @{
-  @"value": 700,
+  @"value": Bold,
   @"name": @"OcFontWeight700",
     @"category": @"fontWeight",
     @"type": @"700"
   },
 @{
-  @"value": 800,
+  @"value": Extra Bold,
   @"name": @"OcFontWeight800",
     @"category": @"fontWeight",
     @"type": @"800"
   },
 @{
-  @"value": 900,
+  @"value": Black,
   @"name": @"OcFontWeight900",
     @"category": @"fontWeight",
     @"type": @"900"

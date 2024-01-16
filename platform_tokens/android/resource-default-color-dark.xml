@@ -2,13 +2,16 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 16 Jan 2024 13:14:39 GMT
+  Generated on Tue, 16 Jan 2024 13:28:07 GMT
 -->
 <resources>
   <string name="oc_radius_none">0</string>
   <string name="oc_radius_xs">2</string>
   <string name="oc_radius_sm">4</string>
   <string name="oc_radius_md">8</string>
+  <string name="oc_radius_lg">16</string>
+  <string name="oc_radius_xl">24</string>
+  <string name="oc_radius_xxl">32</string>
   <string name="oc_radius_round">50</string>
   <color name="oc_color_red_50">#fff9e9e7</color>
   <color name="oc_color_red_75">#ffe6a49d</color>
@@ -81,27 +84,27 @@
   <string name="oc_spacing_xl">32</string>
   <string name="oc_spacing_xxl">48</string>
   <string name="oc_spacing_xxxl">64</string>
+  <string name="oc_border_width_1">1</string>
+  <string name="oc_border_width_2">2</string>
+  <string name="oc_border_width_3">3</string>
+  <string name="oc_border_width_4">4</string>
+  <string name="oc_border_width_5">5</string>
   <string name="oc_border_width_none">0</string>
-  <string name="oc_border_width_default">1</string>
-  <string name="oc_border_width_xs">2</string>
-  <string name="oc_border_width_sm">3</string>
-  <string name="oc_border_width_md">4</string>
-  <string name="oc_border_width_lg">5</string>
   <string name="oc_opacity_25">25%</string>
   <string name="oc_opacity_50">50%</string>
   <string name="oc_opacity_75">75%</string>
   <string name="oc_opacity_100">100%</string>
   <string name="oc_opacity_none">none</string>
   <string name="oc_font_family_inter">inter</string>
-  <string name="oc_font_weight_100">100</string>
-  <string name="oc_font_weight_200">200</string>
-  <string name="oc_font_weight_300">300</string>
-  <string name="oc_font_weight_400">400</string>
-  <string name="oc_font_weight_500">500</string>
-  <string name="oc_font_weight_600">600</string>
-  <string name="oc_font_weight_700">700</string>
-  <string name="oc_font_weight_800">800</string>
-  <string name="oc_font_weight_900">900</string>
+  <string name="oc_font_weight_100">Thin</string>
+  <string name="oc_font_weight_200">Extra Light</string>
+  <string name="oc_font_weight_300">Light</string>
+  <string name="oc_font_weight_400">Regular</string>
+  <string name="oc_font_weight_500">Medium</string>
+  <string name="oc_font_weight_600">Semi Bold</string>
+  <string name="oc_font_weight_700">Bold</string>
+  <string name="oc_font_weight_800">Extra Bold</string>
+  <string name="oc_font_weight_900">Black</string>
   <string name="oc_line_height_120">120%</string>
   <string name="oc_line_height_130">130%</string>
   <string name="oc_line_height_140">140%</string>

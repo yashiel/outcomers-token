@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -14,6 +14,9 @@ extern NSString * const OcRadiusNone;
 extern NSString * const OcRadiusXs;
 extern NSString * const OcRadiusSm;
 extern NSString * const OcRadiusMd;
+extern NSString * const OcRadiusLg;
+extern NSString * const OcRadiusXl;
+extern NSString * const OcRadiusXxl;
 extern NSString * const OcRadiusRound;
 extern NSString * const OcColorRed50;
 extern NSString * const OcColorRed75;
@@ -86,12 +89,12 @@ extern NSString * const OcSpacingLg;
 extern NSString * const OcSpacingXl;
 extern NSString * const OcSpacingXxl;
 extern NSString * const OcSpacingXxxl;
+extern NSString * const OcBorderWidth1;
+extern NSString * const OcBorderWidth2;
+extern NSString * const OcBorderWidth3;
+extern NSString * const OcBorderWidth4;
+extern NSString * const OcBorderWidth5;
 extern NSString * const OcBorderWidthNone;
-extern NSString * const OcBorderWidthDefault;
-extern NSString * const OcBorderWidthXs;
-extern NSString * const OcBorderWidthSm;
-extern NSString * const OcBorderWidthMd;
-extern NSString * const OcBorderWidthLg;
 extern NSString * const OcOpacity25;
 extern NSString * const OcOpacity50;
 extern NSString * const OcOpacity75;

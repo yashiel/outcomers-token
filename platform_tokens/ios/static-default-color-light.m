@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import ".h"
@@ -14,6 +14,9 @@
  const OcRadiusXs = 2;
  const OcRadiusSm = 4;
  const OcRadiusMd = 8;
+ const OcRadiusLg = 16;
+ const OcRadiusXl = 24;
+ const OcRadiusXxl = 32;
  const OcRadiusRound = 50;
  const OcColorRed50 = [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f];
  const OcColorRed75 = [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f];
@@ -86,27 +89,27 @@
  const OcSpacingXl = 32;
  const OcSpacingXxl = 48;
  const OcSpacingXxxl = 64;
+ const OcBorderWidth1 = 1;
+ const OcBorderWidth2 = 2;
+ const OcBorderWidth3 = 3;
+ const OcBorderWidth4 = 4;
+ const OcBorderWidth5 = 5;
  const OcBorderWidthNone = 0;
- const OcBorderWidthDefault = 1;
- const OcBorderWidthXs = 2;
- const OcBorderWidthSm = 3;
- const OcBorderWidthMd = 4;
- const OcBorderWidthLg = 5;
  const OcOpacity25 = 25%;
  const OcOpacity50 = 50%;
  const OcOpacity75 = 75%;
  const OcOpacity100 = 100%;
  const OcOpacityNone = none;
  const OcFontFamilyInter = inter;
- const OcFontWeight100 = 100;
- const OcFontWeight200 = 200;
- const OcFontWeight300 = 300;
- const OcFontWeight400 = 400;
- const OcFontWeight500 = 500;
- const OcFontWeight600 = 600;
- const OcFontWeight700 = 700;
- const OcFontWeight800 = 800;
- const OcFontWeight900 = 900;
+ const OcFontWeight100 = Thin;
+ const OcFontWeight200 = Extra Light;
+ const OcFontWeight300 = Light;
+ const OcFontWeight400 = Regular;
+ const OcFontWeight500 = Medium;
+ const OcFontWeight600 = Semi Bold;
+ const OcFontWeight700 = Bold;
+ const OcFontWeight800 = Extra Bold;
+ const OcFontWeight900 = Black;
  const OcLineHeight120 = 120%;
  const OcLineHeight130 = 130%;
  const OcLineHeight140 = 140%;

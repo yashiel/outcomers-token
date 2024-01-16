@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Jan 2024 13:14:39 GMT
+// Generated on Tue, 16 Jan 2024 13:28:07 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -14,6 +14,9 @@
 #define OcRadiusXs 2
 #define OcRadiusSm 4
 #define OcRadiusMd 8
+#define OcRadiusLg 16
+#define OcRadiusXl 24
+#define OcRadiusXxl 32
 #define OcRadiusRound 50
 #define OcColorRed50 [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f]
 #define OcColorRed75 [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f]
@@ -86,27 +89,27 @@
 #define OcSpacingXl 32
 #define OcSpacingXxl 48
 #define OcSpacingXxxl 64
+#define OcBorderWidth1 1
+#define OcBorderWidth2 2
+#define OcBorderWidth3 3
+#define OcBorderWidth4 4
+#define OcBorderWidth5 5
 #define OcBorderWidthNone 0
-#define OcBorderWidthDefault 1
-#define OcBorderWidthXs 2
-#define OcBorderWidthSm 3
-#define OcBorderWidthMd 4
-#define OcBorderWidthLg 5
 #define OcOpacity25 25%
 #define OcOpacity50 50%
 #define OcOpacity75 75%
 #define OcOpacity100 100%
 #define OcOpacityNone none
 #define OcFontFamilyInter inter
-#define OcFontWeight100 100
-#define OcFontWeight200 200
-#define OcFontWeight300 300
-#define OcFontWeight400 400
-#define OcFontWeight500 500
-#define OcFontWeight600 600
-#define OcFontWeight700 700
-#define OcFontWeight800 800
-#define OcFontWeight900 900
+#define OcFontWeight100 Thin
+#define OcFontWeight200 Extra Light
+#define OcFontWeight300 Light
+#define OcFontWeight400 Regular
+#define OcFontWeight500 Medium
+#define OcFontWeight600 Semi Bold
+#define OcFontWeight700 Bold
+#define OcFontWeight800 Extra Bold
+#define OcFontWeight900 Black
 #define OcLineHeight120 120%
 #define OcLineHeight130 130%
 #define OcLineHeight140 140%
