@@ -67,8 +67,7 @@
       "black.black": "S:ba3569b079e9453e06b89e9bbfd03f1e4c8e408e,"
     },
     "selectedTokenSets": {
-      "brand/default": "enabled",
-      "alias/color": "disabled"
+      "brand/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:760",
     "$figmaModeId": "99:10",
