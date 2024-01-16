@@ -159,8 +159,7 @@
     "error": {
       "default": {
         "value": "{color.red.300}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "dark": {
         "value": "{color.red.400}",
