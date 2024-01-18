@@ -1,9 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Jan 2024 03:03:28 GMT
+ * Generated on Thu, 18 Jan 2024 03:15:52 GMT
  */
 
 :root {
+  --oc-letter-spacing-30: 0.3em;
+  --oc-letter-spacing-20: 0.2em;
+  --oc-letter-spacing-10: 0.1em;
+  --oc-letter-spacing-5: 0.05em;
   --oc-sizing-64: 64px;
   --oc-sizing-60: 60px;
   --oc-sizing-56: 56px;

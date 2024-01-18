@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 #import ".h"
@@ -204,6 +204,10 @@ Black,
 56,
 60,
 64,
+5%,
+10%,
+20%,
+30%,
 [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
 [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
 [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],

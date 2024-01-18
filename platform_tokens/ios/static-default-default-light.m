@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 #import ".h"
@@ -193,6 +193,10 @@
  const OcSizing56 = 56;
  const OcSizing60 = 60;
  const OcSizing64 = 64;
+ const OcLetterSpacing5 = 5%;
+ const OcLetterSpacing10 = 10%;
+ const OcLetterSpacing20 = 20%;
+ const OcLetterSpacing30 = 30%;
  const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

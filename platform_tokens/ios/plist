@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Thu, 18 Jan 2024 03:03:29 GMT
+  Generated on Thu, 18 Jan 2024 03:15:52 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1548,6 +1548,18 @@
     <key>OcSizing64</key>
     </dict>
       <string>64</string>
+    <key>OcLetterSpacing5</key>
+    </dict>
+      <string>5%</string>
+    <key>OcLetterSpacing10</key>
+    </dict>
+      <string>10%</string>
+    <key>OcLetterSpacing20</key>
+    </dict>
+      <string>20%</string>
+    <key>OcLetterSpacing30</key>
+    </dict>
+      <string>30%</string>
     <key>OcTextHeading</key>
     </dict>
       <string>[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]</string>

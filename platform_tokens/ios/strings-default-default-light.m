@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 #import ".h"
@@ -193,6 +193,10 @@ NSString * const OcSizing52 = 52;
 NSString * const OcSizing56 = 56;
 NSString * const OcSizing60 = 60;
 NSString * const OcSizing64 = 64;
+NSString * const OcLetterSpacing5 = 5%;
+NSString * const OcLetterSpacing10 = 10%;
+NSString * const OcLetterSpacing20 = 20%;
+NSString * const OcLetterSpacing30 = 30%;
 NSString * const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -1462,6 +1466,30 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcSizing64",
     @"category": @"sizing",
     @"type": @"64"
+  },
+@{
+  @"value": 5%,
+  @"name": @"OcLetterSpacing5",
+    @"category": @"letterSpacing",
+    @"type": @"5"
+  },
+@{
+  @"value": 10%,
+  @"name": @"OcLetterSpacing10",
+    @"category": @"letterSpacing",
+    @"type": @"10"
+  },
+@{
+  @"value": 20%,
+  @"name": @"OcLetterSpacing20",
+    @"category": @"letterSpacing",
+    @"type": @"20"
+  },
+@{
+  @"value": 30%,
+  @"name": @"OcLetterSpacing30",
+    @"category": @"letterSpacing",
+    @"type": @"30"
   },
 @{
   @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],

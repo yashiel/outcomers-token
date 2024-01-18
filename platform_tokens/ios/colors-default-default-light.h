@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -193,6 +193,10 @@ OcSizing52,
 OcSizing56,
 OcSizing60,
 OcSizing64,
+OcLetterSpacing5,
+OcLetterSpacing10,
+OcLetterSpacing20,
+OcLetterSpacing30,
 OcTextHeading,
 OcTextBody,
 OcTextAction,

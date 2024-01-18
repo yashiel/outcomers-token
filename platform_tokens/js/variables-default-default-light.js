@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Jan 2024 03:03:28 GMT
+ * Generated on Thu, 18 Jan 2024 03:15:52 GMT
  */
 
 export const ocRadiusNone = "0";
@@ -186,6 +186,10 @@ export const ocSizing52 = "52px";
 export const ocSizing56 = "56px";
 export const ocSizing60 = "60px";
 export const ocSizing64 = "64px";
+export const ocLetterSpacing5 = "0.05em";
+export const ocLetterSpacing10 = "0.1em";
+export const ocLetterSpacing20 = "0.2em";
+export const ocLetterSpacing30 = "0.3em";
 export const ocTextHeading = "#111111";
 export const ocTextBody = "#111111";
 export const ocTextAction = "#ffffff";

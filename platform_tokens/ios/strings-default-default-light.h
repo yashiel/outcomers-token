@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -193,6 +193,10 @@ extern NSString * const OcSizing52;
 extern NSString * const OcSizing56;
 extern NSString * const OcSizing60;
 extern NSString * const OcSizing64;
+extern NSString * const OcLetterSpacing5;
+extern NSString * const OcLetterSpacing10;
+extern NSString * const OcLetterSpacing20;
+extern NSString * const OcLetterSpacing30;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

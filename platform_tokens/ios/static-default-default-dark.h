@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -192,6 +192,10 @@ extern  const OcSizing52;
 extern  const OcSizing56;
 extern  const OcSizing60;
 extern  const OcSizing64;
+extern  const OcLetterSpacing5;
+extern  const OcLetterSpacing10;
+extern  const OcLetterSpacing20;
+extern  const OcLetterSpacing30;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

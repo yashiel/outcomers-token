@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 18 Jan 2024 03:03:29 GMT
+  Generated on Thu, 18 Jan 2024 03:15:52 GMT
 -->
 <resources>
   <string name="oc_radius_none">0</string>
@@ -188,6 +188,10 @@
   <string name="oc_sizing_56">56</string>
   <string name="oc_sizing_60">60</string>
   <string name="oc_sizing_64">64</string>
+  <string name="oc_letter_spacing_5">5%</string>
+  <string name="oc_letter_spacing_10">10%</string>
+  <string name="oc_letter_spacing_20">20%</string>
+  <string name="oc_letter_spacing_30">30%</string>
   <string name="oc_text_heading">#ffffffff</string>
   <string name="oc_text_body">#ffffffff</string>
   <string name="oc_text_action">#ffffffff</string>

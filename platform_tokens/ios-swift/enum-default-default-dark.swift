@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 import UIKit
@@ -166,6 +166,10 @@ public enum  {
     public static let ocIconPrimary = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
+    public static let ocLetterSpacing10 = 10%
+    public static let ocLetterSpacing20 = 20%
+    public static let ocLetterSpacing30 = 30%
+    public static let ocLetterSpacing5 = 5%
     public static let ocLineHeight120 = 120%
     public static let ocLineHeight130 = 130%
     public static let ocLineHeight140 = 140%

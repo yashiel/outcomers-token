@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 03:03:29 GMT
+// Generated on Thu, 18 Jan 2024 03:15:52 GMT
 
 
 #import ".h"
@@ -1297,6 +1297,32 @@
       @"name": @"OcSizing64",
       @"category": @"sizing",
       @"type": @"64"
+      }
+    },
+  @"letterSpacing": @{
+    @"5": @{
+      @"value": 5%,
+      @"name": @"OcLetterSpacing5",
+      @"category": @"letterSpacing",
+      @"type": @"5"
+      },
+    @"10": @{
+      @"value": 10%,
+      @"name": @"OcLetterSpacing10",
+      @"category": @"letterSpacing",
+      @"type": @"10"
+      },
+    @"20": @{
+      @"value": 20%,
+      @"name": @"OcLetterSpacing20",
+      @"category": @"letterSpacing",
+      @"type": @"20"
+      },
+    @"30": @{
+      @"value": 30%,
+      @"name": @"OcLetterSpacing30",
+      @"category": @"letterSpacing",
+      @"type": @"30"
       }
     },
   @"text": @{
