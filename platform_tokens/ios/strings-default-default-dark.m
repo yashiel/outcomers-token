@@ -4,20 +4,20 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 04:43:43 GMT
+// Generated on Fri, 19 Jan 2024 08:03:53 GMT
 
 
 #import ".h"
 
 
-NSString * const OcRadiusNone = 0;
-NSString * const OcRadiusXs = 2;
-NSString * const OcRadiusSm = 4;
-NSString * const OcRadiusMd = 8;
-NSString * const OcRadiusLg = 16;
-NSString * const OcRadiusXl = 24;
-NSString * const OcRadiusXxl = 32;
-NSString * const OcRadiusRound = 50;
+NSString * const OcRadius0 = 0;
+NSString * const OcRadius2 = 2;
+NSString * const OcRadius4 = 4;
+NSString * const OcRadius8 = 8;
+NSString * const OcRadius16 = 16;
+NSString * const OcRadius24 = 24;
+NSString * const OcRadius32 = 32;
+NSString * const OcRadius50 = 50;
 NSString * const OcColorRed50 = [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f];
 NSString * const OcColorRed75 = [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f];
 NSString * const OcColorRed100 = [UIColor colorWithRed:0.863f green:0.494f blue:0.455f alpha:1.000f];
@@ -157,6 +157,9 @@ NSString * const OcBorderWidth3 = 3;
 NSString * const OcBorderWidth4 = 4;
 NSString * const OcBorderWidth5 = 5;
 NSString * const OcBorderWidthNone = 0;
+NSString * const OcBorderWidthM1 = 0.5;
+NSString * const OcBorderWidthM2 = 1.5;
+NSString * const OcBorderWidthM3 = 2.5;
 NSString * const OcOpacity25 = 25%;
 NSString * const OcOpacity50 = 50%;
 NSString * const OcOpacity75 = 75%;
@@ -172,7 +175,7 @@ NSString * const OcFontWeight600 = Semi Bold;
 NSString * const OcFontWeight700 = Bold;
 NSString * const OcFontWeight800 = Extra Bold;
 NSString * const OcFontWeight900 = Black;
-NSString * const OcLineHeight120 = 120%;
+NSString * const OcLineHeight110 = 110%;
 NSString * const OcLineHeight130 = 130%;
 NSString * const OcLineHeight140 = 140%;
 NSString * const OcLineHeight150 = 150%;
@@ -193,10 +196,32 @@ NSString * const OcSizing52 = 52;
 NSString * const OcSizing56 = 56;
 NSString * const OcSizing60 = 60;
 NSString * const OcSizing64 = 64;
-NSString * const OcLetterSpacing5 = 5%;
-NSString * const OcLetterSpacing10 = 10%;
-NSString * const OcLetterSpacing20 = 20%;
-NSString * const OcLetterSpacing30 = 30%;
+NSString * const OcLetterSpacing0 = 0%;
+NSString * const OcLetterSpacing1 = 1%;
+NSString * const OcLetterSpacing2 = -2.5%;
+NSString * const OcLetterSpacing3 = -2%;
+NSString * const OcLetterSpacing4 = 2%;
+NSString * const OcFontSize12 = 12;
+NSString * const OcFontSize16 = 16;
+NSString * const OcFontSize20 = 20;
+NSString * const OcFontSize24 = 24;
+NSString * const OcFontSize32 = 32;
+NSString * const OcFontSize40 = 40;
+NSString * const OcFontSize48 = 48;
+NSString * const OcFontSize60 = 60;
+NSString * const OcFontSize76 = 76;
+NSString * const OcFontSize92 = 92;
+NSString * const OcTextCaseUppercase = uppercase;
+NSString * const OcTextCaseNone = none;
+NSString * const OcTextCaseLowercase = lowercase;
+NSString * const OcTextCaseCapitalize = capitalize;
+NSString * const OcParagaphSpacing4 = 4;
+NSString * const OcParagaphSpacing8 = 8;
+NSString * const OcParagaphSpacing12 = 12;
+NSString * const OcParagaphSpacing16 = 16;
+NSString * const OcTextDecorationNone = none;
+NSString * const OcTextDecorationUnderline = underline;
+NSString * const OcTextDecorationLineThrough = line-through;
 NSString * const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -247,51 +272,51 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     array = @[
       @{
   @"value": 0,
-  @"name": @"OcRadiusNone",
+  @"name": @"OcRadius0",
     @"category": @"radius",
-    @"type": @"none"
+    @"type": @"0"
   },
 @{
   @"value": 2,
-  @"name": @"OcRadiusXs",
+  @"name": @"OcRadius2",
     @"category": @"radius",
-    @"type": @"xs"
+    @"type": @"2"
   },
 @{
   @"value": 4,
-  @"name": @"OcRadiusSm",
+  @"name": @"OcRadius4",
     @"category": @"radius",
-    @"type": @"sm"
+    @"type": @"4"
   },
 @{
   @"value": 8,
-  @"name": @"OcRadiusMd",
+  @"name": @"OcRadius8",
     @"category": @"radius",
-    @"type": @"md"
+    @"type": @"8"
   },
 @{
   @"value": 16,
-  @"name": @"OcRadiusLg",
+  @"name": @"OcRadius16",
     @"category": @"radius",
-    @"type": @"lg"
+    @"type": @"16"
   },
 @{
   @"value": 24,
-  @"name": @"OcRadiusXl",
+  @"name": @"OcRadius24",
     @"category": @"radius",
-    @"type": @"xl"
+    @"type": @"24"
   },
 @{
   @"value": 32,
-  @"name": @"OcRadiusXxl",
+  @"name": @"OcRadius32",
     @"category": @"radius",
-    @"type": @"xxl"
+    @"type": @"32"
   },
 @{
   @"value": 50,
-  @"name": @"OcRadiusRound",
+  @"name": @"OcRadius50",
     @"category": @"radius",
-    @"type": @"round"
+    @"type": @"50"
   },
 @{
   @"value": [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f],
@@ -1252,6 +1277,24 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"none"
   },
 @{
+  @"value": 0.5,
+  @"name": @"OcBorderWidthM1",
+    @"category": @"borderWidth",
+    @"type": @"m1"
+  },
+@{
+  @"value": 1.5,
+  @"name": @"OcBorderWidthM2",
+    @"category": @"borderWidth",
+    @"type": @"m2"
+  },
+@{
+  @"value": 2.5,
+  @"name": @"OcBorderWidthM3",
+    @"category": @"borderWidth",
+    @"type": @"m3"
+  },
+@{
   @"value": 25%,
   @"name": @"OcOpacity25",
     @"category": @"opacity",
@@ -1342,10 +1385,10 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"900"
   },
 @{
-  @"value": 120%,
-  @"name": @"OcLineHeight120",
+  @"value": 110%,
+  @"name": @"OcLineHeight110",
     @"category": @"lineHeight",
-    @"type": @"120"
+    @"type": @"110"
   },
 @{
   @"value": 130%,
@@ -1468,28 +1511,160 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"64"
   },
 @{
-  @"value": 5%,
-  @"name": @"OcLetterSpacing5",
+  @"value": 0%,
+  @"name": @"OcLetterSpacing0",
     @"category": @"letterSpacing",
-    @"type": @"5"
+    @"type": @"0"
   },
 @{
-  @"value": 10%,
-  @"name": @"OcLetterSpacing10",
+  @"value": 1%,
+  @"name": @"OcLetterSpacing1",
     @"category": @"letterSpacing",
-    @"type": @"10"
+    @"type": @"1"
   },
 @{
-  @"value": 20%,
-  @"name": @"OcLetterSpacing20",
+  @"value": -2.5%,
+  @"name": @"OcLetterSpacing2",
     @"category": @"letterSpacing",
+    @"type": @"2"
+  },
+@{
+  @"value": -2%,
+  @"name": @"OcLetterSpacing3",
+    @"category": @"letterSpacing",
+    @"type": @"3"
+  },
+@{
+  @"value": 2%,
+  @"name": @"OcLetterSpacing4",
+    @"category": @"letterSpacing",
+    @"type": @"4"
+  },
+@{
+  @"value": 12,
+  @"name": @"OcFontSize12",
+    @"category": @"fontSize",
+    @"type": @"12"
+  },
+@{
+  @"value": 16,
+  @"name": @"OcFontSize16",
+    @"category": @"fontSize",
+    @"type": @"16"
+  },
+@{
+  @"value": 20,
+  @"name": @"OcFontSize20",
+    @"category": @"fontSize",
     @"type": @"20"
   },
 @{
-  @"value": 30%,
-  @"name": @"OcLetterSpacing30",
-    @"category": @"letterSpacing",
-    @"type": @"30"
+  @"value": 24,
+  @"name": @"OcFontSize24",
+    @"category": @"fontSize",
+    @"type": @"24"
+  },
+@{
+  @"value": 32,
+  @"name": @"OcFontSize32",
+    @"category": @"fontSize",
+    @"type": @"32"
+  },
+@{
+  @"value": 40,
+  @"name": @"OcFontSize40",
+    @"category": @"fontSize",
+    @"type": @"40"
+  },
+@{
+  @"value": 48,
+  @"name": @"OcFontSize48",
+    @"category": @"fontSize",
+    @"type": @"48"
+  },
+@{
+  @"value": 60,
+  @"name": @"OcFontSize60",
+    @"category": @"fontSize",
+    @"type": @"60"
+  },
+@{
+  @"value": 76,
+  @"name": @"OcFontSize76",
+    @"category": @"fontSize",
+    @"type": @"76"
+  },
+@{
+  @"value": 92,
+  @"name": @"OcFontSize92",
+    @"category": @"fontSize",
+    @"type": @"92"
+  },
+@{
+  @"value": uppercase,
+  @"name": @"OcTextCaseUppercase",
+    @"category": @"textCase",
+    @"type": @"uppercase"
+  },
+@{
+  @"value": none,
+  @"name": @"OcTextCaseNone",
+    @"category": @"textCase",
+    @"type": @"none"
+  },
+@{
+  @"value": lowercase,
+  @"name": @"OcTextCaseLowercase",
+    @"category": @"textCase",
+    @"type": @"lowercase"
+  },
+@{
+  @"value": capitalize,
+  @"name": @"OcTextCaseCapitalize",
+    @"category": @"textCase",
+    @"type": @"capitalize"
+  },
+@{
+  @"value": 4,
+  @"name": @"OcParagaphSpacing4",
+    @"category": @"paragaphSpacing",
+    @"type": @"4"
+  },
+@{
+  @"value": 8,
+  @"name": @"OcParagaphSpacing8",
+    @"category": @"paragaphSpacing",
+    @"type": @"8"
+  },
+@{
+  @"value": 12,
+  @"name": @"OcParagaphSpacing12",
+    @"category": @"paragaphSpacing",
+    @"type": @"12"
+  },
+@{
+  @"value": 16,
+  @"name": @"OcParagaphSpacing16",
+    @"category": @"paragaphSpacing",
+    @"type": @"16"
+  },
+@{
+  @"value": none,
+  @"name": @"OcTextDecorationNone",
+    @"category": @"textDecoration",
+    @"type": @"none"
+  },
+@{
+  @"value": underline,
+  @"name": @"OcTextDecorationUnderline",
+    @"category": @"textDecoration",
+    @"type": @"underline"
+  },
+@{
+  @"value": line-through,
+  @"name": @"OcTextDecorationLineThrough",
+    @"category": @"textDecoration",
+    @"type": @"line-through"
   },
 @{
   @"value": [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],

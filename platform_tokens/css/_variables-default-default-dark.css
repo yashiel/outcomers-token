@@ -1,13 +1,35 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Jan 2024 04:43:43 GMT
+ * Generated on Fri, 19 Jan 2024 08:03:53 GMT
  */
 
 :root {
-  --oc-letter-spacing-30: 0.3em;
-  --oc-letter-spacing-20: 0.2em;
-  --oc-letter-spacing-10: 0.1em;
-  --oc-letter-spacing-5: 0.05em;
+  --oc-text-decoration-line-through: line-through;
+  --oc-text-decoration-underline: underline;
+  --oc-text-decoration-none: none;
+  --oc-paragaph-spacing-16: 16;
+  --oc-paragaph-spacing-12: 12;
+  --oc-paragaph-spacing-8: 8;
+  --oc-paragaph-spacing-4: 4;
+  --oc-text-case-capitalize: capitalize;
+  --oc-text-case-lowercase: lowercase;
+  --oc-text-case-none: none;
+  --oc-text-case-uppercase: uppercase;
+  --oc-font-size-92: 5.75rem;
+  --oc-font-size-76: 4.75rem;
+  --oc-font-size-60: 3.75rem;
+  --oc-font-size-48: 3rem;
+  --oc-font-size-40: 2.5rem;
+  --oc-font-size-32: 2rem;
+  --oc-font-size-24: 1.5rem;
+  --oc-font-size-20: 1.25rem;
+  --oc-font-size-16: 1rem;
+  --oc-font-size-12: 0.75rem;
+  --oc-letter-spacing-4: 0.02em;
+  --oc-letter-spacing-3: -0.02em;
+  --oc-letter-spacing-2: -0.025em;
+  --oc-letter-spacing-1: 0.01em;
+  --oc-letter-spacing-0: 0em;
   --oc-sizing-64: 64px;
   --oc-sizing-60: 60px;
   --oc-sizing-56: 56px;
@@ -28,7 +50,7 @@
   --oc-line-height-150: 1.5;
   --oc-line-height-140: 1.4;
   --oc-line-height-130: 1.3;
-  --oc-line-height-120: 1.2;
+  --oc-line-height-110: 1.1;
   --oc-font-weight-900: 900;
   --oc-font-weight-800: Extra Bold;
   --oc-font-weight-700: 700;
@@ -44,6 +66,9 @@
   --oc-opacity-75: 0.75;
   --oc-opacity-50: 0.5;
   --oc-opacity-25: 0.25;
+  --oc-border-width-m3: 2.5px;
+  --oc-border-width-m2: 1.5px;
+  --oc-border-width-m1: 0.5px;
   --oc-border-width-none: 0;
   --oc-border-width-5: 5px;
   --oc-border-width-4: 4px;
@@ -121,14 +146,14 @@
   --oc-color-red-100: #dc7e74;
   --oc-color-red-75: #e6a49d;
   --oc-color-red-50: #f9e9e7;
-  --oc-radius-round: 50px;
-  --oc-radius-xxl: 32px;
-  --oc-radius-xl: 24px;
-  --oc-radius-lg: 16px;
-  --oc-radius-md: 8px;
-  --oc-radius-sm: 4px;
-  --oc-radius-xs: 2px;
-  --oc-radius-none: 0;
+  --oc-radius-50: 50px;
+  --oc-radius-32: 32px;
+  --oc-radius-24: 24px;
+  --oc-radius-16: 16px;
+  --oc-radius-8: 8px;
+  --oc-radius-4: 4px;
+  --oc-radius-2: 2px;
+  --oc-radius-0: 0;
   --oc-color-neutral-white: var(--oc-color-white-white);
   --oc-color-neutral-black: var(--oc-color-black-black);
   --oc-color-neutral-900: var(--oc-color-gray-900);

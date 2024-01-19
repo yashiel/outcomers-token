@@ -3,32 +3,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Thu, 18 Jan 2024 04:43:43 GMT
+  Generated on Fri, 19 Jan 2024 08:03:53 GMT
 -->
 <plist version="1.0">
   <dict>
-    <key>OcRadiusNone</key>
+    <key>OcRadius0</key>
     </dict>
       <string>0</string>
-    <key>OcRadiusXs</key>
+    <key>OcRadius2</key>
     </dict>
       <string>2</string>
-    <key>OcRadiusSm</key>
+    <key>OcRadius4</key>
     </dict>
       <string>4</string>
-    <key>OcRadiusMd</key>
+    <key>OcRadius8</key>
     </dict>
       <string>8</string>
-    <key>OcRadiusLg</key>
+    <key>OcRadius16</key>
     </dict>
       <string>16</string>
-    <key>OcRadiusXl</key>
+    <key>OcRadius24</key>
     </dict>
       <string>24</string>
-    <key>OcRadiusXxl</key>
+    <key>OcRadius32</key>
     </dict>
       <string>32</string>
-    <key>OcRadiusRound</key>
+    <key>OcRadius50</key>
     </dict>
       <string>50</string>
     <key>OcColorRed50</key>
@@ -1440,6 +1440,15 @@
     <key>OcBorderWidthNone</key>
     </dict>
       <string>0</string>
+    <key>OcBorderWidthM1</key>
+    </dict>
+      <string>0.5</string>
+    <key>OcBorderWidthM2</key>
+    </dict>
+      <string>1.5</string>
+    <key>OcBorderWidthM3</key>
+    </dict>
+      <string>2.5</string>
     <key>OcOpacity25</key>
     </dict>
       <string>25%</string>
@@ -1485,9 +1494,9 @@
     <key>OcFontWeight900</key>
     </dict>
       <string>Black</string>
-    <key>OcLineHeight120</key>
+    <key>OcLineHeight110</key>
     </dict>
-      <string>120%</string>
+      <string>110%</string>
     <key>OcLineHeight130</key>
     </dict>
       <string>130%</string>
@@ -1548,18 +1557,84 @@
     <key>OcSizing64</key>
     </dict>
       <string>64</string>
-    <key>OcLetterSpacing5</key>
+    <key>OcLetterSpacing0</key>
     </dict>
-      <string>5%</string>
-    <key>OcLetterSpacing10</key>
+      <string>0%</string>
+    <key>OcLetterSpacing1</key>
     </dict>
-      <string>10%</string>
-    <key>OcLetterSpacing20</key>
+      <string>1%</string>
+    <key>OcLetterSpacing2</key>
     </dict>
-      <string>20%</string>
-    <key>OcLetterSpacing30</key>
+      <string>-2.5%</string>
+    <key>OcLetterSpacing3</key>
     </dict>
-      <string>30%</string>
+      <string>-2%</string>
+    <key>OcLetterSpacing4</key>
+    </dict>
+      <string>2%</string>
+    <key>OcFontSize12</key>
+    </dict>
+      <string>12</string>
+    <key>OcFontSize16</key>
+    </dict>
+      <string>16</string>
+    <key>OcFontSize20</key>
+    </dict>
+      <string>20</string>
+    <key>OcFontSize24</key>
+    </dict>
+      <string>24</string>
+    <key>OcFontSize32</key>
+    </dict>
+      <string>32</string>
+    <key>OcFontSize40</key>
+    </dict>
+      <string>40</string>
+    <key>OcFontSize48</key>
+    </dict>
+      <string>48</string>
+    <key>OcFontSize60</key>
+    </dict>
+      <string>60</string>
+    <key>OcFontSize76</key>
+    </dict>
+      <string>76</string>
+    <key>OcFontSize92</key>
+    </dict>
+      <string>92</string>
+    <key>OcTextCaseUppercase</key>
+    </dict>
+      <string>uppercase</string>
+    <key>OcTextCaseNone</key>
+    </dict>
+      <string>none</string>
+    <key>OcTextCaseLowercase</key>
+    </dict>
+      <string>lowercase</string>
+    <key>OcTextCaseCapitalize</key>
+    </dict>
+      <string>capitalize</string>
+    <key>OcParagaphSpacing4</key>
+    </dict>
+      <string>4</string>
+    <key>OcParagaphSpacing8</key>
+    </dict>
+      <string>8</string>
+    <key>OcParagaphSpacing12</key>
+    </dict>
+      <string>12</string>
+    <key>OcParagaphSpacing16</key>
+    </dict>
+      <string>16</string>
+    <key>OcTextDecorationNone</key>
+    </dict>
+      <string>none</string>
+    <key>OcTextDecorationUnderline</key>
+    </dict>
+      <string>underline</string>
+    <key>OcTextDecorationLineThrough</key>
+    </dict>
+      <string>line-through</string>
     <key>OcTextHeading</key>
     </dict>
       <string>[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]</string>

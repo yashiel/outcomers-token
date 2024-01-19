@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 04:43:43 GMT
+// Generated on Fri, 19 Jan 2024 08:03:53 GMT
 
 
 import UIKit
@@ -26,6 +26,9 @@ public class  {
     public static let ocBorderWidth3 = 3
     public static let ocBorderWidth4 = 4
     public static let ocBorderWidth5 = 5
+    public static let ocBorderWidthM1 = 0.5
+    public static let ocBorderWidthM2 = 1.5
+    public static let ocBorderWidthM3 = 2.5
     public static let ocBorderWidthNone = 0
     public static let ocColorAccentDark = UIColor(red: 0.094, green: 0.400, blue: 0.451, alpha: 1)
     public static let ocColorAccentDarker = UIColor(red: 0.082, green: 0.349, blue: 0.392, alpha: 1)
@@ -152,6 +155,16 @@ public class  {
     public static let ocColorYellow500 = UIColor(red: 0.561, green: 0.420, blue: 0.039, alpha: 1)
     public static let ocColorYellow75 = UIColor(red: 0.965, green: 0.875, blue: 0.616, alpha: 1)
     public static let ocFontFamilyInter = inter
+    public static let ocFontSize12 = 12
+    public static let ocFontSize16 = 16
+    public static let ocFontSize20 = 20
+    public static let ocFontSize24 = 24
+    public static let ocFontSize32 = 32
+    public static let ocFontSize40 = 40
+    public static let ocFontSize48 = 48
+    public static let ocFontSize60 = 60
+    public static let ocFontSize76 = 76
+    public static let ocFontSize92 = 92
     public static let ocFontWeight100 = Thin
     public static let ocFontWeight200 = Extra Light
     public static let ocFontWeight300 = Light
@@ -166,11 +179,12 @@ public class  {
     public static let ocIconPrimary = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
-    public static let ocLetterSpacing10 = 10%
-    public static let ocLetterSpacing20 = 20%
-    public static let ocLetterSpacing30 = 30%
-    public static let ocLetterSpacing5 = 5%
-    public static let ocLineHeight120 = 120%
+    public static let ocLetterSpacing0 = 0%
+    public static let ocLetterSpacing1 = 1%
+    public static let ocLetterSpacing2 = -2.5%
+    public static let ocLetterSpacing3 = -2%
+    public static let ocLetterSpacing4 = 2%
+    public static let ocLineHeight110 = 110%
     public static let ocLineHeight130 = 130%
     public static let ocLineHeight140 = 140%
     public static let ocLineHeight150 = 150%
@@ -179,14 +193,18 @@ public class  {
     public static let ocOpacity50 = 50%
     public static let ocOpacity75 = 75%
     public static let ocOpacityNone = none
-    public static let ocRadiusLg = 16
-    public static let ocRadiusMd = 8
-    public static let ocRadiusNone = 0
-    public static let ocRadiusRound = 50
-    public static let ocRadiusSm = 4
-    public static let ocRadiusXl = 24
-    public static let ocRadiusXs = 2
-    public static let ocRadiusXxl = 32
+    public static let ocParagaphSpacing12 = 12
+    public static let ocParagaphSpacing16 = 16
+    public static let ocParagaphSpacing4 = 4
+    public static let ocParagaphSpacing8 = 8
+    public static let ocRadius0 = 0
+    public static let ocRadius16 = 16
+    public static let ocRadius2 = 2
+    public static let ocRadius24 = 24
+    public static let ocRadius32 = 32
+    public static let ocRadius4 = 4
+    public static let ocRadius50 = 50
+    public static let ocRadius8 = 8
     public static let ocSizing12 = 12
     public static let ocSizing16 = 16
     public static let ocSizing2 = 2
@@ -227,6 +245,13 @@ public class  {
     public static let ocTextAction = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let ocTextActionHover = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let ocTextBody = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let ocTextCaseCapitalize = capitalize
+    public static let ocTextCaseLowercase = lowercase
+    public static let ocTextCaseNone = none
+    public static let ocTextCaseUppercase = uppercase
+    public static let ocTextDecorationLineThrough = line-through
+    public static let ocTextDecorationNone = none
+    public static let ocTextDecorationUnderline = underline
     public static let ocTextDisabled = UIColor(red: 0.478, green: 0.525, blue: 0.600, alpha: 1)
     public static let ocTextError = UIColor(red: 0.533, green: 0.090, blue: 0.043, alpha: 1)
     public static let ocTextHeading = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)

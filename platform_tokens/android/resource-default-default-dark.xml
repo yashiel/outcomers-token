@@ -2,17 +2,17 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 18 Jan 2024 04:43:43 GMT
+  Generated on Fri, 19 Jan 2024 08:03:53 GMT
 -->
 <resources>
-  <string name="oc_radius_none">0</string>
-  <string name="oc_radius_xs">2</string>
-  <string name="oc_radius_sm">4</string>
-  <string name="oc_radius_md">8</string>
-  <string name="oc_radius_lg">16</string>
-  <string name="oc_radius_xl">24</string>
-  <string name="oc_radius_xxl">32</string>
-  <string name="oc_radius_round">50</string>
+  <string name="oc_radius_0">0</string>
+  <string name="oc_radius_2">2</string>
+  <string name="oc_radius_4">4</string>
+  <string name="oc_radius_8">8</string>
+  <string name="oc_radius_16">16</string>
+  <string name="oc_radius_24">24</string>
+  <string name="oc_radius_32">32</string>
+  <string name="oc_radius_50">50</string>
   <color name="oc_color_red_50">#fff9e9e7</color>
   <color name="oc_color_red_75">#ffe6a49d</color>
   <color name="oc_color_red_100">#ffdc7e74</color>
@@ -152,6 +152,9 @@
   <string name="oc_border_width_4">4</string>
   <string name="oc_border_width_5">5</string>
   <string name="oc_border_width_none">0</string>
+  <string name="oc_border_width_m1">0.5</string>
+  <string name="oc_border_width_m2">1.5</string>
+  <string name="oc_border_width_m3">2.5</string>
   <string name="oc_opacity_25">25%</string>
   <string name="oc_opacity_50">50%</string>
   <string name="oc_opacity_75">75%</string>
@@ -167,7 +170,7 @@
   <string name="oc_font_weight_700">Bold</string>
   <string name="oc_font_weight_800">Extra Bold</string>
   <string name="oc_font_weight_900">Black</string>
-  <string name="oc_line_height_120">120%</string>
+  <string name="oc_line_height_110">110%</string>
   <string name="oc_line_height_130">130%</string>
   <string name="oc_line_height_140">140%</string>
   <string name="oc_line_height_150">150%</string>
@@ -188,10 +191,32 @@
   <string name="oc_sizing_56">56</string>
   <string name="oc_sizing_60">60</string>
   <string name="oc_sizing_64">64</string>
-  <string name="oc_letter_spacing_5">5%</string>
-  <string name="oc_letter_spacing_10">10%</string>
-  <string name="oc_letter_spacing_20">20%</string>
-  <string name="oc_letter_spacing_30">30%</string>
+  <string name="oc_letter_spacing_0">0%</string>
+  <string name="oc_letter_spacing_1">1%</string>
+  <string name="oc_letter_spacing_2">-2.5%</string>
+  <string name="oc_letter_spacing_3">-2%</string>
+  <string name="oc_letter_spacing_4">2%</string>
+  <string name="oc_font_size_12">12</string>
+  <string name="oc_font_size_16">16</string>
+  <string name="oc_font_size_20">20</string>
+  <string name="oc_font_size_24">24</string>
+  <string name="oc_font_size_32">32</string>
+  <string name="oc_font_size_40">40</string>
+  <string name="oc_font_size_48">48</string>
+  <string name="oc_font_size_60">60</string>
+  <string name="oc_font_size_76">76</string>
+  <string name="oc_font_size_92">92</string>
+  <string name="oc_text_case_uppercase">uppercase</string>
+  <string name="oc_text_case_none">none</string>
+  <string name="oc_text_case_lowercase">lowercase</string>
+  <string name="oc_text_case_capitalize">capitalize</string>
+  <string name="oc_paragaph_spacing_4">4</string>
+  <string name="oc_paragaph_spacing_8">8</string>
+  <string name="oc_paragaph_spacing_12">12</string>
+  <string name="oc_paragaph_spacing_16">16</string>
+  <string name="oc_text_decoration_none">none</string>
+  <string name="oc_text_decoration_underline">underline</string>
+  <string name="oc_text_decoration_line_through">line-through</string>
   <string name="oc_text_heading">#ffffffff</string>
   <string name="oc_text_body">#ffffffff</string>
   <string name="oc_text_action">#ffffffff</string>

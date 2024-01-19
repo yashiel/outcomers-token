@@ -3,20 +3,20 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 04:43:43 GMT
+// Generated on Fri, 19 Jan 2024 08:03:53 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern  const OcRadiusNone;
-extern  const OcRadiusXs;
-extern  const OcRadiusSm;
-extern  const OcRadiusMd;
-extern  const OcRadiusLg;
-extern  const OcRadiusXl;
-extern  const OcRadiusXxl;
-extern  const OcRadiusRound;
+extern  const OcRadius0;
+extern  const OcRadius2;
+extern  const OcRadius4;
+extern  const OcRadius8;
+extern  const OcRadius16;
+extern  const OcRadius24;
+extern  const OcRadius32;
+extern  const OcRadius50;
 extern  const OcColorRed50;
 extern  const OcColorRed75;
 extern  const OcColorRed100;
@@ -156,6 +156,9 @@ extern  const OcBorderWidth3;
 extern  const OcBorderWidth4;
 extern  const OcBorderWidth5;
 extern  const OcBorderWidthNone;
+extern  const OcBorderWidthM1;
+extern  const OcBorderWidthM2;
+extern  const OcBorderWidthM3;
 extern  const OcOpacity25;
 extern  const OcOpacity50;
 extern  const OcOpacity75;
@@ -171,7 +174,7 @@ extern  const OcFontWeight600;
 extern  const OcFontWeight700;
 extern  const OcFontWeight800;
 extern  const OcFontWeight900;
-extern  const OcLineHeight120;
+extern  const OcLineHeight110;
 extern  const OcLineHeight130;
 extern  const OcLineHeight140;
 extern  const OcLineHeight150;
@@ -192,10 +195,32 @@ extern  const OcSizing52;
 extern  const OcSizing56;
 extern  const OcSizing60;
 extern  const OcSizing64;
-extern  const OcLetterSpacing5;
-extern  const OcLetterSpacing10;
-extern  const OcLetterSpacing20;
-extern  const OcLetterSpacing30;
+extern  const OcLetterSpacing0;
+extern  const OcLetterSpacing1;
+extern  const OcLetterSpacing2;
+extern  const OcLetterSpacing3;
+extern  const OcLetterSpacing4;
+extern  const OcFontSize12;
+extern  const OcFontSize16;
+extern  const OcFontSize20;
+extern  const OcFontSize24;
+extern  const OcFontSize32;
+extern  const OcFontSize40;
+extern  const OcFontSize48;
+extern  const OcFontSize60;
+extern  const OcFontSize76;
+extern  const OcFontSize92;
+extern  const OcTextCaseUppercase;
+extern  const OcTextCaseNone;
+extern  const OcTextCaseLowercase;
+extern  const OcTextCaseCapitalize;
+extern  const OcParagaphSpacing4;
+extern  const OcParagaphSpacing8;
+extern  const OcParagaphSpacing12;
+extern  const OcParagaphSpacing16;
+extern  const OcTextDecorationNone;
+extern  const OcTextDecorationUnderline;
+extern  const OcTextDecorationLineThrough;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

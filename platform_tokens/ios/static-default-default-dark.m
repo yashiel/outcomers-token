@@ -4,20 +4,20 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 04:43:43 GMT
+// Generated on Fri, 19 Jan 2024 08:03:53 GMT
 
 
 #import ".h"
 
 
- const OcRadiusNone = 0;
- const OcRadiusXs = 2;
- const OcRadiusSm = 4;
- const OcRadiusMd = 8;
- const OcRadiusLg = 16;
- const OcRadiusXl = 24;
- const OcRadiusXxl = 32;
- const OcRadiusRound = 50;
+ const OcRadius0 = 0;
+ const OcRadius2 = 2;
+ const OcRadius4 = 4;
+ const OcRadius8 = 8;
+ const OcRadius16 = 16;
+ const OcRadius24 = 24;
+ const OcRadius32 = 32;
+ const OcRadius50 = 50;
  const OcColorRed50 = [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f];
  const OcColorRed75 = [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f];
  const OcColorRed100 = [UIColor colorWithRed:0.863f green:0.494f blue:0.455f alpha:1.000f];
@@ -157,6 +157,9 @@
  const OcBorderWidth4 = 4;
  const OcBorderWidth5 = 5;
  const OcBorderWidthNone = 0;
+ const OcBorderWidthM1 = 0.5;
+ const OcBorderWidthM2 = 1.5;
+ const OcBorderWidthM3 = 2.5;
  const OcOpacity25 = 25%;
  const OcOpacity50 = 50%;
  const OcOpacity75 = 75%;
@@ -172,7 +175,7 @@
  const OcFontWeight700 = Bold;
  const OcFontWeight800 = Extra Bold;
  const OcFontWeight900 = Black;
- const OcLineHeight120 = 120%;
+ const OcLineHeight110 = 110%;
  const OcLineHeight130 = 130%;
  const OcLineHeight140 = 140%;
  const OcLineHeight150 = 150%;
@@ -193,10 +196,32 @@
  const OcSizing56 = 56;
  const OcSizing60 = 60;
  const OcSizing64 = 64;
- const OcLetterSpacing5 = 5%;
- const OcLetterSpacing10 = 10%;
- const OcLetterSpacing20 = 20%;
- const OcLetterSpacing30 = 30%;
+ const OcLetterSpacing0 = 0%;
+ const OcLetterSpacing1 = 1%;
+ const OcLetterSpacing2 = -2.5%;
+ const OcLetterSpacing3 = -2%;
+ const OcLetterSpacing4 = 2%;
+ const OcFontSize12 = 12;
+ const OcFontSize16 = 16;
+ const OcFontSize20 = 20;
+ const OcFontSize24 = 24;
+ const OcFontSize32 = 32;
+ const OcFontSize40 = 40;
+ const OcFontSize48 = 48;
+ const OcFontSize60 = 60;
+ const OcFontSize76 = 76;
+ const OcFontSize92 = 92;
+ const OcTextCaseUppercase = uppercase;
+ const OcTextCaseNone = none;
+ const OcTextCaseLowercase = lowercase;
+ const OcTextCaseCapitalize = capitalize;
+ const OcParagaphSpacing4 = 4;
+ const OcParagaphSpacing8 = 8;
+ const OcParagaphSpacing12 = 12;
+ const OcParagaphSpacing16 = 16;
+ const OcTextDecorationNone = none;
+ const OcTextDecorationUnderline = underline;
+ const OcTextDecorationLineThrough = line-through;
  const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

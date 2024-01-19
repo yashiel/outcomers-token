@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 04:43:43 GMT
+// Generated on Fri, 19 Jan 2024 08:03:53 GMT
 
 
 #import ".h"
@@ -26,53 +26,53 @@
   dispatch_once(&onceToken, ^{
     dictionary = @{
   @"radius": @{
-    @"none": @{
+    @"0": @{
       @"value": 0,
-      @"name": @"OcRadiusNone",
+      @"name": @"OcRadius0",
       @"category": @"radius",
-      @"type": @"none"
+      @"type": @"0"
       },
-    @"xs": @{
+    @"2": @{
       @"value": 2,
-      @"name": @"OcRadiusXs",
+      @"name": @"OcRadius2",
       @"category": @"radius",
-      @"type": @"xs"
+      @"type": @"2"
       },
-    @"sm": @{
+    @"4": @{
       @"value": 4,
-      @"name": @"OcRadiusSm",
+      @"name": @"OcRadius4",
       @"category": @"radius",
-      @"type": @"sm"
+      @"type": @"4"
       },
-    @"md": @{
+    @"8": @{
       @"value": 8,
-      @"name": @"OcRadiusMd",
+      @"name": @"OcRadius8",
       @"category": @"radius",
-      @"type": @"md"
+      @"type": @"8"
       },
-    @"lg": @{
+    @"16": @{
       @"value": 16,
-      @"name": @"OcRadiusLg",
+      @"name": @"OcRadius16",
       @"category": @"radius",
-      @"type": @"lg"
+      @"type": @"16"
       },
-    @"xl": @{
+    @"24": @{
       @"value": 24,
-      @"name": @"OcRadiusXl",
+      @"name": @"OcRadius24",
       @"category": @"radius",
-      @"type": @"xl"
+      @"type": @"24"
       },
-    @"xxl": @{
+    @"32": @{
       @"value": 32,
-      @"name": @"OcRadiusXxl",
+      @"name": @"OcRadius32",
       @"category": @"radius",
-      @"type": @"xxl"
+      @"type": @"32"
       },
-    @"round": @{
+    @"50": @{
       @"value": 50,
-      @"name": @"OcRadiusRound",
+      @"name": @"OcRadius50",
       @"category": @"radius",
-      @"type": @"round"
+      @"type": @"50"
       }
     },
   @"color": @{
@@ -1071,6 +1071,24 @@
       @"name": @"OcBorderWidthNone",
       @"category": @"borderWidth",
       @"type": @"none"
+      },
+    @"m1": @{
+      @"value": 0.5,
+      @"name": @"OcBorderWidthM1",
+      @"category": @"borderWidth",
+      @"type": @"m1"
+      },
+    @"m2": @{
+      @"value": 1.5,
+      @"name": @"OcBorderWidthM2",
+      @"category": @"borderWidth",
+      @"type": @"m2"
+      },
+    @"m3": @{
+      @"value": 2.5,
+      @"name": @"OcBorderWidthM3",
+      @"category": @"borderWidth",
+      @"type": @"m3"
       }
     },
   @"opacity": @{
@@ -1170,11 +1188,11 @@
       }
     },
   @"lineHeight": @{
-    @"120": @{
-      @"value": 120%,
-      @"name": @"OcLineHeight120",
+    @"110": @{
+      @"value": 110%,
+      @"name": @"OcLineHeight110",
       @"category": @"lineHeight",
-      @"type": @"120"
+      @"type": @"110"
       },
     @"130": @{
       @"value": 130%,
@@ -1300,29 +1318,169 @@
       }
     },
   @"letterSpacing": @{
-    @"5": @{
-      @"value": 5%,
-      @"name": @"OcLetterSpacing5",
+    @"0": @{
+      @"value": 0%,
+      @"name": @"OcLetterSpacing0",
       @"category": @"letterSpacing",
-      @"type": @"5"
+      @"type": @"0"
       },
-    @"10": @{
-      @"value": 10%,
-      @"name": @"OcLetterSpacing10",
+    @"1": @{
+      @"value": 1%,
+      @"name": @"OcLetterSpacing1",
       @"category": @"letterSpacing",
-      @"type": @"10"
+      @"type": @"1"
+      },
+    @"2": @{
+      @"value": -2.5%,
+      @"name": @"OcLetterSpacing2",
+      @"category": @"letterSpacing",
+      @"type": @"2"
+      },
+    @"3": @{
+      @"value": -2%,
+      @"name": @"OcLetterSpacing3",
+      @"category": @"letterSpacing",
+      @"type": @"3"
+      },
+    @"4": @{
+      @"value": 2%,
+      @"name": @"OcLetterSpacing4",
+      @"category": @"letterSpacing",
+      @"type": @"4"
+      }
+    },
+  @"fontSize": @{
+    @"12": @{
+      @"value": 12,
+      @"name": @"OcFontSize12",
+      @"category": @"fontSize",
+      @"type": @"12"
+      },
+    @"16": @{
+      @"value": 16,
+      @"name": @"OcFontSize16",
+      @"category": @"fontSize",
+      @"type": @"16"
       },
     @"20": @{
-      @"value": 20%,
-      @"name": @"OcLetterSpacing20",
-      @"category": @"letterSpacing",
+      @"value": 20,
+      @"name": @"OcFontSize20",
+      @"category": @"fontSize",
       @"type": @"20"
       },
-    @"30": @{
-      @"value": 30%,
-      @"name": @"OcLetterSpacing30",
-      @"category": @"letterSpacing",
-      @"type": @"30"
+    @"24": @{
+      @"value": 24,
+      @"name": @"OcFontSize24",
+      @"category": @"fontSize",
+      @"type": @"24"
+      },
+    @"32": @{
+      @"value": 32,
+      @"name": @"OcFontSize32",
+      @"category": @"fontSize",
+      @"type": @"32"
+      },
+    @"40": @{
+      @"value": 40,
+      @"name": @"OcFontSize40",
+      @"category": @"fontSize",
+      @"type": @"40"
+      },
+    @"48": @{
+      @"value": 48,
+      @"name": @"OcFontSize48",
+      @"category": @"fontSize",
+      @"type": @"48"
+      },
+    @"60": @{
+      @"value": 60,
+      @"name": @"OcFontSize60",
+      @"category": @"fontSize",
+      @"type": @"60"
+      },
+    @"76": @{
+      @"value": 76,
+      @"name": @"OcFontSize76",
+      @"category": @"fontSize",
+      @"type": @"76"
+      },
+    @"92": @{
+      @"value": 92,
+      @"name": @"OcFontSize92",
+      @"category": @"fontSize",
+      @"type": @"92"
+      }
+    },
+  @"textCase": @{
+    @"uppercase": @{
+      @"value": uppercase,
+      @"name": @"OcTextCaseUppercase",
+      @"category": @"textCase",
+      @"type": @"uppercase"
+      },
+    @"none": @{
+      @"value": none,
+      @"name": @"OcTextCaseNone",
+      @"category": @"textCase",
+      @"type": @"none"
+      },
+    @"lowercase": @{
+      @"value": lowercase,
+      @"name": @"OcTextCaseLowercase",
+      @"category": @"textCase",
+      @"type": @"lowercase"
+      },
+    @"capitalize": @{
+      @"value": capitalize,
+      @"name": @"OcTextCaseCapitalize",
+      @"category": @"textCase",
+      @"type": @"capitalize"
+      }
+    },
+  @"paragaphSpacing": @{
+    @"4": @{
+      @"value": 4,
+      @"name": @"OcParagaphSpacing4",
+      @"category": @"paragaphSpacing",
+      @"type": @"4"
+      },
+    @"8": @{
+      @"value": 8,
+      @"name": @"OcParagaphSpacing8",
+      @"category": @"paragaphSpacing",
+      @"type": @"8"
+      },
+    @"12": @{
+      @"value": 12,
+      @"name": @"OcParagaphSpacing12",
+      @"category": @"paragaphSpacing",
+      @"type": @"12"
+      },
+    @"16": @{
+      @"value": 16,
+      @"name": @"OcParagaphSpacing16",
+      @"category": @"paragaphSpacing",
+      @"type": @"16"
+      }
+    },
+  @"textDecoration": @{
+    @"none": @{
+      @"value": none,
+      @"name": @"OcTextDecorationNone",
+      @"category": @"textDecoration",
+      @"type": @"none"
+      },
+    @"underline": @{
+      @"value": underline,
+      @"name": @"OcTextDecorationUnderline",
+      @"category": @"textDecoration",
+      @"type": @"underline"
+      },
+    @"line-through": @{
+      @"value": line-through,
+      @"name": @"OcTextDecorationLineThrough",
+      @"category": @"textDecoration",
+      @"type": @"line-through"
       }
     },
   @"text": @{

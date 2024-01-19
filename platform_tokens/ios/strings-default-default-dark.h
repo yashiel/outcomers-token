@@ -4,20 +4,20 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Jan 2024 04:43:43 GMT
+// Generated on Fri, 19 Jan 2024 08:03:53 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern NSString * const OcRadiusNone;
-extern NSString * const OcRadiusXs;
-extern NSString * const OcRadiusSm;
-extern NSString * const OcRadiusMd;
-extern NSString * const OcRadiusLg;
-extern NSString * const OcRadiusXl;
-extern NSString * const OcRadiusXxl;
-extern NSString * const OcRadiusRound;
+extern NSString * const OcRadius0;
+extern NSString * const OcRadius2;
+extern NSString * const OcRadius4;
+extern NSString * const OcRadius8;
+extern NSString * const OcRadius16;
+extern NSString * const OcRadius24;
+extern NSString * const OcRadius32;
+extern NSString * const OcRadius50;
 extern NSString * const OcColorRed50;
 extern NSString * const OcColorRed75;
 extern NSString * const OcColorRed100;
@@ -157,6 +157,9 @@ extern NSString * const OcBorderWidth3;
 extern NSString * const OcBorderWidth4;
 extern NSString * const OcBorderWidth5;
 extern NSString * const OcBorderWidthNone;
+extern NSString * const OcBorderWidthM1;
+extern NSString * const OcBorderWidthM2;
+extern NSString * const OcBorderWidthM3;
 extern NSString * const OcOpacity25;
 extern NSString * const OcOpacity50;
 extern NSString * const OcOpacity75;
@@ -172,7 +175,7 @@ extern NSString * const OcFontWeight600;
 extern NSString * const OcFontWeight700;
 extern NSString * const OcFontWeight800;
 extern NSString * const OcFontWeight900;
-extern NSString * const OcLineHeight120;
+extern NSString * const OcLineHeight110;
 extern NSString * const OcLineHeight130;
 extern NSString * const OcLineHeight140;
 extern NSString * const OcLineHeight150;
@@ -193,10 +196,32 @@ extern NSString * const OcSizing52;
 extern NSString * const OcSizing56;
 extern NSString * const OcSizing60;
 extern NSString * const OcSizing64;
-extern NSString * const OcLetterSpacing5;
-extern NSString * const OcLetterSpacing10;
-extern NSString * const OcLetterSpacing20;
-extern NSString * const OcLetterSpacing30;
+extern NSString * const OcLetterSpacing0;
+extern NSString * const OcLetterSpacing1;
+extern NSString * const OcLetterSpacing2;
+extern NSString * const OcLetterSpacing3;
+extern NSString * const OcLetterSpacing4;
+extern NSString * const OcFontSize12;
+extern NSString * const OcFontSize16;
+extern NSString * const OcFontSize20;
+extern NSString * const OcFontSize24;
+extern NSString * const OcFontSize32;
+extern NSString * const OcFontSize40;
+extern NSString * const OcFontSize48;
+extern NSString * const OcFontSize60;
+extern NSString * const OcFontSize76;
+extern NSString * const OcFontSize92;
+extern NSString * const OcTextCaseUppercase;
+extern NSString * const OcTextCaseNone;
+extern NSString * const OcTextCaseLowercase;
+extern NSString * const OcTextCaseCapitalize;
+extern NSString * const OcParagaphSpacing4;
+extern NSString * const OcParagaphSpacing8;
+extern NSString * const OcParagaphSpacing12;
+extern NSString * const OcParagaphSpacing16;
+extern NSString * const OcTextDecorationNone;
+extern NSString * const OcTextDecorationUnderline;
+extern NSString * const OcTextDecorationLineThrough;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;
