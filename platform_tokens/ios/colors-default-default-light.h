@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 Jan 2024 08:03:53 GMT
+// Generated on Tue, 23 Jan 2024 04:51:32 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -18,13 +18,15 @@ OcRadius16,
 OcRadius24,
 OcRadius32,
 OcRadius50,
-OcColorRed50,
-OcColorRed75,
 OcColorRed100,
 OcColorRed200,
 OcColorRed300,
 OcColorRed400,
 OcColorRed500,
+OcColorRed600,
+OcColorRed700,
+OcColorRed800,
+OcColorRed900,
 OcColorGreen50,
 OcColorGreen75,
 OcColorGreen100,
@@ -116,9 +118,9 @@ OcColorInfoDarker,
 OcColorInfoLight,
 OcColorInfoLighter,
 OcColorInfoLightest,
-OcColorErrorDefault,
-OcColorErrorDark,
 OcColorErrorDarker,
+OcColorErrorDark,
+OcColorErrorDefault,
 OcColorErrorLight,
 OcColorErrorLighter,
 OcColorErrorLightest,

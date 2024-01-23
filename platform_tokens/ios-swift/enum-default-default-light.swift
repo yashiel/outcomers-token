@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 Jan 2024 08:03:53 GMT
+// Generated on Tue, 23 Jan 2024 04:51:32 GMT
 
 
 import UIKit
@@ -13,7 +13,7 @@ public enum  {
     public static let ocBorderAction = UIColor(red: 0.012, green: 0.435, blue: 0.227, alpha: 1)
     public static let ocBorderActionHover = UIColor(red: 0.427, green: 0.780, blue: 0.608, alpha: 1)
     public static let ocBorderDisabled = UIColor(red: 0.651, green: 0.682, blue: 0.733, alpha: 1)
-    public static let ocBorderError = UIColor(red: 0.863, green: 0.494, blue: 0.455, alpha: 1)
+    public static let ocBorderError = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocBorderFocus = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocBorderHighlight = UIColor(red: 0.133, green: 0.573, blue: 0.643, alpha: 1)
     public static let ocBorderInformation = UIColor(red: 0.420, green: 0.651, blue: 1.000, alpha: 1)
@@ -44,12 +44,12 @@ public enum  {
     public static let ocColorBlue50 = UIColor(red: 0.902, green: 0.941, blue: 1.000, alpha: 1)
     public static let ocColorBlue500 = UIColor(red: 0.000, green: 0.243, blue: 0.612, alpha: 1)
     public static let ocColorBlue75 = UIColor(red: 0.588, green: 0.753, blue: 1.000, alpha: 1)
-    public static let ocColorErrorDark = UIColor(red: 0.533, green: 0.090, blue: 0.043, alpha: 1)
-    public static let ocColorErrorDarker = UIColor(red: 0.463, green: 0.078, blue: 0.035, alpha: 1)
+    public static let ocColorErrorDark = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorErrorDarker = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocColorErrorDefault = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
-    public static let ocColorErrorLight = UIColor(red: 0.863, green: 0.494, blue: 0.455, alpha: 1)
-    public static let ocColorErrorLighter = UIColor(red: 0.902, green: 0.643, blue: 0.616, alpha: 1)
-    public static let ocColorErrorLightest = UIColor(red: 0.976, green: 0.914, blue: 0.906, alpha: 1)
+    public static let ocColorErrorLight = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorErrorLighter = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorErrorLightest = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocColorGray10 = UIColor(red: 0.980, green: 0.984, blue: 0.984, alpha: 1)
     public static let ocColorGray100 = UIColor(red: 0.478, green: 0.525, blue: 0.600, alpha: 1)
     public static let ocColorGray20 = UIColor(red: 0.961, green: 0.965, blue: 0.969, alpha: 1)
@@ -114,13 +114,15 @@ public enum  {
     public static let ocColorPrimaryLight = UIColor(red: 0.427, green: 0.780, blue: 0.608, alpha: 1)
     public static let ocColorPrimaryLighter = UIColor(red: 0.596, green: 0.843, blue: 0.722, alpha: 1)
     public static let ocColorPrimaryLightest = UIColor(red: 0.902, green: 0.961, blue: 0.933, alpha: 1)
-    public static let ocColorRed100 = UIColor(red: 0.863, green: 0.494, blue: 0.455, alpha: 1)
-    public static let ocColorRed200 = UIColor(red: 0.800, green: 0.278, blue: 0.220, alpha: 1)
+    public static let ocColorRed100 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorRed200 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocColorRed300 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
-    public static let ocColorRed400 = UIColor(red: 0.533, green: 0.090, blue: 0.043, alpha: 1)
-    public static let ocColorRed50 = UIColor(red: 0.976, green: 0.914, blue: 0.906, alpha: 1)
-    public static let ocColorRed500 = UIColor(red: 0.463, green: 0.078, blue: 0.035, alpha: 1)
-    public static let ocColorRed75 = UIColor(red: 0.902, green: 0.643, blue: 0.616, alpha: 1)
+    public static let ocColorRed400 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorRed500 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorRed600 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorRed700 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorRed800 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
+    public static let ocColorRed900 = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocColorSecondaryDark = UIColor(red: 0.663, green: 0.349, blue: 0.114, alpha: 1)
     public static let ocColorSecondaryDarker = UIColor(red: 0.576, green: 0.302, blue: 0.098, alpha: 1)
     public static let ocColorSecondaryDefault = UIColor(red: 0.945, green: 0.498, blue: 0.161, alpha: 1)
@@ -234,7 +236,7 @@ public enum  {
     public static let ocSurfaceAction = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceActionHover = UIColor(red: 0.012, green: 0.435, blue: 0.227, alpha: 1)
     public static let ocSurfaceDisabled = UIColor(red: 0.875, green: 0.886, blue: 0.902, alpha: 1)
-    public static let ocSurfaceError = UIColor(red: 0.976, green: 0.914, blue: 0.906, alpha: 1)
+    public static let ocSurfaceError = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocSurfaceHighlight = UIColor(red: 0.133, green: 0.573, blue: 0.643, alpha: 1)
     public static let ocSurfaceInformation = UIColor(red: 0.902, green: 0.941, blue: 1.000, alpha: 1)
     public static let ocSurfacePage = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -253,7 +255,7 @@ public enum  {
     public static let ocTextDecorationNone = none
     public static let ocTextDecorationUnderline = underline
     public static let ocTextDisabled = UIColor(red: 0.478, green: 0.525, blue: 0.600, alpha: 1)
-    public static let ocTextError = UIColor(red: 0.533, green: 0.090, blue: 0.043, alpha: 1)
+    public static let ocTextError = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocTextHeading = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
     public static let ocTextHighlight = UIColor(red: 0.133, green: 0.573, blue: 0.643, alpha: 1)
     public static let ocTextInformation = UIColor(red: 0.000, green: 0.396, blue: 1.000, alpha: 1)

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 19 Jan 2024 08:03:53 GMT
+  Generated on Tue, 23 Jan 2024 04:51:32 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -13,13 +13,15 @@
   <string name="oc_radius_24">24</string>
   <string name="oc_radius_32">32</string>
   <string name="oc_radius_50">50</string>
-  <color name="oc_color_red_50">#fff9e9e7</color>
-  <color name="oc_color_red_75">#ffe6a49d</color>
-  <color name="oc_color_red_100">#ffdc7e74</color>
-  <color name="oc_color_red_200">#ffcc4738</color>
+  <color name="oc_color_red_100">#ffc2210f</color>
+  <color name="oc_color_red_200">#ffc2210f</color>
   <color name="oc_color_red_300">#ffc2210f</color>
-  <color name="oc_color_red_400">#ff88170b</color>
-  <color name="oc_color_red_500">#ff761409</color>
+  <color name="oc_color_red_400">#ffc2210f</color>
+  <color name="oc_color_red_500">#ffc2210f</color>
+  <color name="oc_color_red_600">#ffc2210f</color>
+  <color name="oc_color_red_700">#ffc2210f</color>
+  <color name="oc_color_red_800">#ffc2210f</color>
+  <color name="oc_color_red_900">#ffc2210f</color>
   <color name="oc_color_green_50">#ffe6f5ee</color>
   <color name="oc_color_green_75">#ff98d7b8</color>
   <color name="oc_color_green_100">#ff6dc79b</color>
@@ -111,12 +113,12 @@
   <color name="oc_color_info_light">#ff6ba6ff</color>
   <color name="oc_color_info_lighter">#ff96c0ff</color>
   <color name="oc_color_info_lightest">#ffe6f0ff</color>
+  <color name="oc_color_error_darker">#ffc2210f</color>
+  <color name="oc_color_error_dark">#ffc2210f</color>
   <color name="oc_color_error_default">#ffc2210f</color>
-  <color name="oc_color_error_dark">#ff88170b</color>
-  <color name="oc_color_error_darker">#ff761409</color>
-  <color name="oc_color_error_light">#ffdc7e74</color>
-  <color name="oc_color_error_lighter">#ffe6a49d</color>
-  <color name="oc_color_error_lightest">#fff9e9e7</color>
+  <color name="oc_color_error_light">#ffc2210f</color>
+  <color name="oc_color_error_lighter">#ffc2210f</color>
+  <color name="oc_color_error_lightest">#ffc2210f</color>
   <color name="oc_color_neutral_10">#fffafbfb</color>
   <color name="oc_color_neutral_20">#fff5f6f7</color>
   <color name="oc_color_neutral_30">#ffebedf0</color>
@@ -226,7 +228,7 @@
   <string name="oc_text_information">#ff0065ff</string>
   <string name="oc_text_success">#ff026033</string>
   <string name="oc_text_warning">#ff8f6b0a</string>
-  <string name="oc_text_error">#ff88170b</string>
+  <string name="oc_text_error">#ffc2210f</string>
   <string name="oc_text_on_action">#ffffffff</string>
   <string name="oc_text_on_disabled">#ff243757</string>
   <string name="oc_surface_page">#ffffffff</string>
@@ -234,7 +236,7 @@
   <string name="oc_surface_secondary">#fff5f6f7</string>
   <string name="oc_surface_disabled">#ffdfe2e6</string>
   <string name="oc_surface_success">#ffe6f5ee</string>
-  <string name="oc_surface_error">#fff9e9e7</string>
+  <string name="oc_surface_error">#ffc2210f</string>
   <string name="oc_surface_warning">#fffdf7e7</string>
   <string name="oc_surface_information">#ffe6f0ff</string>
   <string name="oc_surface_highlight">#ff2292a4</string>
@@ -245,7 +247,7 @@
   <string name="oc_border_information">#ff6ba6ff</string>
   <string name="oc_border_success">#ff036f3a</string>
   <string name="oc_border_warning">#fff3d174</string>
-  <string name="oc_border_error">#ffdc7e74</string>
+  <string name="oc_border_error">#ffc2210f</string>
   <string name="oc_border_disabled">#ffa6aebb</string>
   <string name="oc_border_action">#ff036f3a</string>
   <string name="oc_border_action_hover">#ff6dc79b</string>

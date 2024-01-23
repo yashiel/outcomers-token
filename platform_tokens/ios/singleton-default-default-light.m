@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 Jan 2024 08:03:53 GMT
+// Generated on Tue, 23 Jan 2024 04:51:32 GMT
 
 
 #import ".h"
@@ -77,29 +77,15 @@
     },
   @"color": @{
     @"red": @{
-      @"50": @{
-        @"value": [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f],
-        @"name": @"OcColorRed50",
-        @"category": @"color",
-        @"type": @"red",
-        @"item": @"50"
-        },
-      @"75": @{
-        @"value": [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f],
-        @"name": @"OcColorRed75",
-        @"category": @"color",
-        @"type": @"red",
-        @"item": @"75"
-        },
       @"100": @{
-        @"value": [UIColor colorWithRed:0.863f green:0.494f blue:0.455f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorRed100",
         @"category": @"color",
         @"type": @"red",
         @"item": @"100"
         },
       @"200": @{
-        @"value": [UIColor colorWithRed:0.800f green:0.278f blue:0.220f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorRed200",
         @"category": @"color",
         @"type": @"red",
@@ -113,18 +99,46 @@
         @"item": @"300"
         },
       @"400": @{
-        @"value": [UIColor colorWithRed:0.533f green:0.090f blue:0.043f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorRed400",
         @"category": @"color",
         @"type": @"red",
         @"item": @"400"
         },
       @"500": @{
-        @"value": [UIColor colorWithRed:0.463f green:0.078f blue:0.035f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorRed500",
         @"category": @"color",
         @"type": @"red",
         @"item": @"500"
+        },
+      @"600": @{
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
+        @"name": @"OcColorRed600",
+        @"category": @"color",
+        @"type": @"red",
+        @"item": @"600"
+        },
+      @"700": @{
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
+        @"name": @"OcColorRed700",
+        @"category": @"color",
+        @"type": @"red",
+        @"item": @"700"
+        },
+      @"800": @{
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
+        @"name": @"OcColorRed800",
+        @"category": @"color",
+        @"type": @"red",
+        @"item": @"800"
+        },
+      @"900": @{
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
+        @"name": @"OcColorRed900",
+        @"category": @"color",
+        @"type": @"red",
+        @"item": @"900"
         }
       },
     @"green": @{
@@ -793,6 +807,20 @@
         }
       },
     @"error": @{
+      @"darker": @{
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
+        @"name": @"OcColorErrorDarker",
+        @"category": @"color",
+        @"type": @"error",
+        @"item": @"darker"
+        },
+      @"dark": @{
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
+        @"name": @"OcColorErrorDark",
+        @"category": @"color",
+        @"type": @"error",
+        @"item": @"dark"
+        },
       @"default": @{
         @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorErrorDefault",
@@ -800,36 +828,22 @@
         @"type": @"error",
         @"item": @"default"
         },
-      @"dark": @{
-        @"value": [UIColor colorWithRed:0.533f green:0.090f blue:0.043f alpha:1.000f],
-        @"name": @"OcColorErrorDark",
-        @"category": @"color",
-        @"type": @"error",
-        @"item": @"dark"
-        },
-      @"darker": @{
-        @"value": [UIColor colorWithRed:0.463f green:0.078f blue:0.035f alpha:1.000f],
-        @"name": @"OcColorErrorDarker",
-        @"category": @"color",
-        @"type": @"error",
-        @"item": @"darker"
-        },
       @"light": @{
-        @"value": [UIColor colorWithRed:0.863f green:0.494f blue:0.455f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorErrorLight",
         @"category": @"color",
         @"type": @"error",
         @"item": @"light"
         },
       @"lighter": @{
-        @"value": [UIColor colorWithRed:0.902f green:0.643f blue:0.616f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorErrorLighter",
         @"category": @"color",
         @"type": @"error",
         @"item": @"lighter"
         },
       @"lightest": @{
-        @"value": [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
         @"name": @"OcColorErrorLightest",
         @"category": @"color",
         @"type": @"error",
@@ -1539,7 +1553,7 @@
       @"type": @"warning"
       },
     @"error": @{
-      @"value": [UIColor colorWithRed:0.533f green:0.090f blue:0.043f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
       @"name": @"OcTextError",
       @"category": @"text",
       @"type": @"error"
@@ -1589,7 +1603,7 @@
       @"type": @"success"
       },
     @"error": @{
-      @"value": [UIColor colorWithRed:0.976f green:0.914f blue:0.906f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
       @"name": @"OcSurfaceError",
       @"category": @"surface",
       @"type": @"error"
@@ -1657,7 +1671,7 @@
       @"type": @"warning"
       },
     @"error": @{
-      @"value": [UIColor colorWithRed:0.863f green:0.494f blue:0.455f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f],
       @"name": @"OcBorderError",
       @"category": @"border",
       @"type": @"error"

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 19 Jan 2024 08:03:53 GMT
+ * Generated on Tue, 23 Jan 2024 04:51:32 GMT
  */
 
 export const ocRadius0 = "0";
@@ -11,13 +11,15 @@ export const ocRadius16 = "16px";
 export const ocRadius24 = "24px";
 export const ocRadius32 = "32px";
 export const ocRadius50 = "50px";
-export const ocColorRed50 = "#F9E9E7";
-export const ocColorRed75 = "#E6A49D";
-export const ocColorRed100 = "#DC7E74";
-export const ocColorRed200 = "#CC4738";
-export const ocColorRed300 = "#C2210F";
-export const ocColorRed400 = "#88170B";
-export const ocColorRed500 = "#761409";
+export const ocColorRed100 = "hsl(6.03 85.6% 94.1%)";
+export const ocColorRed200 = "hsl(6.03 85.6% 76.4%)";
+export const ocColorRed300 = "hsl(6.03 85.6% 64.6%)";
+export const ocColorRed400 = "hsl(6.03 85.6% 58.7%)";
+export const ocColorRed500 = "#C2210F";
+export const ocColorRed600 = "hsl(6.03 85.6% 32.8%)";
+export const ocColorRed700 = "hsl(6.03 85.6% 24.6%)";
+export const ocColorRed800 = "hsl(6.03 85.6% 16.4%)";
+export const ocColorRed900 = "hsl(6.03 85.6% 8.2%)";
 export const ocColorGreen50 = "#E6F5EE";
 export const ocColorGreen75 = "#98D7B8";
 export const ocColorGreen100 = "#6DC79B";
@@ -109,12 +111,12 @@ export const ocColorInfoDarker = "#003E9C";
 export const ocColorInfoLight = "#6BA6FF";
 export const ocColorInfoLighter = "#96C0FF";
 export const ocColorInfoLightest = "#E6F0FF";
+export const ocColorErrorDarker = "hsl(6.03 85.6% 8.2%)";
+export const ocColorErrorDark = "hsl(6.03 85.6% 24.6%)";
 export const ocColorErrorDefault = "#C2210F";
-export const ocColorErrorDark = "#88170B";
-export const ocColorErrorDarker = "#761409";
-export const ocColorErrorLight = "#DC7E74";
-export const ocColorErrorLighter = "#E6A49D";
-export const ocColorErrorLightest = "#F9E9E7";
+export const ocColorErrorLight = "hsl(6.03 85.6% 64.6%)";
+export const ocColorErrorLighter = "hsl(6.03 85.6% 76.4%)";
+export const ocColorErrorLightest = "hsl(6.03 85.6% 94.1%)";
 export const ocColorNeutral10 = "#FAFBFB";
 export const ocColorNeutral20 = "#F5F6F7";
 export const ocColorNeutral30 = "#EBEDF0";
@@ -224,7 +226,7 @@ export const ocTextHighlight = "#2292A4";
 export const ocTextInformation = "#0065FF";
 export const ocTextSuccess = "#026033";
 export const ocTextWarning = "#8F6B0A";
-export const ocTextError = "#88170B";
+export const ocTextError = "hsl(6.03 85.6% 24.6%)";
 export const ocTextOnAction = "#ffffff";
 export const ocTextOnDisabled = "#243757";
 export const ocSurfacePage = "#ffffff";
@@ -232,7 +234,7 @@ export const ocSurfacePrimary = "#FAFBFB";
 export const ocSurfaceSecondary = "#F5F6F7";
 export const ocSurfaceDisabled = "#DFE2E6";
 export const ocSurfaceSuccess = "#E6F5EE";
-export const ocSurfaceError = "#F9E9E7";
+export const ocSurfaceError = "hsl(6.03 85.6% 94.1%)";
 export const ocSurfaceWarning = "#FDF7E7";
 export const ocSurfaceInformation = "#E6F0FF";
 export const ocSurfaceHighlight = "#2292A4";
@@ -243,7 +245,7 @@ export const ocBorderSecondary = "#049E53";
 export const ocBorderInformation = "#6BA6FF";
 export const ocBorderSuccess = "#036F3A";
 export const ocBorderWarning = "#F3D174";
-export const ocBorderError = "#DC7E74";
+export const ocBorderError = "hsl(6.03 85.6% 64.6%)";
 export const ocBorderDisabled = "#A6AEBB";
 export const ocBorderAction = "#036F3A";
 export const ocBorderActionHover = "#6DC79B";

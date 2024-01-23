@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 Jan 2024 08:03:53 GMT
+// Generated on Tue, 23 Jan 2024 04:51:32 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -18,13 +18,15 @@ extern NSString * const OcRadius16;
 extern NSString * const OcRadius24;
 extern NSString * const OcRadius32;
 extern NSString * const OcRadius50;
-extern NSString * const OcColorRed50;
-extern NSString * const OcColorRed75;
 extern NSString * const OcColorRed100;
 extern NSString * const OcColorRed200;
 extern NSString * const OcColorRed300;
 extern NSString * const OcColorRed400;
 extern NSString * const OcColorRed500;
+extern NSString * const OcColorRed600;
+extern NSString * const OcColorRed700;
+extern NSString * const OcColorRed800;
+extern NSString * const OcColorRed900;
 extern NSString * const OcColorGreen50;
 extern NSString * const OcColorGreen75;
 extern NSString * const OcColorGreen100;
@@ -116,9 +118,9 @@ extern NSString * const OcColorInfoDarker;
 extern NSString * const OcColorInfoLight;
 extern NSString * const OcColorInfoLighter;
 extern NSString * const OcColorInfoLightest;
-extern NSString * const OcColorErrorDefault;
-extern NSString * const OcColorErrorDark;
 extern NSString * const OcColorErrorDarker;
+extern NSString * const OcColorErrorDark;
+extern NSString * const OcColorErrorDefault;
 extern NSString * const OcColorErrorLight;
 extern NSString * const OcColorErrorLighter;
 extern NSString * const OcColorErrorLightest;

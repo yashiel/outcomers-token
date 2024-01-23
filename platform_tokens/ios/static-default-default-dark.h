@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 Jan 2024 08:03:53 GMT
+// Generated on Tue, 23 Jan 2024 04:51:32 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -17,13 +17,15 @@ extern  const OcRadius16;
 extern  const OcRadius24;
 extern  const OcRadius32;
 extern  const OcRadius50;
-extern  const OcColorRed50;
-extern  const OcColorRed75;
 extern  const OcColorRed100;
 extern  const OcColorRed200;
 extern  const OcColorRed300;
 extern  const OcColorRed400;
 extern  const OcColorRed500;
+extern  const OcColorRed600;
+extern  const OcColorRed700;
+extern  const OcColorRed800;
+extern  const OcColorRed900;
 extern  const OcColorGreen50;
 extern  const OcColorGreen75;
 extern  const OcColorGreen100;
@@ -115,9 +117,9 @@ extern  const OcColorInfoDarker;
 extern  const OcColorInfoLight;
 extern  const OcColorInfoLighter;
 extern  const OcColorInfoLightest;
-extern  const OcColorErrorDefault;
-extern  const OcColorErrorDark;
 extern  const OcColorErrorDarker;
+extern  const OcColorErrorDark;
+extern  const OcColorErrorDefault;
 extern  const OcColorErrorLight;
 extern  const OcColorErrorLighter;
 extern  const OcColorErrorLightest;
