@@ -45,7 +45,7 @@
       "type": "color"
     },
     "on-disabled": {
-      "value": "{color.neutral.700}",
+      "value": "{color.neutral.400}",
       "type": "color"
     }
   },
@@ -75,7 +75,7 @@
       "type": "color"
     },
     "warning": {
-      "value": "{color.neutral.700}",
+      "value": "{color.neutral.400}",
       "type": "color"
     },
     "information": {
