@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 10:24:03 GMT
+ * Generated on Tue, 23 Jan 2024 10:32:10 GMT
  */
 
 export const ocRadius0 = "0";
@@ -238,7 +238,7 @@ export const ocTextOnAction = "#ffffff";
 export const ocTextOnDisabled = "#0B0B0B";
 export const ocSurfacePage = "#ffffff";
 export const ocSurfacePrimary = "#F1F1F1";
-export const ocSurfaceSecondary = "#E2E2E2";
+export const ocSurfaceSecondary = "#F1F1F1";
 export const ocSurfaceDisabled = "#C6C6C6";
 export const ocSurfaceSuccess = "hsl(151 95.1% 93.2%)";
 export const ocSurfaceError = "hsl(6.03 85.6% 94.1%)";

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 10:24:03 GMT
+ * Generated on Tue, 23 Jan 2024 10:32:10 GMT
  */
 
 :root {
@@ -113,6 +113,7 @@
   --oc-radius-4: 4px;
   --oc-radius-2: 2px;
   --oc-radius-0: 0;
+  --oc-surface-secondary: var(--oc-color-gray-10);
   --oc-web-heading-5-light: var(--oc-font-weight-300) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-heading-6-bold: var(--oc-font-weight-700) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-heading-6-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
@@ -203,7 +204,6 @@
   --oc-surface-action: var(--oc-color-primary-default);
   --oc-surface-highlight: var(--oc-color-accent-default);
   --oc-surface-disabled: var(--oc-color-neutral-40);
-  --oc-surface-secondary: var(--oc-color-neutral-20);
   --oc-surface-primary: var(--oc-color-neutral-10);
   --oc-surface-page: var(--oc-color-neutral-white);
   --oc-text-on-disabled: var(--oc-color-neutral-400);

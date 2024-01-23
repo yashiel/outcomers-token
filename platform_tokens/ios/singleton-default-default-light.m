@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:24:03 GMT
+// Generated on Tue, 23 Jan 2024 10:32:10 GMT
 
 
 #import ".h"
@@ -1640,7 +1640,7 @@
       @"type": @"primary"
       },
     @"secondary": @{
-      @"value": [UIColor colorWithRed:0.886f green:0.886f blue:0.886f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.945f green:0.945f blue:0.945f alpha:1.000f],
       @"name": @"OcSurfaceSecondary",
       @"category": @"surface",
       @"type": @"secondary"

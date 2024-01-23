@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:24:03 GMT
+// Generated on Tue, 23 Jan 2024 10:32:11 GMT
 
 
 #import ".h"
@@ -1628,19 +1628,19 @@
     },
   @"surface": @{
     @"page": @{
-      @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f],
       @"name": @"OcSurfacePage",
       @"category": @"surface",
       @"type": @"page"
       },
     @"primary": @{
-      @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.086f green:0.086f blue:0.086f alpha:1.000f],
       @"name": @"OcSurfacePrimary",
       @"category": @"surface",
       @"type": @"primary"
       },
     @"secondary": @{
-      @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.133f green:0.133f blue:0.133f alpha:1.000f],
       @"name": @"OcSurfaceSecondary",
       @"category": @"surface",
       @"type": @"secondary"

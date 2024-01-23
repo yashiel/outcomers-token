@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:24:03 GMT
+// Generated on Tue, 23 Jan 2024 10:32:11 GMT
 
 
 import UIKit
@@ -241,7 +241,7 @@ public class  {
     public static let ocSurfaceInformation = UIColor(red: 0.000, green: 0.396, blue: 1.000, alpha: 1)
     public static let ocSurfacePage = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let ocSurfacePrimary = UIColor(red: 0.945, green: 0.945, blue: 0.945, alpha: 1)
-    public static let ocSurfaceSecondary = UIColor(red: 0.886, green: 0.886, blue: 0.886, alpha: 1)
+    public static let ocSurfaceSecondary = UIColor(red: 0.945, green: 0.945, blue: 0.945, alpha: 1)
     public static let ocSurfaceSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
     public static let ocTextAction = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)

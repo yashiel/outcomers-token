@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:24:03 GMT
+// Generated on Tue, 23 Jan 2024 10:32:11 GMT
 
 
 #import ".h"
@@ -243,9 +243,9 @@ NSString * const OcTextWarning = [UIColor colorWithRed:0.918f green:0.690f blue:
 NSString * const OcTextError = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
 NSString * const OcTextOnAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextOnDisabled = [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f];
-NSString * const OcSurfacePage = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
-NSString * const OcSurfacePrimary = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
-NSString * const OcSurfaceSecondary = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
+NSString * const OcSurfacePage = [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f];
+NSString * const OcSurfacePrimary = [UIColor colorWithRed:0.086f green:0.086f blue:0.086f alpha:1.000f];
+NSString * const OcSurfaceSecondary = [UIColor colorWithRed:0.133f green:0.133f blue:0.133f alpha:1.000f];
 NSString * const OcSurfaceDisabled = [UIColor colorWithRed:0.776f green:0.776f blue:0.776f alpha:1.000f];
 NSString * const OcSurfaceSuccess = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
 NSString * const OcSurfaceError = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
@@ -1811,19 +1811,19 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"on-disabled"
   },
 @{
-  @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
+  @"value": [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f],
   @"name": @"OcSurfacePage",
     @"category": @"surface",
     @"type": @"page"
   },
 @{
-  @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
+  @"value": [UIColor colorWithRed:0.086f green:0.086f blue:0.086f alpha:1.000f],
   @"name": @"OcSurfacePrimary",
     @"category": @"surface",
     @"type": @"primary"
   },
 @{
-  @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
+  @"value": [UIColor colorWithRed:0.133f green:0.133f blue:0.133f alpha:1.000f],
   @"name": @"OcSurfaceSecondary",
     @"category": @"surface",
     @"type": @"secondary"

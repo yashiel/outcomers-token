@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:24:03 GMT
+// Generated on Tue, 23 Jan 2024 10:32:10 GMT
 
 
 #import ".h"
@@ -245,7 +245,7 @@
  const OcTextOnDisabled = [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f];
  const OcSurfacePage = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcSurfacePrimary = [UIColor colorWithRed:0.945f green:0.945f blue:0.945f alpha:1.000f];
- const OcSurfaceSecondary = [UIColor colorWithRed:0.886f green:0.886f blue:0.886f alpha:1.000f];
+ const OcSurfaceSecondary = [UIColor colorWithRed:0.945f green:0.945f blue:0.945f alpha:1.000f];
  const OcSurfaceDisabled = [UIColor colorWithRed:0.776f green:0.776f blue:0.776f alpha:1.000f];
  const OcSurfaceSuccess = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcSurfaceError = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];

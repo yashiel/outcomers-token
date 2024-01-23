@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 10:24:03 GMT
+ * Generated on Tue, 23 Jan 2024 10:32:11 GMT
  */
 
 export const ocRadius0 = "0";
@@ -236,9 +236,9 @@ export const ocTextWarning = "hsl(44 87.2% 19.6%)";
 export const ocTextError = "hsl(6.03 85.6% 24.6%)";
 export const ocTextOnAction = "#ffffff";
 export const ocTextOnDisabled = "#0B0B0B";
-export const ocSurfacePage = "#111111";
-export const ocSurfacePrimary = "#111111";
-export const ocSurfaceSecondary = "#111111";
+export const ocSurfacePage = "#0B0B0B";
+export const ocSurfacePrimary = "#161616";
+export const ocSurfaceSecondary = "#222222";
 export const ocSurfaceDisabled = "#C6C6C6";
 export const ocSurfaceSuccess = "hsl(151 95.1% 12.7%)";
 export const ocSurfaceError = "hsl(6.03 85.6% 8.2%)";

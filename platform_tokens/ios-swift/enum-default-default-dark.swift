@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:24:03 GMT
+// Generated on Tue, 23 Jan 2024 10:32:11 GMT
 
 
 import UIKit
@@ -239,9 +239,9 @@ public enum  {
     public static let ocSurfaceError = UIColor(red: 0.761, green: 0.129, blue: 0.059, alpha: 1)
     public static let ocSurfaceHighlight = UIColor(red: 0.133, green: 0.573, blue: 0.643, alpha: 1)
     public static let ocSurfaceInformation = UIColor(red: 0.000, green: 0.396, blue: 1.000, alpha: 1)
-    public static let ocSurfacePage = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
-    public static let ocSurfacePrimary = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
-    public static let ocSurfaceSecondary = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
+    public static let ocSurfacePage = UIColor(red: 0.043, green: 0.043, blue: 0.043, alpha: 1)
+    public static let ocSurfacePrimary = UIColor(red: 0.086, green: 0.086, blue: 0.086, alpha: 1)
+    public static let ocSurfaceSecondary = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 1)
     public static let ocSurfaceSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceWarning = UIColor(red: 0.043, green: 0.043, blue: 0.043, alpha: 1)
     public static let ocTextAction = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
