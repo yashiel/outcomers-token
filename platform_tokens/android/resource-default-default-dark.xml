@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 23 Jan 2024 04:51:32 GMT
+  Generated on Tue, 23 Jan 2024 05:06:25 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -22,13 +22,15 @@
   <color name="oc_color_red_700">#ffc2210f</color>
   <color name="oc_color_red_800">#ffc2210f</color>
   <color name="oc_color_red_900">#ffc2210f</color>
-  <color name="oc_color_green_50">#ffe6f5ee</color>
-  <color name="oc_color_green_75">#ff98d7b8</color>
-  <color name="oc_color_green_100">#ff6dc79b</color>
-  <color name="oc_color_green_200">#ff2fae70</color>
+  <color name="oc_color_green_100">#ff049e53</color>
+  <color name="oc_color_green_200">#ff049e53</color>
   <color name="oc_color_green_300">#ff049e53</color>
-  <color name="oc_color_green_400">#ff036f3a</color>
-  <color name="oc_color_green_500">#ff026033</color>
+  <color name="oc_color_green_400">#ff049e53</color>
+  <color name="oc_color_green_500">#ff049e53</color>
+  <color name="oc_color_green_600">#ff049e53</color>
+  <color name="oc_color_green_700">#ff049e53</color>
+  <color name="oc_color_green_800">#ff049e53</color>
+  <color name="oc_color_green_900">#ff049e53</color>
   <color name="oc_color_yellow_50">#fffdf7e7</color>
   <color name="oc_color_yellow_75">#fff6df9d</color>
   <color name="oc_color_yellow_100">#fff3d174</color>
@@ -77,12 +79,12 @@
   <color name="oc_color_gray_900">#ff091e42</color>
   <color name="oc_color_white_white">#ffffffff</color>
   <color name="oc_color_black_black">#ff111111</color>
+  <color name="oc_color_primary_darker">#ff049e53</color>
+  <color name="oc_color_primary_dark">#ff049e53</color>
   <color name="oc_color_primary_default">#ff049e53</color>
-  <color name="oc_color_primary_dark">#ff036f3a</color>
-  <color name="oc_color_primary_darker">#ff026033</color>
-  <color name="oc_color_primary_light">#ff6dc79b</color>
-  <color name="oc_color_primary_lighter">#ff98d7b8</color>
-  <color name="oc_color_primary_lightest">#ffe6f5ee</color>
+  <color name="oc_color_primary_light">#ff049e53</color>
+  <color name="oc_color_primary_lighter">#ff049e53</color>
+  <color name="oc_color_primary_lightest">#ff049e53</color>
   <color name="oc_color_secondary_default">#fff17f29</color>
   <color name="oc_color_secondary_dark">#ffa9591d</color>
   <color name="oc_color_secondary_darker">#ff934d19</color>
@@ -95,12 +97,12 @@
   <color name="oc_color_accent_light">#ff7fc0ca</color>
   <color name="oc_color_accent_lighter">#ffa4d2da</color>
   <color name="oc_color_accent_lightest">#ffe9f4f6</color>
+  <color name="oc_color_success_darker">#ff049e53</color>
+  <color name="oc_color_success_dark">#ff049e53</color>
   <color name="oc_color_success_default">#ff049e53</color>
-  <color name="oc_color_success_dark">#ff036f3a</color>
-  <color name="oc_color_success_darker">#ff026033</color>
-  <color name="oc_color_success_light">#ff6dc79b</color>
-  <color name="oc_color_success_lighter">#ff98d7b8</color>
-  <color name="oc_color_success_lightest">#ffe6f5ee</color>
+  <color name="oc_color_success_light">#ff049e53</color>
+  <color name="oc_color_success_lighter">#ff049e53</color>
+  <color name="oc_color_success_lightest">#ff049e53</color>
   <color name="oc_color_warning_default">#ffeab010</color>
   <color name="oc_color_warning_dark">#ffa47b0b</color>
   <color name="oc_color_warning_darker">#ff8f6b0a</color>
@@ -226,7 +228,7 @@
   <string name="oc_text_disabled">#ff7a8699</string>
   <string name="oc_text_highlight">#ff2292a4</string>
   <string name="oc_text_information">#ff0065ff</string>
-  <string name="oc_text_success">#ff026033</string>
+  <string name="oc_text_success">#ff049e53</string>
   <string name="oc_text_warning">#ff8f6b0a</string>
   <string name="oc_text_error">#ffc2210f</string>
   <string name="oc_text_on_action">#ffffffff</string>
@@ -235,22 +237,22 @@
   <string name="oc_surface_primary">#ff111111</string>
   <string name="oc_surface_secondary">#ff111111</string>
   <string name="oc_surface_disabled">#ffdfe2e6</string>
-  <string name="oc_surface_success">#ff026033</string>
+  <string name="oc_surface_success">#ff049e53</string>
   <string name="oc_surface_error">#ffc2210f</string>
   <string name="oc_surface_warning">#ff243757</string>
   <string name="oc_surface_information">#ffe6f0ff</string>
   <string name="oc_surface_highlight">#ff2292a4</string>
-  <string name="oc_surface_action">#ff026033</string>
-  <string name="oc_surface_action_hover">#ff036f3a</string>
+  <string name="oc_surface_action">#ff049e53</string>
+  <string name="oc_surface_action_hover">#ff049e53</string>
   <string name="oc_border_primary">#ffebedf0</string>
   <string name="oc_border_secondary">#ff049e53</string>
   <string name="oc_border_information">#ff6ba6ff</string>
-  <string name="oc_border_success">#ff036f3a</string>
+  <string name="oc_border_success">#ff049e53</string>
   <string name="oc_border_warning">#fff3d174</string>
   <string name="oc_border_error">#ffc2210f</string>
   <string name="oc_border_disabled">#ffa6aebb</string>
-  <string name="oc_border_action">#ff036f3a</string>
-  <string name="oc_border_action_hover">#ff6dc79b</string>
+  <string name="oc_border_action">#ff049e53</string>
+  <string name="oc_border_action_hover">#ff049e53</string>
   <string name="oc_border_focus">#ff049e53</string>
   <string name="oc_border_highlight">#ff2292a4</string>
   <string name="oc_icon_primary">#ff049e53</string>

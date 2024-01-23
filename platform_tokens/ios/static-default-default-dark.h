@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 04:51:32 GMT
+// Generated on Tue, 23 Jan 2024 05:06:25 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -26,13 +26,15 @@ extern  const OcColorRed600;
 extern  const OcColorRed700;
 extern  const OcColorRed800;
 extern  const OcColorRed900;
-extern  const OcColorGreen50;
-extern  const OcColorGreen75;
 extern  const OcColorGreen100;
 extern  const OcColorGreen200;
 extern  const OcColorGreen300;
 extern  const OcColorGreen400;
 extern  const OcColorGreen500;
+extern  const OcColorGreen600;
+extern  const OcColorGreen700;
+extern  const OcColorGreen800;
+extern  const OcColorGreen900;
 extern  const OcColorYellow50;
 extern  const OcColorYellow75;
 extern  const OcColorYellow100;
@@ -81,9 +83,9 @@ extern  const OcColorGray800;
 extern  const OcColorGray900;
 extern  const OcColorWhiteWhite;
 extern  const OcColorBlackBlack;
-extern  const OcColorPrimaryDefault;
-extern  const OcColorPrimaryDark;
 extern  const OcColorPrimaryDarker;
+extern  const OcColorPrimaryDark;
+extern  const OcColorPrimaryDefault;
 extern  const OcColorPrimaryLight;
 extern  const OcColorPrimaryLighter;
 extern  const OcColorPrimaryLightest;
@@ -99,9 +101,9 @@ extern  const OcColorAccentDarker;
 extern  const OcColorAccentLight;
 extern  const OcColorAccentLighter;
 extern  const OcColorAccentLightest;
-extern  const OcColorSuccessDefault;
-extern  const OcColorSuccessDark;
 extern  const OcColorSuccessDarker;
+extern  const OcColorSuccessDark;
+extern  const OcColorSuccessDefault;
 extern  const OcColorSuccessLight;
 extern  const OcColorSuccessLighter;
 extern  const OcColorSuccessLightest;

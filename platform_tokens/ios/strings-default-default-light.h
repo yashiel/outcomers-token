@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 04:51:32 GMT
+// Generated on Tue, 23 Jan 2024 05:06:25 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -27,13 +27,15 @@ extern NSString * const OcColorRed600;
 extern NSString * const OcColorRed700;
 extern NSString * const OcColorRed800;
 extern NSString * const OcColorRed900;
-extern NSString * const OcColorGreen50;
-extern NSString * const OcColorGreen75;
 extern NSString * const OcColorGreen100;
 extern NSString * const OcColorGreen200;
 extern NSString * const OcColorGreen300;
 extern NSString * const OcColorGreen400;
 extern NSString * const OcColorGreen500;
+extern NSString * const OcColorGreen600;
+extern NSString * const OcColorGreen700;
+extern NSString * const OcColorGreen800;
+extern NSString * const OcColorGreen900;
 extern NSString * const OcColorYellow50;
 extern NSString * const OcColorYellow75;
 extern NSString * const OcColorYellow100;
@@ -82,9 +84,9 @@ extern NSString * const OcColorGray800;
 extern NSString * const OcColorGray900;
 extern NSString * const OcColorWhiteWhite;
 extern NSString * const OcColorBlackBlack;
-extern NSString * const OcColorPrimaryDefault;
-extern NSString * const OcColorPrimaryDark;
 extern NSString * const OcColorPrimaryDarker;
+extern NSString * const OcColorPrimaryDark;
+extern NSString * const OcColorPrimaryDefault;
 extern NSString * const OcColorPrimaryLight;
 extern NSString * const OcColorPrimaryLighter;
 extern NSString * const OcColorPrimaryLightest;
@@ -100,9 +102,9 @@ extern NSString * const OcColorAccentDarker;
 extern NSString * const OcColorAccentLight;
 extern NSString * const OcColorAccentLighter;
 extern NSString * const OcColorAccentLightest;
-extern NSString * const OcColorSuccessDefault;
-extern NSString * const OcColorSuccessDark;
 extern NSString * const OcColorSuccessDarker;
+extern NSString * const OcColorSuccessDark;
+extern NSString * const OcColorSuccessDefault;
 extern NSString * const OcColorSuccessLight;
 extern NSString * const OcColorSuccessLighter;
 extern NSString * const OcColorSuccessLightest;

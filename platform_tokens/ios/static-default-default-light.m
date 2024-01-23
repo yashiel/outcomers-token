@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 04:51:32 GMT
+// Generated on Tue, 23 Jan 2024 05:06:25 GMT
 
 
 #import ".h"
@@ -27,13 +27,15 @@
  const OcColorRed700 = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
  const OcColorRed800 = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
  const OcColorRed900 = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
- const OcColorGreen50 = [UIColor colorWithRed:0.902f green:0.961f blue:0.933f alpha:1.000f];
- const OcColorGreen75 = [UIColor colorWithRed:0.596f green:0.843f blue:0.722f alpha:1.000f];
- const OcColorGreen100 = [UIColor colorWithRed:0.427f green:0.780f blue:0.608f alpha:1.000f];
- const OcColorGreen200 = [UIColor colorWithRed:0.184f green:0.682f blue:0.439f alpha:1.000f];
+ const OcColorGreen100 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorGreen200 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcColorGreen300 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
- const OcColorGreen400 = [UIColor colorWithRed:0.012f green:0.435f blue:0.227f alpha:1.000f];
- const OcColorGreen500 = [UIColor colorWithRed:0.008f green:0.376f blue:0.200f alpha:1.000f];
+ const OcColorGreen400 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorGreen500 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorGreen600 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorGreen700 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorGreen800 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorGreen900 = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcColorYellow50 = [UIColor colorWithRed:0.992f green:0.969f blue:0.906f alpha:1.000f];
  const OcColorYellow75 = [UIColor colorWithRed:0.965f green:0.875f blue:0.616f alpha:1.000f];
  const OcColorYellow100 = [UIColor colorWithRed:0.953f green:0.820f blue:0.455f alpha:1.000f];
@@ -82,12 +84,12 @@
  const OcColorGray900 = [UIColor colorWithRed:0.035f green:0.118f blue:0.259f alpha:1.000f];
  const OcColorWhiteWhite = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcColorBlackBlack = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
+ const OcColorPrimaryDarker = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorPrimaryDark = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcColorPrimaryDefault = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
- const OcColorPrimaryDark = [UIColor colorWithRed:0.012f green:0.435f blue:0.227f alpha:1.000f];
- const OcColorPrimaryDarker = [UIColor colorWithRed:0.008f green:0.376f blue:0.200f alpha:1.000f];
- const OcColorPrimaryLight = [UIColor colorWithRed:0.427f green:0.780f blue:0.608f alpha:1.000f];
- const OcColorPrimaryLighter = [UIColor colorWithRed:0.596f green:0.843f blue:0.722f alpha:1.000f];
- const OcColorPrimaryLightest = [UIColor colorWithRed:0.902f green:0.961f blue:0.933f alpha:1.000f];
+ const OcColorPrimaryLight = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorPrimaryLighter = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorPrimaryLightest = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcColorSecondaryDefault = [UIColor colorWithRed:0.945f green:0.498f blue:0.161f alpha:1.000f];
  const OcColorSecondaryDark = [UIColor colorWithRed:0.663f green:0.349f blue:0.114f alpha:1.000f];
  const OcColorSecondaryDarker = [UIColor colorWithRed:0.576f green:0.302f blue:0.098f alpha:1.000f];
@@ -100,12 +102,12 @@
  const OcColorAccentLight = [UIColor colorWithRed:0.498f green:0.753f blue:0.792f alpha:1.000f];
  const OcColorAccentLighter = [UIColor colorWithRed:0.643f green:0.824f blue:0.855f alpha:1.000f];
  const OcColorAccentLightest = [UIColor colorWithRed:0.914f green:0.957f blue:0.965f alpha:1.000f];
+ const OcColorSuccessDarker = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorSuccessDark = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcColorSuccessDefault = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
- const OcColorSuccessDark = [UIColor colorWithRed:0.012f green:0.435f blue:0.227f alpha:1.000f];
- const OcColorSuccessDarker = [UIColor colorWithRed:0.008f green:0.376f blue:0.200f alpha:1.000f];
- const OcColorSuccessLight = [UIColor colorWithRed:0.427f green:0.780f blue:0.608f alpha:1.000f];
- const OcColorSuccessLighter = [UIColor colorWithRed:0.596f green:0.843f blue:0.722f alpha:1.000f];
- const OcColorSuccessLightest = [UIColor colorWithRed:0.902f green:0.961f blue:0.933f alpha:1.000f];
+ const OcColorSuccessLight = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorSuccessLighter = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcColorSuccessLightest = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcColorWarningDefault = [UIColor colorWithRed:0.918f green:0.690f blue:0.063f alpha:1.000f];
  const OcColorWarningDark = [UIColor colorWithRed:0.643f green:0.482f blue:0.043f alpha:1.000f];
  const OcColorWarningDarker = [UIColor colorWithRed:0.561f green:0.420f blue:0.039f alpha:1.000f];
@@ -231,7 +233,7 @@
  const OcTextDisabled = [UIColor colorWithRed:0.478f green:0.525f blue:0.600f alpha:1.000f];
  const OcTextHighlight = [UIColor colorWithRed:0.133f green:0.573f blue:0.643f alpha:1.000f];
  const OcTextInformation = [UIColor colorWithRed:0.000f green:0.396f blue:1.000f alpha:1.000f];
- const OcTextSuccess = [UIColor colorWithRed:0.008f green:0.376f blue:0.200f alpha:1.000f];
+ const OcTextSuccess = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcTextWarning = [UIColor colorWithRed:0.561f green:0.420f blue:0.039f alpha:1.000f];
  const OcTextError = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
  const OcTextOnAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -240,22 +242,22 @@
  const OcSurfacePrimary = [UIColor colorWithRed:0.980f green:0.984f blue:0.984f alpha:1.000f];
  const OcSurfaceSecondary = [UIColor colorWithRed:0.961f green:0.965f blue:0.969f alpha:1.000f];
  const OcSurfaceDisabled = [UIColor colorWithRed:0.875f green:0.886f blue:0.902f alpha:1.000f];
- const OcSurfaceSuccess = [UIColor colorWithRed:0.902f green:0.961f blue:0.933f alpha:1.000f];
+ const OcSurfaceSuccess = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcSurfaceError = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
  const OcSurfaceWarning = [UIColor colorWithRed:0.992f green:0.969f blue:0.906f alpha:1.000f];
  const OcSurfaceInformation = [UIColor colorWithRed:0.902f green:0.941f blue:1.000f alpha:1.000f];
  const OcSurfaceHighlight = [UIColor colorWithRed:0.133f green:0.573f blue:0.643f alpha:1.000f];
  const OcSurfaceAction = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
- const OcSurfaceActionHover = [UIColor colorWithRed:0.012f green:0.435f blue:0.227f alpha:1.000f];
+ const OcSurfaceActionHover = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcBorderPrimary = [UIColor colorWithRed:0.922f green:0.929f blue:0.941f alpha:1.000f];
  const OcBorderSecondary = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcBorderInformation = [UIColor colorWithRed:0.420f green:0.651f blue:1.000f alpha:1.000f];
- const OcBorderSuccess = [UIColor colorWithRed:0.012f green:0.435f blue:0.227f alpha:1.000f];
+ const OcBorderSuccess = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcBorderWarning = [UIColor colorWithRed:0.953f green:0.820f blue:0.455f alpha:1.000f];
  const OcBorderError = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
  const OcBorderDisabled = [UIColor colorWithRed:0.651f green:0.682f blue:0.733f alpha:1.000f];
- const OcBorderAction = [UIColor colorWithRed:0.012f green:0.435f blue:0.227f alpha:1.000f];
- const OcBorderActionHover = [UIColor colorWithRed:0.427f green:0.780f blue:0.608f alpha:1.000f];
+ const OcBorderAction = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
+ const OcBorderActionHover = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcBorderFocus = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];
  const OcBorderHighlight = [UIColor colorWithRed:0.133f green:0.573f blue:0.643f alpha:1.000f];
  const OcIconPrimary = [UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f];

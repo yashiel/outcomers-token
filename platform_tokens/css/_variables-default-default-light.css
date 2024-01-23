@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 04:51:32 GMT
+ * Generated on Tue, 23 Jan 2024 05:06:25 GMT
  */
 
 :root {
@@ -132,13 +132,7 @@
   --oc-color-yellow-100: #f3d174;
   --oc-color-yellow-75: #f6df9d;
   --oc-color-yellow-50: #fdf7e7;
-  --oc-color-green-500: #026033;
-  --oc-color-green-400: #036f3a;
-  --oc-color-green-300: #049e53;
-  --oc-color-green-200: #2fae70;
-  --oc-color-green-100: #6dc79b;
-  --oc-color-green-75: #98d7b8;
-  --oc-color-green-50: #e6f5ee;
+  --oc-color-green-500: #049e53;
   --oc-color-red-500: #c2210f;
   --oc-radius-50: 50px;
   --oc-radius-32: 32px;
@@ -181,12 +175,7 @@
   --oc-color-warning-darker: var(--oc-color-yellow-500);
   --oc-color-warning-dark: var(--oc-color-yellow-400);
   --oc-color-warning-default: var(--oc-color-yellow-300);
-  --oc-color-success-lightest: var(--oc-color-green-50);
-  --oc-color-success-lighter: var(--oc-color-green-75);
-  --oc-color-success-light: var(--oc-color-green-100);
-  --oc-color-success-darker: var(--oc-color-green-500);
-  --oc-color-success-dark: var(--oc-color-green-400);
-  --oc-color-success-default: var(--oc-color-green-300);
+  --oc-color-success-default: var(--oc-color-green-500);
   --oc-color-accent-lightest: var(--oc-color-teal-50);
   --oc-color-accent-lighter: var(--oc-color-teal-75);
   --oc-color-accent-light: var(--oc-color-teal-100);
@@ -199,12 +188,15 @@
   --oc-color-secondary-darker: var(--oc-color-orange-500);
   --oc-color-secondary-dark: var(--oc-color-orange-400);
   --oc-color-secondary-default: var(--oc-color-orange-300);
-  --oc-color-primary-lightest: var(--oc-color-green-50);
-  --oc-color-primary-lighter: var(--oc-color-green-75);
-  --oc-color-primary-light: var(--oc-color-green-100);
-  --oc-color-primary-darker: var(--oc-color-green-500);
-  --oc-color-primary-dark: var(--oc-color-green-400);
-  --oc-color-primary-default: var(--oc-color-green-300);
+  --oc-color-primary-default: var(--oc-color-green-500);
+  --oc-color-green-900: var(--oc-color-green-500);
+  --oc-color-green-800: var(--oc-color-green-500);
+  --oc-color-green-700: var(--oc-color-green-500);
+  --oc-color-green-600: var(--oc-color-green-500);
+  --oc-color-green-400: var(--oc-color-green-500);
+  --oc-color-green-300: var(--oc-color-green-500);
+  --oc-color-green-200: var(--oc-color-green-500);
+  --oc-color-green-100: var(--oc-color-green-500);
   --oc-color-red-900: var(--oc-color-red-500);
   --oc-color-red-800: var(--oc-color-red-500);
   --oc-color-red-700: var(--oc-color-red-500);
@@ -220,20 +212,15 @@
   --oc-icon-primary: var(--oc-color-primary-default);
   --oc-border-highlight: var(--oc-color-accent-default);
   --oc-border-focus: var(--oc-color-primary-default);
-  --oc-border-action-hover: var(--oc-color-primary-light);
-  --oc-border-action: var(--oc-color-primary-dark);
   --oc-border-disabled: var(--oc-color-neutral-70);
   --oc-border-warning: var(--oc-color-warning-light);
-  --oc-border-success: var(--oc-color-success-dark);
   --oc-border-information: var(--oc-color-info-light);
   --oc-border-secondary: var(--oc-color-primary-default);
   --oc-border-primary: var(--oc-color-neutral-30);
-  --oc-surface-action-hover: var(--oc-color-primary-dark);
   --oc-surface-action: var(--oc-color-primary-default);
   --oc-surface-highlight: var(--oc-color-accent-default);
   --oc-surface-information: var(--oc-color-info-lightest);
   --oc-surface-warning: var(--oc-color-warning-lightest);
-  --oc-surface-success: var(--oc-color-success-lightest);
   --oc-surface-disabled: var(--oc-color-neutral-40);
   --oc-surface-secondary: var(--oc-color-neutral-20);
   --oc-surface-primary: var(--oc-color-neutral-10);
@@ -241,7 +228,6 @@
   --oc-text-on-disabled: var(--oc-color-neutral-700);
   --oc-text-on-action: var(--oc-color-neutral-white);
   --oc-text-warning: var(--oc-color-warning-darker);
-  --oc-text-success: var(--oc-color-success-darker);
   --oc-text-information: var(--oc-color-info-default);
   --oc-text-highlight: var(--oc-color-accent-default);
   --oc-text-disabled: var(--oc-color-neutral-100);
@@ -254,7 +240,23 @@
   --oc-color-error-light: var(--oc-color-red-300);
   --oc-color-error-dark: var(--oc-color-red-700);
   --oc-color-error-darker: var(--oc-color-red-900);
+  --oc-color-success-lightest: var(--oc-color-green-100);
+  --oc-color-success-lighter: var(--oc-color-green-200);
+  --oc-color-success-light: var(--oc-color-green-400);
+  --oc-color-success-dark: var(--oc-color-green-700);
+  --oc-color-success-darker: var(--oc-color-green-800);
+  --oc-color-primary-lightest: var(--oc-color-green-100);
+  --oc-color-primary-lighter: var(--oc-color-green-200);
+  --oc-color-primary-light: var(--oc-color-green-400);
+  --oc-color-primary-dark: var(--oc-color-green-700);
+  --oc-color-primary-darker: var(--oc-color-green-800);
+  --oc-border-action-hover: var(--oc-color-primary-light);
+  --oc-border-action: var(--oc-color-primary-dark);
   --oc-border-error: var(--oc-color-error-light);
+  --oc-border-success: var(--oc-color-success-dark);
+  --oc-surface-action-hover: var(--oc-color-primary-dark);
   --oc-surface-error: var(--oc-color-error-lightest);
+  --oc-surface-success: var(--oc-color-success-lightest);
   --oc-text-error: var(--oc-color-error-dark);
+  --oc-text-success: var(--oc-color-success-darker);
 }
