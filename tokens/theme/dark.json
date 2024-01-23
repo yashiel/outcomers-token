@@ -51,15 +51,15 @@
   },
   "surface": {
     "page": {
-      "value": "{color.neutral.black}",
+      "value": "{color.neutral.400}",
       "type": "color"
     },
     "primary": {
-      "value": "{color.neutral.black}",
+      "value": "{color.neutral.300}",
       "type": "color"
     },
     "secondary": {
-      "value": "{color.neutral.black}",
+      "value": "{color.neutral.200}",
       "type": "color"
     },
     "disabled": {
