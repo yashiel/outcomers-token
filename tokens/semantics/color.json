@@ -157,28 +157,28 @@
       }
     },
     "error": {
-      "default": {
-        "value": "{color.red.300}",
+      "darker": {
+        "value": "{color.red.900}",
         "type": "color"
       },
       "dark": {
-        "value": "{color.red.400}",
+        "value": "{color.red.700}",
         "type": "color"
       },
-      "darker": {
+      "default": {
         "value": "{color.red.500}",
         "type": "color"
       },
       "light": {
-        "value": "{color.red.100}",
+        "value": "{color.red.300}",
         "type": "color"
       },
       "lighter": {
-        "value": "{color.red.75}",
+        "value": "{color.red.200}",
         "type": "color"
       },
       "lightest": {
-        "value": "{color.red.50}",
+        "value": "{color.red.100}",
         "type": "color"
       }
     },
