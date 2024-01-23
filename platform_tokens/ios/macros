@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:32:11 GMT
+// Generated on Tue, 23 Jan 2024 19:33:15 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -203,9 +203,13 @@
 #define OcLetterSpacing2 -2.5%
 #define OcLetterSpacing3 -2%
 #define OcLetterSpacing4 2%
+#define OcFontSize10 10
 #define OcFontSize12 12
+#define OcFontSize14 14
 #define OcFontSize16 16
+#define OcFontSize18 18
 #define OcFontSize20 20
+#define OcFontSize22 22
 #define OcFontSize24 24
 #define OcFontSize32 32
 #define OcFontSize40 40
@@ -224,13 +228,24 @@
 #define OcTextDecorationNone none
 #define OcTextDecorationUnderline underline
 #define OcTextDecorationLineThrough line-through
-#define OcWebHeading6Light [object Object]
-#define OcWebHeading6ExtraLight [object Object]
-#define OcWebHeading6Regular [object Object]
-#define OcWebHeading6Medium [object Object]
-#define OcWebHeading6SemiBold [object Object]
-#define OcWebHeading6Bold [object Object]
-#define OcWebHeading5Light [object Object]
+#define OcWebSmallLight [object Object]
+#define OcWebSmallExtraLight [object Object]
+#define OcWebSmallRegular [object Object]
+#define OcWebSmallMedium [object Object]
+#define OcWebSmallSemiBold [object Object]
+#define OcWebSmallBold [object Object]
+#define OcWebLabelLight [object Object]
+#define OcWebLabelExtraLight [object Object]
+#define OcWebLabelRegular [object Object]
+#define OcWebLabelMedium [object Object]
+#define OcWebLabelSemiBold [object Object]
+#define OcWebLabelBold [object Object]
+#define OcWebBody2Light [object Object]
+#define OcWebBody2ExtraLight [object Object]
+#define OcWebBody2Regular [object Object]
+#define OcWebBody2Medium [object Object]
+#define OcWebBody2SemiBold [object Object]
+#define OcWebBody2Bold [object Object]
 #define OcTextHeading [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextBody [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextAction [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]

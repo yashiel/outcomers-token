@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:32:11 GMT
+// Generated on Tue, 23 Jan 2024 19:33:15 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -203,9 +203,13 @@ extern NSString * const OcLetterSpacing1;
 extern NSString * const OcLetterSpacing2;
 extern NSString * const OcLetterSpacing3;
 extern NSString * const OcLetterSpacing4;
+extern NSString * const OcFontSize10;
 extern NSString * const OcFontSize12;
+extern NSString * const OcFontSize14;
 extern NSString * const OcFontSize16;
+extern NSString * const OcFontSize18;
 extern NSString * const OcFontSize20;
+extern NSString * const OcFontSize22;
 extern NSString * const OcFontSize24;
 extern NSString * const OcFontSize32;
 extern NSString * const OcFontSize40;
@@ -224,13 +228,24 @@ extern NSString * const OcParagaphSpacing16;
 extern NSString * const OcTextDecorationNone;
 extern NSString * const OcTextDecorationUnderline;
 extern NSString * const OcTextDecorationLineThrough;
-extern NSString * const OcWebHeading6Light;
-extern NSString * const OcWebHeading6ExtraLight;
-extern NSString * const OcWebHeading6Regular;
-extern NSString * const OcWebHeading6Medium;
-extern NSString * const OcWebHeading6SemiBold;
-extern NSString * const OcWebHeading6Bold;
-extern NSString * const OcWebHeading5Light;
+extern NSString * const OcWebSmallLight;
+extern NSString * const OcWebSmallExtraLight;
+extern NSString * const OcWebSmallRegular;
+extern NSString * const OcWebSmallMedium;
+extern NSString * const OcWebSmallSemiBold;
+extern NSString * const OcWebSmallBold;
+extern NSString * const OcWebLabelLight;
+extern NSString * const OcWebLabelExtraLight;
+extern NSString * const OcWebLabelRegular;
+extern NSString * const OcWebLabelMedium;
+extern NSString * const OcWebLabelSemiBold;
+extern NSString * const OcWebLabelBold;
+extern NSString * const OcWebBody2Light;
+extern NSString * const OcWebBody2ExtraLight;
+extern NSString * const OcWebBody2Regular;
+extern NSString * const OcWebBody2Medium;
+extern NSString * const OcWebBody2SemiBold;
+extern NSString * const OcWebBody2Bold;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

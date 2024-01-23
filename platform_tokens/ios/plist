@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Tue, 23 Jan 2024 10:32:11 GMT
+  Generated on Tue, 23 Jan 2024 19:33:15 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1594,15 +1594,27 @@
     <key>OcLetterSpacing4</key>
     </dict>
       <string>2%</string>
+    <key>OcFontSize10</key>
+    </dict>
+      <string>10</string>
     <key>OcFontSize12</key>
     </dict>
       <string>12</string>
+    <key>OcFontSize14</key>
+    </dict>
+      <string>14</string>
     <key>OcFontSize16</key>
     </dict>
       <string>16</string>
+    <key>OcFontSize18</key>
+    </dict>
+      <string>18</string>
     <key>OcFontSize20</key>
     </dict>
       <string>20</string>
+    <key>OcFontSize22</key>
+    </dict>
+      <string>22</string>
     <key>OcFontSize24</key>
     </dict>
       <string>24</string>
@@ -1657,25 +1669,58 @@
     <key>OcTextDecorationLineThrough</key>
     </dict>
       <string>line-through</string>
-    <key>OcWebHeading6Light</key>
+    <key>OcWebSmallLight</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebHeading6ExtraLight</key>
+    <key>OcWebSmallExtraLight</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebHeading6Regular</key>
+    <key>OcWebSmallRegular</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebHeading6Medium</key>
+    <key>OcWebSmallMedium</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebHeading6SemiBold</key>
+    <key>OcWebSmallSemiBold</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebHeading6Bold</key>
+    <key>OcWebSmallBold</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebHeading5Light</key>
+    <key>OcWebLabelLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebLabelExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebLabelRegular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebLabelMedium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebLabelSemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebLabelBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBody2Light</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBody2ExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBody2Regular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBody2Medium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBody2SemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBody2Bold</key>
     </dict>
       <string>[object Object]</string>
     <key>OcTextHeading</key>

@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:32:10 GMT
+// Generated on Tue, 23 Jan 2024 19:33:15 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -202,9 +202,13 @@ extern  const OcLetterSpacing1;
 extern  const OcLetterSpacing2;
 extern  const OcLetterSpacing3;
 extern  const OcLetterSpacing4;
+extern  const OcFontSize10;
 extern  const OcFontSize12;
+extern  const OcFontSize14;
 extern  const OcFontSize16;
+extern  const OcFontSize18;
 extern  const OcFontSize20;
+extern  const OcFontSize22;
 extern  const OcFontSize24;
 extern  const OcFontSize32;
 extern  const OcFontSize40;
@@ -223,13 +227,24 @@ extern  const OcParagaphSpacing16;
 extern  const OcTextDecorationNone;
 extern  const OcTextDecorationUnderline;
 extern  const OcTextDecorationLineThrough;
-extern  const OcWebHeading6Light;
-extern  const OcWebHeading6ExtraLight;
-extern  const OcWebHeading6Regular;
-extern  const OcWebHeading6Medium;
-extern  const OcWebHeading6SemiBold;
-extern  const OcWebHeading6Bold;
-extern  const OcWebHeading5Light;
+extern  const OcWebSmallLight;
+extern  const OcWebSmallExtraLight;
+extern  const OcWebSmallRegular;
+extern  const OcWebSmallMedium;
+extern  const OcWebSmallSemiBold;
+extern  const OcWebSmallBold;
+extern  const OcWebLabelLight;
+extern  const OcWebLabelExtraLight;
+extern  const OcWebLabelRegular;
+extern  const OcWebLabelMedium;
+extern  const OcWebLabelSemiBold;
+extern  const OcWebLabelBold;
+extern  const OcWebBody2Light;
+extern  const OcWebBody2ExtraLight;
+extern  const OcWebBody2Regular;
+extern  const OcWebBody2Medium;
+extern  const OcWebBody2SemiBold;
+extern  const OcWebBody2Bold;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

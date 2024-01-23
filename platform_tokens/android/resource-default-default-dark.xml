@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 23 Jan 2024 10:32:11 GMT
+  Generated on Tue, 23 Jan 2024 19:33:15 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -198,9 +198,13 @@
   <string name="oc_letter_spacing_2">-2.5%</string>
   <string name="oc_letter_spacing_3">-2%</string>
   <string name="oc_letter_spacing_4">2%</string>
+  <string name="oc_font_size_10">10</string>
   <string name="oc_font_size_12">12</string>
+  <string name="oc_font_size_14">14</string>
   <string name="oc_font_size_16">16</string>
+  <string name="oc_font_size_18">18</string>
   <string name="oc_font_size_20">20</string>
+  <string name="oc_font_size_22">22</string>
   <string name="oc_font_size_24">24</string>
   <string name="oc_font_size_32">32</string>
   <string name="oc_font_size_40">40</string>
@@ -219,13 +223,24 @@
   <string name="oc_text_decoration_none">none</string>
   <string name="oc_text_decoration_underline">underline</string>
   <string name="oc_text_decoration_line_through">line-through</string>
-  <string name="oc_web_heading_6_light">[object Object]</string>
-  <string name="oc_web_heading_6_extra_light">[object Object]</string>
-  <string name="oc_web_heading_6_regular">[object Object]</string>
-  <string name="oc_web_heading_6_medium">[object Object]</string>
-  <string name="oc_web_heading_6_semi_bold">[object Object]</string>
-  <string name="oc_web_heading_6_bold">[object Object]</string>
-  <string name="oc_web_heading_5_light">[object Object]</string>
+  <string name="oc_web_small_light">[object Object]</string>
+  <string name="oc_web_small_extra_light">[object Object]</string>
+  <string name="oc_web_small_regular">[object Object]</string>
+  <string name="oc_web_small_medium">[object Object]</string>
+  <string name="oc_web_small_semi_bold">[object Object]</string>
+  <string name="oc_web_small_bold">[object Object]</string>
+  <string name="oc_web_label_light">[object Object]</string>
+  <string name="oc_web_label_extra_light">[object Object]</string>
+  <string name="oc_web_label_regular">[object Object]</string>
+  <string name="oc_web_label_medium">[object Object]</string>
+  <string name="oc_web_label_semi_bold">[object Object]</string>
+  <string name="oc_web_label_bold">[object Object]</string>
+  <string name="oc_web_body_2_light">[object Object]</string>
+  <string name="oc_web_body_2_extra_light">[object Object]</string>
+  <string name="oc_web_body_2_regular">[object Object]</string>
+  <string name="oc_web_body_2_medium">[object Object]</string>
+  <string name="oc_web_body_2_semi_bold">[object Object]</string>
+  <string name="oc_web_body_2_bold">[object Object]</string>
   <string name="oc_text_heading">#ffffffff</string>
   <string name="oc_text_body">#ffffffff</string>
   <string name="oc_text_action">#ffffffff</string>

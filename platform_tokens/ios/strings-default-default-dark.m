@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:32:11 GMT
+// Generated on Tue, 23 Jan 2024 19:33:15 GMT
 
 
 #import ".h"
@@ -203,9 +203,13 @@ NSString * const OcLetterSpacing1 = 1%;
 NSString * const OcLetterSpacing2 = -2.5%;
 NSString * const OcLetterSpacing3 = -2%;
 NSString * const OcLetterSpacing4 = 2%;
+NSString * const OcFontSize10 = 10;
 NSString * const OcFontSize12 = 12;
+NSString * const OcFontSize14 = 14;
 NSString * const OcFontSize16 = 16;
+NSString * const OcFontSize18 = 18;
 NSString * const OcFontSize20 = 20;
+NSString * const OcFontSize22 = 22;
 NSString * const OcFontSize24 = 24;
 NSString * const OcFontSize32 = 32;
 NSString * const OcFontSize40 = 40;
@@ -224,13 +228,24 @@ NSString * const OcParagaphSpacing16 = 16;
 NSString * const OcTextDecorationNone = none;
 NSString * const OcTextDecorationUnderline = underline;
 NSString * const OcTextDecorationLineThrough = line-through;
-NSString * const OcWebHeading6Light = [object Object];
-NSString * const OcWebHeading6ExtraLight = [object Object];
-NSString * const OcWebHeading6Regular = [object Object];
-NSString * const OcWebHeading6Medium = [object Object];
-NSString * const OcWebHeading6SemiBold = [object Object];
-NSString * const OcWebHeading6Bold = [object Object];
-NSString * const OcWebHeading5Light = [object Object];
+NSString * const OcWebSmallLight = [object Object];
+NSString * const OcWebSmallExtraLight = [object Object];
+NSString * const OcWebSmallRegular = [object Object];
+NSString * const OcWebSmallMedium = [object Object];
+NSString * const OcWebSmallSemiBold = [object Object];
+NSString * const OcWebSmallBold = [object Object];
+NSString * const OcWebLabelLight = [object Object];
+NSString * const OcWebLabelExtraLight = [object Object];
+NSString * const OcWebLabelRegular = [object Object];
+NSString * const OcWebLabelMedium = [object Object];
+NSString * const OcWebLabelSemiBold = [object Object];
+NSString * const OcWebLabelBold = [object Object];
+NSString * const OcWebBody2Light = [object Object];
+NSString * const OcWebBody2ExtraLight = [object Object];
+NSString * const OcWebBody2Regular = [object Object];
+NSString * const OcWebBody2Medium = [object Object];
+NSString * const OcWebBody2SemiBold = [object Object];
+NSString * const OcWebBody2Bold = [object Object];
 NSString * const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -1564,10 +1579,22 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"4"
   },
 @{
+  @"value": 10,
+  @"name": @"OcFontSize10",
+    @"category": @"fontSize",
+    @"type": @"10"
+  },
+@{
   @"value": 12,
   @"name": @"OcFontSize12",
     @"category": @"fontSize",
     @"type": @"12"
+  },
+@{
+  @"value": 14,
+  @"name": @"OcFontSize14",
+    @"category": @"fontSize",
+    @"type": @"14"
   },
 @{
   @"value": 16,
@@ -1576,10 +1603,22 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"16"
   },
 @{
+  @"value": 18,
+  @"name": @"OcFontSize18",
+    @"category": @"fontSize",
+    @"type": @"18"
+  },
+@{
   @"value": 20,
   @"name": @"OcFontSize20",
     @"category": @"fontSize",
     @"type": @"20"
+  },
+@{
+  @"value": 22,
+  @"name": @"OcFontSize22",
+    @"category": @"fontSize",
+    @"type": @"22"
   },
 @{
   @"value": 24,
@@ -1691,52 +1730,129 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebHeading6Light",
+  @"name": @"OcWebSmallLight",
     @"category": @"web",
-    @"type": @"heading-6",
+    @"type": @"small",
     @"item": @"light"
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebHeading6ExtraLight",
+  @"name": @"OcWebSmallExtraLight",
     @"category": @"web",
-    @"type": @"heading-6",
+    @"type": @"small",
     @"item": @"extra-light"
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebHeading6Regular",
+  @"name": @"OcWebSmallRegular",
     @"category": @"web",
-    @"type": @"heading-6",
+    @"type": @"small",
     @"item": @"regular"
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebHeading6Medium",
+  @"name": @"OcWebSmallMedium",
     @"category": @"web",
-    @"type": @"heading-6",
+    @"type": @"small",
     @"item": @"medium"
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebHeading6SemiBold",
+  @"name": @"OcWebSmallSemiBold",
     @"category": @"web",
-    @"type": @"heading-6",
+    @"type": @"small",
     @"item": @"semi-bold"
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebHeading6Bold",
+  @"name": @"OcWebSmallBold",
     @"category": @"web",
-    @"type": @"heading-6",
+    @"type": @"small",
     @"item": @"bold"
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebHeading5Light",
+  @"name": @"OcWebLabelLight",
     @"category": @"web",
-    @"type": @"heading-5",
+    @"type": @"label",
     @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebLabelExtraLight",
+    @"category": @"web",
+    @"type": @"label",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebLabelRegular",
+    @"category": @"web",
+    @"type": @"label",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebLabelMedium",
+    @"category": @"web",
+    @"type": @"label",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebLabelSemiBold",
+    @"category": @"web",
+    @"type": @"label",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebLabelBold",
+    @"category": @"web",
+    @"type": @"label",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebBody2Light",
+    @"category": @"web",
+    @"type": @"body-2",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebBody2ExtraLight",
+    @"category": @"web",
+    @"type": @"body-2",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebBody2Regular",
+    @"category": @"web",
+    @"type": @"body-2",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebBody2Medium",
+    @"category": @"web",
+    @"type": @"body-2",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebBody2SemiBold",
+    @"category": @"web",
+    @"type": @"body-2",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebBody2Bold",
+    @"category": @"web",
+    @"type": @"body-2",
+    @"item": @"bold"
   },
 @{
   @"value": [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],

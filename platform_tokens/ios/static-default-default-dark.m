@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:32:11 GMT
+// Generated on Tue, 23 Jan 2024 19:33:15 GMT
 
 
 #import ".h"
@@ -203,9 +203,13 @@
  const OcLetterSpacing2 = -2.5%;
  const OcLetterSpacing3 = -2%;
  const OcLetterSpacing4 = 2%;
+ const OcFontSize10 = 10;
  const OcFontSize12 = 12;
+ const OcFontSize14 = 14;
  const OcFontSize16 = 16;
+ const OcFontSize18 = 18;
  const OcFontSize20 = 20;
+ const OcFontSize22 = 22;
  const OcFontSize24 = 24;
  const OcFontSize32 = 32;
  const OcFontSize40 = 40;
@@ -224,13 +228,24 @@
  const OcTextDecorationNone = none;
  const OcTextDecorationUnderline = underline;
  const OcTextDecorationLineThrough = line-through;
- const OcWebHeading6Light = [object Object];
- const OcWebHeading6ExtraLight = [object Object];
- const OcWebHeading6Regular = [object Object];
- const OcWebHeading6Medium = [object Object];
- const OcWebHeading6SemiBold = [object Object];
- const OcWebHeading6Bold = [object Object];
- const OcWebHeading5Light = [object Object];
+ const OcWebSmallLight = [object Object];
+ const OcWebSmallExtraLight = [object Object];
+ const OcWebSmallRegular = [object Object];
+ const OcWebSmallMedium = [object Object];
+ const OcWebSmallSemiBold = [object Object];
+ const OcWebSmallBold = [object Object];
+ const OcWebLabelLight = [object Object];
+ const OcWebLabelExtraLight = [object Object];
+ const OcWebLabelRegular = [object Object];
+ const OcWebLabelMedium = [object Object];
+ const OcWebLabelSemiBold = [object Object];
+ const OcWebLabelBold = [object Object];
+ const OcWebBody2Light = [object Object];
+ const OcWebBody2ExtraLight = [object Object];
+ const OcWebBody2Regular = [object Object];
+ const OcWebBody2Medium = [object Object];
+ const OcWebBody2SemiBold = [object Object];
+ const OcWebBody2Bold = [object Object];
  const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

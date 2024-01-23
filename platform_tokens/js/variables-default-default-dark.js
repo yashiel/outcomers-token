@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 10:32:11 GMT
+ * Generated on Tue, 23 Jan 2024 19:33:15 GMT
  */
 
 export const ocRadius0 = "0";
@@ -196,9 +196,13 @@ export const ocLetterSpacing1 = "0.01em";
 export const ocLetterSpacing2 = "-0.025em";
 export const ocLetterSpacing3 = "-0.02em";
 export const ocLetterSpacing4 = "0.02em";
+export const ocFontSize10 = "10px";
 export const ocFontSize12 = "12px";
+export const ocFontSize14 = "14px";
 export const ocFontSize16 = "16px";
+export const ocFontSize18 = "18px";
 export const ocFontSize20 = "20px";
+export const ocFontSize22 = "22px";
 export const ocFontSize24 = "24px";
 export const ocFontSize32 = "32px";
 export const ocFontSize40 = "40px";
@@ -217,13 +221,24 @@ export const ocParagaphSpacing16 = "16";
 export const ocTextDecorationNone = "none";
 export const ocTextDecorationUnderline = "underline";
 export const ocTextDecorationLineThrough = "line-through";
-export const ocWebHeading6Light = "300 16px/1.5 inter";
-export const ocWebHeading6ExtraLight = "Extra Light 16px/1.5 inter";
-export const ocWebHeading6Regular = "400 16px/1.5 inter";
-export const ocWebHeading6Medium = "500 16px/1.5 inter";
-export const ocWebHeading6SemiBold = "Semi Bold 16px/1.5 inter";
-export const ocWebHeading6Bold = "700 16px/1.5 inter";
-export const ocWebHeading5Light = "300 24px/1.5 inter";
+export const ocWebSmallLight = "300 10px/1.5 inter";
+export const ocWebSmallExtraLight = "Extra Light 10px/1.5 inter";
+export const ocWebSmallRegular = "400 10px/1.5 inter";
+export const ocWebSmallMedium = "500 10px/1.5 inter";
+export const ocWebSmallSemiBold = "Semi Bold 10px/1.5 inter";
+export const ocWebSmallBold = "700 10px/1.5 inter";
+export const ocWebLabelLight = "300 12px/1.5 inter";
+export const ocWebLabelExtraLight = "Extra Light 12px/1.5 inter";
+export const ocWebLabelRegular = "400 12px/1.5 inter";
+export const ocWebLabelMedium = "500 12px/1.5 inter";
+export const ocWebLabelSemiBold = "Semi Bold 12px/1.5 inter";
+export const ocWebLabelBold = "700 12px/1.5 inter";
+export const ocWebBody2Light = "300 14px/1.5 inter";
+export const ocWebBody2ExtraLight = "Extra Light 14px/1.5 inter";
+export const ocWebBody2Regular = "400 14px/1.5 inter";
+export const ocWebBody2Medium = "500 14px/1.5 inter";
+export const ocWebBody2SemiBold = "Semi Bold 14px/1.5 inter";
+export const ocWebBody2Bold = "700 14px/1.5 inter";
 export const ocTextHeading = "#ffffff";
 export const ocTextBody = "#ffffff";
 export const ocTextAction = "#ffffff";

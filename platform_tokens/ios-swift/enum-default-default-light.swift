@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:32:11 GMT
+// Generated on Tue, 23 Jan 2024 19:33:15 GMT
 
 
 import UIKit
@@ -157,9 +157,13 @@ public enum  {
     public static let ocColorYellow800 = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
     public static let ocColorYellow900 = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
     public static let ocFontFamilyInter = inter
+    public static let ocFontSize10 = 10
     public static let ocFontSize12 = 12
+    public static let ocFontSize14 = 14
     public static let ocFontSize16 = 16
+    public static let ocFontSize18 = 18
     public static let ocFontSize20 = 20
+    public static let ocFontSize22 = 22
     public static let ocFontSize24 = 24
     public static let ocFontSize32 = 32
     public static let ocFontSize40 = 40
@@ -263,11 +267,22 @@ public enum  {
     public static let ocTextOnDisabled = UIColor(red: 0.043, green: 0.043, blue: 0.043, alpha: 1)
     public static let ocTextSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocTextWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
-    public static let ocWebHeading5Light = [object Object]
-    public static let ocWebHeading6Bold = [object Object]
-    public static let ocWebHeading6ExtraLight = [object Object]
-    public static let ocWebHeading6Light = [object Object]
-    public static let ocWebHeading6Medium = [object Object]
-    public static let ocWebHeading6Regular = [object Object]
-    public static let ocWebHeading6SemiBold = [object Object]
+    public static let ocWebBody2Bold = [object Object]
+    public static let ocWebBody2ExtraLight = [object Object]
+    public static let ocWebBody2Light = [object Object]
+    public static let ocWebBody2Medium = [object Object]
+    public static let ocWebBody2Regular = [object Object]
+    public static let ocWebBody2SemiBold = [object Object]
+    public static let ocWebLabelBold = [object Object]
+    public static let ocWebLabelExtraLight = [object Object]
+    public static let ocWebLabelLight = [object Object]
+    public static let ocWebLabelMedium = [object Object]
+    public static let ocWebLabelRegular = [object Object]
+    public static let ocWebLabelSemiBold = [object Object]
+    public static let ocWebSmallBold = [object Object]
+    public static let ocWebSmallExtraLight = [object Object]
+    public static let ocWebSmallLight = [object Object]
+    public static let ocWebSmallMedium = [object Object]
+    public static let ocWebSmallRegular = [object Object]
+    public static let ocWebSmallSemiBold = [object Object]
 }

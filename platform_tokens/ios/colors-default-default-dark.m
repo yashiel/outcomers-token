@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 10:32:11 GMT
+// Generated on Tue, 23 Jan 2024 19:33:15 GMT
 
 
 #import ".h"
@@ -214,9 +214,13 @@ Black,
 -2.5%,
 -2%,
 2%,
+10,
 12,
+14,
 16,
+18,
 20,
+22,
 24,
 32,
 40,
@@ -235,6 +239,17 @@ capitalize,
 none,
 underline,
 line-through,
+[object Object],
+[object Object],
+[object Object],
+[object Object],
+[object Object],
+[object Object],
+[object Object],
+[object Object],
+[object Object],
+[object Object],
+[object Object],
 [object Object],
 [object Object],
 [object Object],
