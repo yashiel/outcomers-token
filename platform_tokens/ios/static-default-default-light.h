@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 09:40:28 GMT
+// Generated on Tue, 23 Jan 2024 10:24:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -84,11 +84,6 @@ extern  const OcColorGray100;
 extern  const OcColorGray200;
 extern  const OcColorGray300;
 extern  const OcColorGray400;
-extern  const OcColorGray500;
-extern  const OcColorGray600;
-extern  const OcColorGray700;
-extern  const OcColorGray800;
-extern  const OcColorGray900;
 extern  const OcColorWhiteWhite;
 extern  const OcColorBlackBlack;
 extern  const OcColorPrimaryDarker;
@@ -146,11 +141,6 @@ extern  const OcColorNeutral100;
 extern  const OcColorNeutral200;
 extern  const OcColorNeutral300;
 extern  const OcColorNeutral400;
-extern  const OcColorNeutral500;
-extern  const OcColorNeutral600;
-extern  const OcColorNeutral700;
-extern  const OcColorNeutral800;
-extern  const OcColorNeutral900;
 extern  const OcColorNeutralBlack;
 extern  const OcColorNeutralWhite;
 extern  const OcSpacingXxxs;

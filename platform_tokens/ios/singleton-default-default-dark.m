@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 09:40:29 GMT
+// Generated on Tue, 23 Jan 2024 10:24:03 GMT
 
 
 #import ".h"
@@ -468,130 +468,95 @@
       },
     @"gray": @{
       @"10": @{
-        @"value": [UIColor colorWithRed:0.980f green:0.984f blue:0.984f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.945f green:0.945f blue:0.945f alpha:1.000f],
         @"name": @"OcColorGray10",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"10"
         },
       @"20": @{
-        @"value": [UIColor colorWithRed:0.961f green:0.965f blue:0.969f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.886f green:0.886f blue:0.886f alpha:1.000f],
         @"name": @"OcColorGray20",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"20"
         },
       @"30": @{
-        @"value": [UIColor colorWithRed:0.922f green:0.929f blue:0.941f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.831f green:0.831f blue:0.831f alpha:1.000f],
         @"name": @"OcColorGray30",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"30"
         },
       @"40": @{
-        @"value": [UIColor colorWithRed:0.875f green:0.886f blue:0.902f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.776f green:0.776f blue:0.776f alpha:1.000f],
         @"name": @"OcColorGray40",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"40"
         },
       @"50": @{
-        @"value": [UIColor colorWithRed:0.761f green:0.780f blue:0.816f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.663f green:0.663f blue:0.663f alpha:1.000f],
         @"name": @"OcColorGray50",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"50"
         },
       @"60": @{
-        @"value": [UIColor colorWithRed:0.702f green:0.725f blue:0.769f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.553f green:0.553f blue:0.553f alpha:1.000f],
         @"name": @"OcColorGray60",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"60"
         },
       @"70": @{
-        @"value": [UIColor colorWithRed:0.651f green:0.682f blue:0.733f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.439f green:0.439f blue:0.439f alpha:1.000f],
         @"name": @"OcColorGray70",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"70"
         },
       @"80": @{
-        @"value": [UIColor colorWithRed:0.596f green:0.631f blue:0.690f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.353f green:0.353f blue:0.353f alpha:1.000f],
         @"name": @"OcColorGray80",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"80"
         },
       @"90": @{
-        @"value": [UIColor colorWithRed:0.537f green:0.576f blue:0.643f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.263f green:0.263f blue:0.263f alpha:1.000f],
         @"name": @"OcColorGray90",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"90"
         },
       @"100": @{
-        @"value": [UIColor colorWithRed:0.478f green:0.525f blue:0.600f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.176f green:0.176f blue:0.176f alpha:1.000f],
         @"name": @"OcColorGray100",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"100"
         },
       @"200": @{
-        @"value": [UIColor colorWithRed:0.420f green:0.471f blue:0.557f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.133f green:0.133f blue:0.133f alpha:1.000f],
         @"name": @"OcColorGray200",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"200"
         },
       @"300": @{
-        @"value": [UIColor colorWithRed:0.365f green:0.420f blue:0.510f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.086f green:0.086f blue:0.086f alpha:1.000f],
         @"name": @"OcColorGray300",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"300"
         },
       @"400": @{
-        @"value": [UIColor colorWithRed:0.314f green:0.373f blue:0.475f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f],
         @"name": @"OcColorGray400",
         @"category": @"color",
         @"type": @"gray",
         @"item": @"400"
-        },
-      @"500": @{
-        @"value": [UIColor colorWithRed:0.259f green:0.322f blue:0.427f alpha:1.000f],
-        @"name": @"OcColorGray500",
-        @"category": @"color",
-        @"type": @"gray",
-        @"item": @"500"
-        },
-      @"600": @{
-        @"value": [UIColor colorWithRed:0.208f green:0.278f blue:0.392f alpha:1.000f],
-        @"name": @"OcColorGray600",
-        @"category": @"color",
-        @"type": @"gray",
-        @"item": @"600"
-        },
-      @"700": @{
-        @"value": [UIColor colorWithRed:0.141f green:0.216f blue:0.341f alpha:1.000f],
-        @"name": @"OcColorGray700",
-        @"category": @"color",
-        @"type": @"gray",
-        @"item": @"700"
-        },
-      @"800": @{
-        @"value": [UIColor colorWithRed:0.082f green:0.161f blue:0.294f alpha:1.000f],
-        @"name": @"OcColorGray800",
-        @"category": @"color",
-        @"type": @"gray",
-        @"item": @"800"
-        },
-      @"900": @{
-        @"value": [UIColor colorWithRed:0.035f green:0.118f blue:0.259f alpha:1.000f],
-        @"name": @"OcColorGray900",
-        @"category": @"color",
-        @"type": @"gray",
-        @"item": @"900"
         }
       },
     @"white": @{
@@ -922,130 +887,95 @@
       },
     @"neutral": @{
       @"10": @{
-        @"value": [UIColor colorWithRed:0.980f green:0.984f blue:0.984f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.945f green:0.945f blue:0.945f alpha:1.000f],
         @"name": @"OcColorNeutral10",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"10"
         },
       @"20": @{
-        @"value": [UIColor colorWithRed:0.961f green:0.965f blue:0.969f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.886f green:0.886f blue:0.886f alpha:1.000f],
         @"name": @"OcColorNeutral20",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"20"
         },
       @"30": @{
-        @"value": [UIColor colorWithRed:0.922f green:0.929f blue:0.941f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.831f green:0.831f blue:0.831f alpha:1.000f],
         @"name": @"OcColorNeutral30",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"30"
         },
       @"40": @{
-        @"value": [UIColor colorWithRed:0.875f green:0.886f blue:0.902f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.776f green:0.776f blue:0.776f alpha:1.000f],
         @"name": @"OcColorNeutral40",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"40"
         },
       @"50": @{
-        @"value": [UIColor colorWithRed:0.761f green:0.780f blue:0.816f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.663f green:0.663f blue:0.663f alpha:1.000f],
         @"name": @"OcColorNeutral50",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"50"
         },
       @"60": @{
-        @"value": [UIColor colorWithRed:0.702f green:0.725f blue:0.769f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.553f green:0.553f blue:0.553f alpha:1.000f],
         @"name": @"OcColorNeutral60",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"60"
         },
       @"70": @{
-        @"value": [UIColor colorWithRed:0.651f green:0.682f blue:0.733f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.439f green:0.439f blue:0.439f alpha:1.000f],
         @"name": @"OcColorNeutral70",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"70"
         },
       @"80": @{
-        @"value": [UIColor colorWithRed:0.596f green:0.631f blue:0.690f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.353f green:0.353f blue:0.353f alpha:1.000f],
         @"name": @"OcColorNeutral80",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"80"
         },
       @"90": @{
-        @"value": [UIColor colorWithRed:0.537f green:0.576f blue:0.643f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.263f green:0.263f blue:0.263f alpha:1.000f],
         @"name": @"OcColorNeutral90",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"90"
         },
       @"100": @{
-        @"value": [UIColor colorWithRed:0.478f green:0.525f blue:0.600f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.176f green:0.176f blue:0.176f alpha:1.000f],
         @"name": @"OcColorNeutral100",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"100"
         },
       @"200": @{
-        @"value": [UIColor colorWithRed:0.420f green:0.471f blue:0.557f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.133f green:0.133f blue:0.133f alpha:1.000f],
         @"name": @"OcColorNeutral200",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"200"
         },
       @"300": @{
-        @"value": [UIColor colorWithRed:0.365f green:0.420f blue:0.510f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.086f green:0.086f blue:0.086f alpha:1.000f],
         @"name": @"OcColorNeutral300",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"300"
         },
       @"400": @{
-        @"value": [UIColor colorWithRed:0.314f green:0.373f blue:0.475f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f],
         @"name": @"OcColorNeutral400",
         @"category": @"color",
         @"type": @"neutral",
         @"item": @"400"
-        },
-      @"500": @{
-        @"value": [UIColor colorWithRed:0.259f green:0.322f blue:0.427f alpha:1.000f],
-        @"name": @"OcColorNeutral500",
-        @"category": @"color",
-        @"type": @"neutral",
-        @"item": @"500"
-        },
-      @"600": @{
-        @"value": [UIColor colorWithRed:0.208f green:0.278f blue:0.392f alpha:1.000f],
-        @"name": @"OcColorNeutral600",
-        @"category": @"color",
-        @"type": @"neutral",
-        @"item": @"600"
-        },
-      @"700": @{
-        @"value": [UIColor colorWithRed:0.141f green:0.216f blue:0.341f alpha:1.000f],
-        @"name": @"OcColorNeutral700",
-        @"category": @"color",
-        @"type": @"neutral",
-        @"item": @"700"
-        },
-      @"800": @{
-        @"value": [UIColor colorWithRed:0.082f green:0.161f blue:0.294f alpha:1.000f],
-        @"name": @"OcColorNeutral800",
-        @"category": @"color",
-        @"type": @"neutral",
-        @"item": @"800"
-        },
-      @"900": @{
-        @"value": [UIColor colorWithRed:0.035f green:0.118f blue:0.259f alpha:1.000f],
-        @"name": @"OcColorNeutral900",
-        @"category": @"color",
-        @"type": @"neutral",
-        @"item": @"900"
         },
       @"black": @{
         @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],
@@ -1648,7 +1578,7 @@
       @"type": @"action-hover"
       },
     @"disabled": @{
-      @"value": [UIColor colorWithRed:0.478f green:0.525f blue:0.600f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.176f green:0.176f blue:0.176f alpha:1.000f],
       @"name": @"OcTextDisabled",
       @"category": @"text",
       @"type": @"disabled"
@@ -1690,7 +1620,7 @@
       @"type": @"on-action"
       },
     @"on-disabled": @{
-      @"value": [UIColor colorWithRed:0.141f green:0.216f blue:0.341f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f],
       @"name": @"OcTextOnDisabled",
       @"category": @"text",
       @"type": @"on-disabled"
@@ -1716,7 +1646,7 @@
       @"type": @"secondary"
       },
     @"disabled": @{
-      @"value": [UIColor colorWithRed:0.875f green:0.886f blue:0.902f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.776f green:0.776f blue:0.776f alpha:1.000f],
       @"name": @"OcSurfaceDisabled",
       @"category": @"surface",
       @"type": @"disabled"
@@ -1734,7 +1664,7 @@
       @"type": @"error"
       },
     @"warning": @{
-      @"value": [UIColor colorWithRed:0.141f green:0.216f blue:0.341f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f],
       @"name": @"OcSurfaceWarning",
       @"category": @"surface",
       @"type": @"warning"
@@ -1766,7 +1696,7 @@
     },
   @"border": @{
     @"primary": @{
-      @"value": [UIColor colorWithRed:0.922f green:0.929f blue:0.941f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.831f green:0.831f blue:0.831f alpha:1.000f],
       @"name": @"OcBorderPrimary",
       @"category": @"border",
       @"type": @"primary"
@@ -1802,7 +1732,7 @@
       @"type": @"error"
       },
     @"disabled": @{
-      @"value": [UIColor colorWithRed:0.651f green:0.682f blue:0.733f alpha:1.000f],
+      @"value": [UIColor colorWithRed:0.439f green:0.439f blue:0.439f alpha:1.000f],
       @"name": @"OcBorderDisabled",
       @"category": @"border",
       @"type": @"disabled"

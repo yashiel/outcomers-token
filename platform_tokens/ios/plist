@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Tue, 23 Jan 2024 09:40:29 GMT
+  Generated on Tue, 23 Jan 2024 10:24:03 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -768,61 +768,6 @@
       <key>a</key>
       <real>1</real>
       </dict>
-    <key>OcColorGray500</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorGray600</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorGray700</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorGray800</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorGray900</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
     <key>OcColorWhiteWhite</key>
     <dict>
       <key>r</key>
@@ -1450,61 +1395,6 @@
       <key>a</key>
       <real>1</real>
       </dict>
-    <key>OcColorNeutral500</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorNeutral600</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorNeutral700</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorNeutral800</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
-    <key>OcColorNeutral900</key>
-    <dict>
-      <key>r</key>
-      <real>NaN</real>
-      <key>g</key>
-      <real>NaN</real>
-      <key>b</key>
-      <real>NaN</real>
-      <key>a</key>
-      <real>1</real>
-      </dict>
     <key>OcColorNeutralBlack</key>
     <dict>
       <key>r</key>
@@ -1802,7 +1692,7 @@
       <string>[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]</string>
     <key>OcTextDisabled</key>
     </dict>
-      <string>[UIColor colorWithRed:0.478f green:0.525f blue:0.600f alpha:1.000f]</string>
+      <string>[UIColor colorWithRed:0.176f green:0.176f blue:0.176f alpha:1.000f]</string>
     <key>OcTextHighlight</key>
     </dict>
       <string>[UIColor colorWithRed:0.133f green:0.573f blue:0.643f alpha:1.000f]</string>
@@ -1823,7 +1713,7 @@
       <string>[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]</string>
     <key>OcTextOnDisabled</key>
     </dict>
-      <string>[UIColor colorWithRed:0.141f green:0.216f blue:0.341f alpha:1.000f]</string>
+      <string>[UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f]</string>
     <key>OcSurfacePage</key>
     </dict>
       <string>[UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f]</string>
@@ -1835,7 +1725,7 @@
       <string>[UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f]</string>
     <key>OcSurfaceDisabled</key>
     </dict>
-      <string>[UIColor colorWithRed:0.875f green:0.886f blue:0.902f alpha:1.000f]</string>
+      <string>[UIColor colorWithRed:0.776f green:0.776f blue:0.776f alpha:1.000f]</string>
     <key>OcSurfaceSuccess</key>
     </dict>
       <string>[UIColor colorWithRed:0.016f green:0.620f blue:0.325f alpha:1.000f]</string>
@@ -1844,7 +1734,7 @@
       <string>[UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f]</string>
     <key>OcSurfaceWarning</key>
     </dict>
-      <string>[UIColor colorWithRed:0.141f green:0.216f blue:0.341f alpha:1.000f]</string>
+      <string>[UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f]</string>
     <key>OcSurfaceInformation</key>
     </dict>
       <string>[UIColor colorWithRed:0.000f green:0.396f blue:1.000f alpha:1.000f]</string>

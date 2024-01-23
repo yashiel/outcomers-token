@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 09:40:29 GMT
+// Generated on Tue, 23 Jan 2024 10:24:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -85,11 +85,6 @@ extern NSString * const OcColorGray100;
 extern NSString * const OcColorGray200;
 extern NSString * const OcColorGray300;
 extern NSString * const OcColorGray400;
-extern NSString * const OcColorGray500;
-extern NSString * const OcColorGray600;
-extern NSString * const OcColorGray700;
-extern NSString * const OcColorGray800;
-extern NSString * const OcColorGray900;
 extern NSString * const OcColorWhiteWhite;
 extern NSString * const OcColorBlackBlack;
 extern NSString * const OcColorPrimaryDarker;
@@ -147,11 +142,6 @@ extern NSString * const OcColorNeutral100;
 extern NSString * const OcColorNeutral200;
 extern NSString * const OcColorNeutral300;
 extern NSString * const OcColorNeutral400;
-extern NSString * const OcColorNeutral500;
-extern NSString * const OcColorNeutral600;
-extern NSString * const OcColorNeutral700;
-extern NSString * const OcColorNeutral800;
-extern NSString * const OcColorNeutral900;
 extern NSString * const OcColorNeutralBlack;
 extern NSString * const OcColorNeutralWhite;
 extern NSString * const OcSpacingXxxs;
