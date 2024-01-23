@@ -15,7 +15,7 @@
   "author": "Yashi El",
   "license": "ISC",
   "dependencies": {
-    "@tokens-studio/sd-transforms": "^0.13.2",
+    "@tokens-studio/sd-transforms": "^0.13.3",
     "style-dictionary": "^3.9.1"
   }
 }
