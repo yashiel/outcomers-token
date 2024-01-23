@@ -6,8 +6,13 @@ import {
 } from "@tokens-studio/sd-transforms";
 
 registerTransforms(StyleDictionary, {
-  expand: { composition: true, typography: false, border: false, shadow: false },
-  excludeParentKeys: true,
+  expand: {
+    composition: true,
+    typography: false,
+    border: false,
+    shadow: false,
+  },
+  excludeParentKeys: false,
 });
 
 // StyleDictionary.registerTransform({
