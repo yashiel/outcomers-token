@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 05:06:25 GMT
+// Generated on Tue, 23 Jan 2024 07:59:48 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -226,6 +226,13 @@ extern NSString * const OcParagaphSpacing16;
 extern NSString * const OcTextDecorationNone;
 extern NSString * const OcTextDecorationUnderline;
 extern NSString * const OcTextDecorationLineThrough;
+extern NSString * const OcWebHeading6Light;
+extern NSString * const OcWebHeading6ExtraLight;
+extern NSString * const OcWebHeading6Regular;
+extern NSString * const OcWebHeading6Medium;
+extern NSString * const OcWebHeading6SemiBold;
+extern NSString * const OcWebHeading6Bold;
+extern NSString * const OcWebHeading5Light;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

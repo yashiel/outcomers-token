@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 05:06:25 GMT
+ * Generated on Tue, 23 Jan 2024 07:59:48 GMT
  */
 
 :root {
@@ -142,6 +142,13 @@
   --oc-radius-4: 4px;
   --oc-radius-2: 2px;
   --oc-radius-0: 0;
+  --oc-web-heading-5-light: var(--oc-font-weight-300) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-6-bold: var(--oc-font-weight-700) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-6-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-6-medium: var(--oc-font-weight-500) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-6-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-6-extra-light: var(--oc-font-weight-200) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-6-light: var(--oc-font-weight-300) var(--oc-font-size-16)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-color-neutral-white: var(--oc-color-white-white);
   --oc-color-neutral-black: var(--oc-color-black-black);
   --oc-color-neutral-900: var(--oc-color-gray-900);

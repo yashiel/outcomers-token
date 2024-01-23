@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Tue, 23 Jan 2024 05:06:25 GMT
+  Generated on Tue, 23 Jan 2024 07:59:48 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1679,6 +1679,27 @@
     <key>OcTextDecorationLineThrough</key>
     </dict>
       <string>line-through</string>
+    <key>OcWebHeading6Light</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6ExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6Regular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6Medium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6SemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6Bold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading5Light</key>
+    </dict>
+      <string>[object Object]</string>
     <key>OcTextHeading</key>
     </dict>
       <string>[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]</string>

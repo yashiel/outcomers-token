@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 05:06:25 GMT
+// Generated on Tue, 23 Jan 2024 07:59:48 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -226,6 +226,13 @@ OcParagaphSpacing16,
 OcTextDecorationNone,
 OcTextDecorationUnderline,
 OcTextDecorationLineThrough,
+OcWebHeading6Light,
+OcWebHeading6ExtraLight,
+OcWebHeading6Regular,
+OcWebHeading6Medium,
+OcWebHeading6SemiBold,
+OcWebHeading6Bold,
+OcWebHeading5Light,
 OcTextHeading,
 OcTextBody,
 OcTextAction,

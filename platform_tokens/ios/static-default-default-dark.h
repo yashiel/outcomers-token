@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 05:06:25 GMT
+// Generated on Tue, 23 Jan 2024 07:59:48 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -225,6 +225,13 @@ extern  const OcParagaphSpacing16;
 extern  const OcTextDecorationNone;
 extern  const OcTextDecorationUnderline;
 extern  const OcTextDecorationLineThrough;
+extern  const OcWebHeading6Light;
+extern  const OcWebHeading6ExtraLight;
+extern  const OcWebHeading6Regular;
+extern  const OcWebHeading6Medium;
+extern  const OcWebHeading6SemiBold;
+extern  const OcWebHeading6Bold;
+extern  const OcWebHeading5Light;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

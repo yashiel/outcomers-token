@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 05:06:25 GMT
+// Generated on Tue, 23 Jan 2024 07:59:48 GMT
 
 
 #import ".h"
@@ -226,6 +226,13 @@ NSString * const OcParagaphSpacing16 = 16;
 NSString * const OcTextDecorationNone = none;
 NSString * const OcTextDecorationUnderline = underline;
 NSString * const OcTextDecorationLineThrough = line-through;
+NSString * const OcWebHeading6Light = [object Object];
+NSString * const OcWebHeading6ExtraLight = [object Object];
+NSString * const OcWebHeading6Regular = [object Object];
+NSString * const OcWebHeading6Medium = [object Object];
+NSString * const OcWebHeading6SemiBold = [object Object];
+NSString * const OcWebHeading6Bold = [object Object];
+NSString * const OcWebHeading5Light = [object Object];
 NSString * const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -1697,6 +1704,55 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcTextDecorationLineThrough",
     @"category": @"textDecoration",
     @"type": @"line-through"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading6Light",
+    @"category": @"web",
+    @"type": @"heading-6",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading6ExtraLight",
+    @"category": @"web",
+    @"type": @"heading-6",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading6Regular",
+    @"category": @"web",
+    @"type": @"heading-6",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading6Medium",
+    @"category": @"web",
+    @"type": @"heading-6",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading6SemiBold",
+    @"category": @"web",
+    @"type": @"heading-6",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading6Bold",
+    @"category": @"web",
+    @"type": @"heading-6",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading5Light",
+    @"category": @"web",
+    @"type": @"heading-5",
+    @"item": @"light"
   },
 @{
   @"value": [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],

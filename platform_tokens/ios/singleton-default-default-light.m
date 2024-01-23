@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 05:06:25 GMT
+// Generated on Tue, 23 Jan 2024 07:59:48 GMT
 
 
 #import ".h"
@@ -1509,6 +1509,61 @@
       @"name": @"OcTextDecorationLineThrough",
       @"category": @"textDecoration",
       @"type": @"line-through"
+      }
+    },
+  @"web": @{
+    @"heading-6": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Light",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6ExtraLight",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Regular",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Medium",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6SemiBold",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Bold",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"bold"
+        }
+      },
+    @"heading-5": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading5Light",
+        @"category": @"web",
+        @"type": @"heading-5",
+        @"item": @"light"
+        }
       }
     },
   @"text": @{

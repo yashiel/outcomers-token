@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 05:06:25 GMT
+// Generated on Tue, 23 Jan 2024 07:59:48 GMT
 
 
 import UIKit
@@ -265,4 +265,11 @@ public class  {
     public static let ocTextOnDisabled = UIColor(red: 0.141, green: 0.216, blue: 0.341, alpha: 1)
     public static let ocTextSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocTextWarning = UIColor(red: 0.561, green: 0.420, blue: 0.039, alpha: 1)
+    public static let ocWebHeading5Light = [object Object]
+    public static let ocWebHeading6Bold = [object Object]
+    public static let ocWebHeading6ExtraLight = [object Object]
+    public static let ocWebHeading6Light = [object Object]
+    public static let ocWebHeading6Medium = [object Object]
+    public static let ocWebHeading6Regular = [object Object]
+    public static let ocWebHeading6SemiBold = [object Object]
 }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 05:06:25 GMT
+ * Generated on Tue, 23 Jan 2024 07:59:48 GMT
  */
 
 export const ocRadius0 = "0";
@@ -219,6 +219,13 @@ export const ocParagaphSpacing16 = "16";
 export const ocTextDecorationNone = "none";
 export const ocTextDecorationUnderline = "underline";
 export const ocTextDecorationLineThrough = "line-through";
+export const ocWebHeading6Light = "300 16px/1.5 inter";
+export const ocWebHeading6ExtraLight = "Extra Light 16px/1.5 inter";
+export const ocWebHeading6Regular = "400 16px/1.5 inter";
+export const ocWebHeading6Medium = "500 16px/1.5 inter";
+export const ocWebHeading6SemiBold = "Semi Bold 16px/1.5 inter";
+export const ocWebHeading6Bold = "700 16px/1.5 inter";
+export const ocWebHeading5Light = "300 24px/1.5 inter";
 export const ocTextHeading = "#111111";
 export const ocTextBody = "#111111";
 export const ocTextAction = "#ffffff";
