@@ -861,7 +861,7 @@
   },
   "fontFamily": {
     "inter": {
-      "value": "inter",
+      "value": "Inter",
       "type": "fontFamilies"
     }
   },
