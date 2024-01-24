@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 08:47:14 GMT
+  Generated on Wed, 24 Jan 2024 09:00:59 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1432,18 +1432,18 @@
     <key>OcBorderWidth5</key>
     </dict>
       <string>5</string>
+    <key>OcBorderWidth05</key>
+    </dict>
+      <string>0.5</string>
+    <key>OcBorderWidth15</key>
+    </dict>
+      <string>1.5</string>
+    <key>OcBorderWidth25</key>
+    </dict>
+      <string>2.5</string>
     <key>OcBorderWidthNone</key>
     </dict>
       <string>0</string>
-    <key>OcBorderWidthM1</key>
-    </dict>
-      <string>0.5</string>
-    <key>OcBorderWidthM2</key>
-    </dict>
-      <string>1.5</string>
-    <key>OcBorderWidthM3</key>
-    </dict>
-      <string>2.5</string>
     <key>OcOpacity25</key>
     </dict>
       <string>25%</string>
@@ -1645,15 +1645,6 @@
     <key>OcTextDecorationLineThrough</key>
     </dict>
       <string>line-through</string>
-    <key>OcSpacingBase2</key>
-    </dict>
-      <string>2</string>
-    <key>OcSpacingBase4</key>
-    </dict>
-      <string>4</string>
-    <key>OcSpacingBase8</key>
-    </dict>
-      <string>8</string>
     <key>OcBase2</key>
     </dict>
       <string>2</string>

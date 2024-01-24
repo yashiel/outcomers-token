@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:47:13 GMT
+// Generated on Wed, 24 Jan 2024 09:00:59 GMT
 
 
 import UIKit
@@ -24,14 +24,14 @@ public enum  {
     public static let ocBorderSecondary = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocBorderSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocBorderWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
+    public static let ocBorderWidth05 = 0.5
     public static let ocBorderWidth1 = 1
+    public static let ocBorderWidth15 = 1.5
     public static let ocBorderWidth2 = 2
+    public static let ocBorderWidth25 = 2.5
     public static let ocBorderWidth3 = 3
     public static let ocBorderWidth4 = 4
     public static let ocBorderWidth5 = 5
-    public static let ocBorderWidthM1 = 0.5
-    public static let ocBorderWidthM2 = 1.5
-    public static let ocBorderWidthM3 = 2.5
     public static let ocBorderWidthNone = 0
     public static let ocColorAccentDark = UIColor(red: 0.133, green: 0.573, blue: 0.643, alpha: 1)
     public static let ocColorAccentDarker = UIColor(red: 0.133, green: 0.573, blue: 0.643, alpha: 1)
@@ -289,9 +289,6 @@ public enum  {
     public static let ocSizing60 = 60
     public static let ocSizing64 = 64
     public static let ocSizing8 = 8
-    public static let ocSpacingBase2 = 2
-    public static let ocSpacingBase4 = 4
-    public static let ocSpacingBase8 = 8
     public static let ocSurfaceAction = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceActionHover = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceDisabled = UIColor(red: 0.776, green: 0.776, blue: 0.776, alpha: 1)

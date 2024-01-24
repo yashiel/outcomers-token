@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:47:14 GMT
+// Generated on Wed, 24 Jan 2024 09:00:59 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -149,10 +149,10 @@ OcBorderWidth2,
 OcBorderWidth3,
 OcBorderWidth4,
 OcBorderWidth5,
+OcBorderWidth05,
+OcBorderWidth15,
+OcBorderWidth25,
 OcBorderWidthNone,
-OcBorderWidthM1,
-OcBorderWidthM2,
-OcBorderWidthM3,
 OcOpacity25,
 OcOpacity50,
 OcOpacity75,
@@ -220,9 +220,6 @@ OcParagaphSpacing16,
 OcTextDecorationNone,
 OcTextDecorationUnderline,
 OcTextDecorationLineThrough,
-OcSpacingBase2,
-OcSpacingBase4,
-OcSpacingBase8,
 OcBase2,
 OcBase4,
 OcBase8,

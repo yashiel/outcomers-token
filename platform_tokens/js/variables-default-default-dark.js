@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 08:47:14 GMT
+ * Generated on Wed, 24 Jan 2024 09:00:59 GMT
  */
 
 export const ocRadius0 = "0";
@@ -142,10 +142,10 @@ export const ocBorderWidth2 = "2px";
 export const ocBorderWidth3 = "3px";
 export const ocBorderWidth4 = "4px";
 export const ocBorderWidth5 = "5px";
+export const ocBorderWidth05 = "0.5px";
+export const ocBorderWidth15 = "1.5px";
+export const ocBorderWidth25 = "2.5px";
 export const ocBorderWidthNone = "0";
-export const ocBorderWidthM1 = "0.5px";
-export const ocBorderWidthM2 = "1.5px";
-export const ocBorderWidthM3 = "2.5px";
 export const ocOpacity25 = 0.25;
 export const ocOpacity50 = 0.5;
 export const ocOpacity75 = 0.75;
@@ -213,9 +213,6 @@ export const ocParagaphSpacing16 = "16";
 export const ocTextDecorationNone = "none";
 export const ocTextDecorationUnderline = "underline";
 export const ocTextDecorationLineThrough = "line-through";
-export const ocSpacingBase2 = "2px";
-export const ocSpacingBase4 = "4px";
-export const ocSpacingBase8 = "8px";
 export const ocBase2 = "2";
 export const ocBase4 = "4";
 export const ocBase8 = "8";
@@ -312,18 +309,18 @@ export const ocLayoutBorderSecondaryDashed2 = "2px dashed #049E53";
 export const ocLayoutBorderSecondaryDashed3 = "3px dashed #049E53";
 export const ocLayoutBorderSecondaryDashed4 = "4px dashed #049E53";
 export const ocLayoutBorderSecondaryDashed5 = "5px dashed #049E53";
-export const ocLayoutBorderNone = "0 solid #D4D4D4";
-export const ocLayoutSpacingXxxs = "2px";
-export const ocLayoutSpacingXxs = "4px";
-export const ocLayoutSpacingXs = "8px";
-export const ocLayoutSpacingSm = "12px";
-export const ocLayoutSpacingMd = "16px";
-export const ocLayoutSpacingLg = "24px";
-export const ocLayoutSpacingXl = "32px";
-export const ocLayoutSpacingXxl = "40px";
-export const ocLayoutSpacingXxxl = "48px";
-export const ocLayoutSpacingExtended1 = "56px";
-export const ocLayoutSpacingExtended2 = "64px";
+export const ocLayoutBorderNone = "0 solid";
+export const ocLayoutSpacingXxxs = 2;
+export const ocLayoutSpacingXxs = 4;
+export const ocLayoutSpacingXs = 8;
+export const ocLayoutSpacingSm = 12;
+export const ocLayoutSpacingMd = 16;
+export const ocLayoutSpacingLg = 24;
+export const ocLayoutSpacingXl = 32;
+export const ocLayoutSpacingXxl = 40;
+export const ocLayoutSpacingXxxl = 48;
+export const ocLayoutSpacingExtended1 = 56;
+export const ocLayoutSpacingExtended2 = 64;
 export const ocLayoutShadowPrimaryXsLeft = "-6px 0 10px -4px #E2E2E2";
 export const ocLayoutShadowPrimaryXsMid = "0 6px 10px -4px #E2E2E2";
 export const ocLayoutShadowPrimaryXsRight = "6px 0 10px -4px #E2E2E2";

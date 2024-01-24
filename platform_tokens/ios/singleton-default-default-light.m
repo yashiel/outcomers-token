@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:47:13 GMT
+// Generated on Wed, 24 Jan 2024 09:00:59 GMT
 
 
 #import ".h"
@@ -1024,29 +1024,29 @@
       @"category": @"borderWidth",
       @"type": @"5"
       },
+    @"0-5": @{
+      @"value": 0.5,
+      @"name": @"OcBorderWidth05",
+      @"category": @"borderWidth",
+      @"type": @"0-5"
+      },
+    @"1-5": @{
+      @"value": 1.5,
+      @"name": @"OcBorderWidth15",
+      @"category": @"borderWidth",
+      @"type": @"1-5"
+      },
+    @"2-5": @{
+      @"value": 2.5,
+      @"name": @"OcBorderWidth25",
+      @"category": @"borderWidth",
+      @"type": @"2-5"
+      },
     @"none": @{
       @"value": 0,
       @"name": @"OcBorderWidthNone",
       @"category": @"borderWidth",
       @"type": @"none"
-      },
-    @"m1": @{
-      @"value": 0.5,
-      @"name": @"OcBorderWidthM1",
-      @"category": @"borderWidth",
-      @"type": @"m1"
-      },
-    @"m2": @{
-      @"value": 1.5,
-      @"name": @"OcBorderWidthM2",
-      @"category": @"borderWidth",
-      @"type": @"m2"
-      },
-    @"m3": @{
-      @"value": 2.5,
-      @"name": @"OcBorderWidthM3",
-      @"category": @"borderWidth",
-      @"type": @"m3"
       }
     },
   @"opacity": @{
@@ -1469,31 +1469,6 @@
       @"name": @"OcTextDecorationLineThrough",
       @"category": @"textDecoration",
       @"type": @"line-through"
-      }
-    },
-  @"spacing": @{
-    @"base": @{
-      @"2": @{
-        @"value": 2,
-        @"name": @"OcSpacingBase2",
-        @"category": @"spacing",
-        @"type": @"base",
-        @"item": @"2"
-        },
-      @"4": @{
-        @"value": 4,
-        @"name": @"OcSpacingBase4",
-        @"category": @"spacing",
-        @"type": @"base",
-        @"item": @"4"
-        },
-      @"8": @{
-        @"value": 8,
-        @"name": @"OcSpacingBase8",
-        @"category": @"spacing",
-        @"type": @"base",
-        @"item": @"8"
-        }
       }
     },
   @"base": @{

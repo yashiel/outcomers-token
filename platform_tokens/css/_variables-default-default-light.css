@@ -1,15 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 08:47:13 GMT
+ * Generated on Wed, 24 Jan 2024 09:00:59 GMT
  */
 
 :root {
   --oc-base-8: 8;
   --oc-base-4: 4;
   --oc-base-2: 2;
-  --oc-spacing-base-8: 8px;
-  --oc-spacing-base-4: 4px;
-  --oc-spacing-base-2: 2px;
   --oc-text-decoration-line-through: line-through;
   --oc-text-decoration-underline: underline;
   --oc-text-decoration-none: none;
@@ -77,10 +74,10 @@
   --oc-opacity-75: 0.75;
   --oc-opacity-50: 0.5;
   --oc-opacity-25: 0.25;
-  --oc-border-width-m3: 2.5px;
-  --oc-border-width-m2: 1.5px;
-  --oc-border-width-m1: 0.5px;
   --oc-border-width-none: 0;
+  --oc-border-width-2-5: 2.5px;
+  --oc-border-width-1-5: 1.5px;
+  --oc-border-width-0-5: 0.5px;
   --oc-border-width-5: 5px;
   --oc-border-width-4: 4px;
   --oc-border-width-3: 3px;
@@ -116,17 +113,18 @@
   --oc-radius-2: 2px;
   --oc-radius-0: 0;
   --oc-surface-secondary: var(--oc-color-gray-10);
-  --oc-layout-spacing-extended-2: var(--oc-spacing-base-8)*8;
-  --oc-layout-spacing-extended-1: var(--oc-spacing-base-8)*7;
-  --oc-layout-spacing-xxxl: var(--oc-spacing-base-8)*6;
-  --oc-layout-spacing-xxl: var(--oc-spacing-base-8)*5;
-  --oc-layout-spacing-xl: var(--oc-spacing-base-8)*4;
-  --oc-layout-spacing-lg: var(--oc-spacing-base-8)*3;
-  --oc-layout-spacing-md: var(--oc-spacing-base-4)*4;
-  --oc-layout-spacing-sm: var(--oc-spacing-base-4)*3;
-  --oc-layout-spacing-xs: var(--oc-spacing-base-4)*2;
-  --oc-layout-spacing-xxs: var(--oc-spacing-base-4)*1;
-  --oc-layout-spacing-xxxs: var(--oc-spacing-base-4)/2;
+  --oc-layout-spacing-extended-2: var(--oc-base-8)*8;
+  --oc-layout-spacing-extended-1: var(--oc-base-8)*7;
+  --oc-layout-spacing-xxxl: var(--oc-base-8)*6;
+  --oc-layout-spacing-xxl: var(--oc-base-8)*5;
+  --oc-layout-spacing-xl: var(--oc-base-8)*4;
+  --oc-layout-spacing-lg: var(--oc-base-8)*3;
+  --oc-layout-spacing-md: var(--oc-base-4)*4;
+  --oc-layout-spacing-sm: var(--oc-base-4)*3;
+  --oc-layout-spacing-xs: var(--oc-base-4)*2;
+  --oc-layout-spacing-xxs: var(--oc-base-4)*1;
+  --oc-layout-spacing-xxxs: var(--oc-base-4)/2;
+  --oc-layout-border-none: var(--oc-border-width-none) solid;
   --oc-layout-radius-rounded: var(--oc-radius-50);
   --oc-layout-radius-none: var(--oc-radius-0);
   --oc-layout-radius-24: var(--oc-radius-24);
@@ -355,7 +353,6 @@
   --oc-text-error: var(--oc-color-error-dark);
   --oc-text-warning: var(--oc-color-warning-darker);
   --oc-text-success: var(--oc-color-success-darker);
-  --oc-layout-border-none: var(--oc-border-width-none) solid var(--oc-border-primary);
   --oc-layout-border-secondary-dashed-5: var(--oc-border-width-5) dashed var(--oc-border-secondary);
   --oc-layout-border-secondary-dashed-4: var(--oc-border-width-4) dashed var(--oc-border-secondary);
   --oc-layout-border-secondary-dashed-3: var(--oc-border-width-3) dashed var(--oc-border-secondary);

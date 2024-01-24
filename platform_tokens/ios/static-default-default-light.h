@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:47:13 GMT
+// Generated on Wed, 24 Jan 2024 09:00:59 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -148,10 +148,10 @@ extern  const OcBorderWidth2;
 extern  const OcBorderWidth3;
 extern  const OcBorderWidth4;
 extern  const OcBorderWidth5;
+extern  const OcBorderWidth05;
+extern  const OcBorderWidth15;
+extern  const OcBorderWidth25;
 extern  const OcBorderWidthNone;
-extern  const OcBorderWidthM1;
-extern  const OcBorderWidthM2;
-extern  const OcBorderWidthM3;
 extern  const OcOpacity25;
 extern  const OcOpacity50;
 extern  const OcOpacity75;
@@ -219,9 +219,6 @@ extern  const OcParagaphSpacing16;
 extern  const OcTextDecorationNone;
 extern  const OcTextDecorationUnderline;
 extern  const OcTextDecorationLineThrough;
-extern  const OcSpacingBase2;
-extern  const OcSpacingBase4;
-extern  const OcSpacingBase8;
 extern  const OcBase2;
 extern  const OcBase4;
 extern  const OcBase8;

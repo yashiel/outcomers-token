@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:47:13 GMT
+// Generated on Wed, 24 Jan 2024 09:00:59 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -149,10 +149,10 @@ extern NSString * const OcBorderWidth2;
 extern NSString * const OcBorderWidth3;
 extern NSString * const OcBorderWidth4;
 extern NSString * const OcBorderWidth5;
+extern NSString * const OcBorderWidth05;
+extern NSString * const OcBorderWidth15;
+extern NSString * const OcBorderWidth25;
 extern NSString * const OcBorderWidthNone;
-extern NSString * const OcBorderWidthM1;
-extern NSString * const OcBorderWidthM2;
-extern NSString * const OcBorderWidthM3;
 extern NSString * const OcOpacity25;
 extern NSString * const OcOpacity50;
 extern NSString * const OcOpacity75;
@@ -220,9 +220,6 @@ extern NSString * const OcParagaphSpacing16;
 extern NSString * const OcTextDecorationNone;
 extern NSString * const OcTextDecorationUnderline;
 extern NSString * const OcTextDecorationLineThrough;
-extern NSString * const OcSpacingBase2;
-extern NSString * const OcSpacingBase4;
-extern NSString * const OcSpacingBase8;
 extern NSString * const OcBase2;
 extern NSString * const OcBase4;
 extern NSString * const OcBase8;

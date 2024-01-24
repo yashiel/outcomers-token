@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:47:13 GMT
+// Generated on Wed, 24 Jan 2024 09:00:59 GMT
 
 
 #import ".h"
@@ -149,10 +149,10 @@
  const OcBorderWidth3 = 3;
  const OcBorderWidth4 = 4;
  const OcBorderWidth5 = 5;
+ const OcBorderWidth05 = 0.5;
+ const OcBorderWidth15 = 1.5;
+ const OcBorderWidth25 = 2.5;
  const OcBorderWidthNone = 0;
- const OcBorderWidthM1 = 0.5;
- const OcBorderWidthM2 = 1.5;
- const OcBorderWidthM3 = 2.5;
  const OcOpacity25 = 25%;
  const OcOpacity50 = 50%;
  const OcOpacity75 = 75%;
@@ -220,9 +220,6 @@
  const OcTextDecorationNone = none;
  const OcTextDecorationUnderline = underline;
  const OcTextDecorationLineThrough = line-through;
- const OcSpacingBase2 = 2;
- const OcSpacingBase4 = 4;
- const OcSpacingBase8 = 8;
  const OcBase2 = 2;
  const OcBase4 = 4;
  const OcBase8 = 8;

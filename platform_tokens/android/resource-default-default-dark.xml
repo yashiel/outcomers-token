@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 08:47:14 GMT
+  Generated on Wed, 24 Jan 2024 09:00:59 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -144,10 +144,10 @@
   <string name="oc_border_width_3">3</string>
   <string name="oc_border_width_4">4</string>
   <string name="oc_border_width_5">5</string>
+  <string name="oc_border_width_0_5">0.5</string>
+  <string name="oc_border_width_1_5">1.5</string>
+  <string name="oc_border_width_2_5">2.5</string>
   <string name="oc_border_width_none">0</string>
-  <string name="oc_border_width_m1">0.5</string>
-  <string name="oc_border_width_m2">1.5</string>
-  <string name="oc_border_width_m3">2.5</string>
   <string name="oc_opacity_25">25%</string>
   <string name="oc_opacity_50">50%</string>
   <string name="oc_opacity_75">75%</string>
@@ -215,9 +215,6 @@
   <string name="oc_text_decoration_none">none</string>
   <string name="oc_text_decoration_underline">underline</string>
   <string name="oc_text_decoration_line_through">line-through</string>
-  <string name="oc_spacing_base_2">2</string>
-  <string name="oc_spacing_base_4">4</string>
-  <string name="oc_spacing_base_8">8</string>
   <string name="oc_base_2">2</string>
   <string name="oc_base_4">4</string>
   <string name="oc_base_8">8</string>

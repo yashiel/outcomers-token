@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:47:13 GMT
+// Generated on Wed, 24 Jan 2024 09:00:59 GMT
 
 
 #import ".h"
@@ -149,10 +149,10 @@ NSString * const OcBorderWidth2 = 2;
 NSString * const OcBorderWidth3 = 3;
 NSString * const OcBorderWidth4 = 4;
 NSString * const OcBorderWidth5 = 5;
+NSString * const OcBorderWidth05 = 0.5;
+NSString * const OcBorderWidth15 = 1.5;
+NSString * const OcBorderWidth25 = 2.5;
 NSString * const OcBorderWidthNone = 0;
-NSString * const OcBorderWidthM1 = 0.5;
-NSString * const OcBorderWidthM2 = 1.5;
-NSString * const OcBorderWidthM3 = 2.5;
 NSString * const OcOpacity25 = 25%;
 NSString * const OcOpacity50 = 50%;
 NSString * const OcOpacity75 = 75%;
@@ -220,9 +220,6 @@ NSString * const OcParagaphSpacing16 = 16;
 NSString * const OcTextDecorationNone = none;
 NSString * const OcTextDecorationUnderline = underline;
 NSString * const OcTextDecorationLineThrough = line-through;
-NSString * const OcSpacingBase2 = 2;
-NSString * const OcSpacingBase4 = 4;
-NSString * const OcSpacingBase8 = 8;
 NSString * const OcBase2 = 2;
 NSString * const OcBase4 = 4;
 NSString * const OcBase8 = 8;
@@ -1352,28 +1349,28 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"5"
   },
 @{
+  @"value": 0.5,
+  @"name": @"OcBorderWidth05",
+    @"category": @"borderWidth",
+    @"type": @"0-5"
+  },
+@{
+  @"value": 1.5,
+  @"name": @"OcBorderWidth15",
+    @"category": @"borderWidth",
+    @"type": @"1-5"
+  },
+@{
+  @"value": 2.5,
+  @"name": @"OcBorderWidth25",
+    @"category": @"borderWidth",
+    @"type": @"2-5"
+  },
+@{
   @"value": 0,
   @"name": @"OcBorderWidthNone",
     @"category": @"borderWidth",
     @"type": @"none"
-  },
-@{
-  @"value": 0.5,
-  @"name": @"OcBorderWidthM1",
-    @"category": @"borderWidth",
-    @"type": @"m1"
-  },
-@{
-  @"value": 1.5,
-  @"name": @"OcBorderWidthM2",
-    @"category": @"borderWidth",
-    @"type": @"m2"
-  },
-@{
-  @"value": 2.5,
-  @"name": @"OcBorderWidthM3",
-    @"category": @"borderWidth",
-    @"type": @"m3"
   },
 @{
   @"value": 25%,
@@ -1776,27 +1773,6 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcTextDecorationLineThrough",
     @"category": @"textDecoration",
     @"type": @"line-through"
-  },
-@{
-  @"value": 2,
-  @"name": @"OcSpacingBase2",
-    @"category": @"spacing",
-    @"type": @"base",
-    @"item": @"2"
-  },
-@{
-  @"value": 4,
-  @"name": @"OcSpacingBase4",
-    @"category": @"spacing",
-    @"type": @"base",
-    @"item": @"4"
-  },
-@{
-  @"value": 8,
-  @"name": @"OcSpacingBase8",
-    @"category": @"spacing",
-    @"type": @"base",
-    @"item": @"8"
   },
 @{
   @"value": 2,
