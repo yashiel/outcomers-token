@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 04:44:56 GMT
+  Generated on Wed, 24 Jan 2024 04:50:10 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -162,7 +162,7 @@
   <string name="oc_opacity_75">75%</string>
   <string name="oc_opacity_100">100%</string>
   <string name="oc_opacity_none">none</string>
-  <string name="oc_font_family_inter">inter</string>
+  <string name="oc_font_family_inter">Inter</string>
   <string name="oc_font_weight_100">Thin</string>
   <string name="oc_font_weight_200">Extra Light</string>
   <string name="oc_font_weight_300">Light</string>

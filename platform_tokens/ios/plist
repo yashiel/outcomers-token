@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 04:44:56 GMT
+  Generated on Wed, 24 Jan 2024 04:50:10 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1488,7 +1488,7 @@
       <string>none</string>
     <key>OcFontFamilyInter</key>
     </dict>
-      <string>inter</string>
+      <string>Inter</string>
     <key>OcFontWeight100</key>
     </dict>
       <string>Thin</string>

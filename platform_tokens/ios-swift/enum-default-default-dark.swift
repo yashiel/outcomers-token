@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:44:56 GMT
+// Generated on Wed, 24 Jan 2024 04:50:10 GMT
 
 
 import UIKit
@@ -156,7 +156,7 @@ public enum  {
     public static let ocColorYellow700 = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
     public static let ocColorYellow800 = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
     public static let ocColorYellow900 = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
-    public static let ocFontFamilyInter = inter
+    public static let ocFontFamilyInter = Inter
     public static let ocFontSize10 = 10
     public static let ocFontSize12 = 12
     public static let ocFontSize14 = 14

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:44:56 GMT
+// Generated on Wed, 24 Jan 2024 04:50:10 GMT
 
 
 #import ".h"
@@ -167,7 +167,7 @@
  const OcOpacity75 = 75%;
  const OcOpacity100 = 100%;
  const OcOpacityNone = none;
- const OcFontFamilyInter = inter;
+ const OcFontFamilyInter = Inter;
  const OcFontWeight100 = Thin;
  const OcFontWeight200 = Extra Light;
  const OcFontWeight300 = Light;

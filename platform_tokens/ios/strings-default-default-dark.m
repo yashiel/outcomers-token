@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:44:56 GMT
+// Generated on Wed, 24 Jan 2024 04:50:10 GMT
 
 
 #import ".h"
@@ -167,7 +167,7 @@ NSString * const OcOpacity50 = 50%;
 NSString * const OcOpacity75 = 75%;
 NSString * const OcOpacity100 = 100%;
 NSString * const OcOpacityNone = none;
-NSString * const OcFontFamilyInter = inter;
+NSString * const OcFontFamilyInter = Inter;
 NSString * const OcFontWeight100 = Thin;
 NSString * const OcFontWeight200 = Extra Light;
 NSString * const OcFontWeight300 = Light;
@@ -1387,7 +1387,7 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"none"
   },
 @{
-  @"value": inter,
+  @"value": Inter,
   @"name": @"OcFontFamilyInter",
     @"category": @"fontFamily",
     @"type": @"inter"

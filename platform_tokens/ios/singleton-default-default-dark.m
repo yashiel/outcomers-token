@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:44:56 GMT
+// Generated on Wed, 24 Jan 2024 04:50:10 GMT
 
 
 #import ".h"
@@ -1139,7 +1139,7 @@
     },
   @"fontFamily": @{
     @"inter": @{
-      @"value": inter,
+      @"value": Inter,
       @"name": @"OcFontFamilyInter",
       @"category": @"fontFamily",
       @"type": @"inter"
