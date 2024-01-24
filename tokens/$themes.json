@@ -230,7 +230,8 @@
     "selectedTokenSets": {
       "brand/default": "source",
       "semantics/color": "enabled",
-      "semantics/typography": "enabled"
+      "semantics/typography": "enabled",
+      "semantics/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:387:242",
     "$figmaModeId": "387:2",
@@ -342,7 +343,8 @@
       "brand/default": "source",
       "theme/light": "enabled",
       "semantics/color": "source",
-      "semantics/typography": "enabled"
+      "semantics/typography": "source",
+      "semantics/layout": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:178:180",
     "$figmaModeId": "178:3",
@@ -397,7 +399,8 @@
       "brand/default": "source",
       "theme/dark": "enabled",
       "semantics/color": "source",
-      "semantics/typography": "enabled"
+      "semantics/typography": "source",
+      "semantics/layout": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:178:180",
     "$figmaModeId": "178:4",
