@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 04:11:22 GMT
+  Generated on Wed, 24 Jan 2024 04:44:56 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1757,6 +1757,42 @@
     </dict>
       <string>[object Object]</string>
     <key>OcWebBodyLargeBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6Light</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6ExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6Regular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6Medium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6SemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading6Bold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading5Light</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading5ExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading5Regular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading5Medium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading5SemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebHeading5Bold</key>
     </dict>
       <string>[object Object]</string>
     <key>OcTextHeading</key>

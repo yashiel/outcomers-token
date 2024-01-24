@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:11:22 GMT
+// Generated on Wed, 24 Jan 2024 04:44:56 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -258,6 +258,18 @@ OcWebBodyLargeRegular,
 OcWebBodyLargeMedium,
 OcWebBodyLargeSemiBold,
 OcWebBodyLargeBold,
+OcWebHeading6Light,
+OcWebHeading6ExtraLight,
+OcWebHeading6Regular,
+OcWebHeading6Medium,
+OcWebHeading6SemiBold,
+OcWebHeading6Bold,
+OcWebHeading5Light,
+OcWebHeading5ExtraLight,
+OcWebHeading5Regular,
+OcWebHeading5Medium,
+OcWebHeading5SemiBold,
+OcWebHeading5Bold,
 OcTextHeading,
 OcTextBody,
 OcTextAction,

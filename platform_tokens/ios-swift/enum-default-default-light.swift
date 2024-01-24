@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:11:21 GMT
+// Generated on Wed, 24 Jan 2024 04:44:56 GMT
 
 
 import UIKit
@@ -285,6 +285,18 @@ public enum  {
     public static let ocWebBodySmallMedium = [object Object]
     public static let ocWebBodySmallRegular = [object Object]
     public static let ocWebBodySmallSemiBold = [object Object]
+    public static let ocWebHeading5Bold = [object Object]
+    public static let ocWebHeading5ExtraLight = [object Object]
+    public static let ocWebHeading5Light = [object Object]
+    public static let ocWebHeading5Medium = [object Object]
+    public static let ocWebHeading5Regular = [object Object]
+    public static let ocWebHeading5SemiBold = [object Object]
+    public static let ocWebHeading6Bold = [object Object]
+    public static let ocWebHeading6ExtraLight = [object Object]
+    public static let ocWebHeading6Light = [object Object]
+    public static let ocWebHeading6Medium = [object Object]
+    public static let ocWebHeading6Regular = [object Object]
+    public static let ocWebHeading6SemiBold = [object Object]
     public static let ocWebLabelBold = [object Object]
     public static let ocWebLabelExtraLight = [object Object]
     public static let ocWebLabelLight = [object Object]

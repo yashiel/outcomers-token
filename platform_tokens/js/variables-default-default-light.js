@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 04:11:21 GMT
+ * Generated on Wed, 24 Jan 2024 04:44:56 GMT
  */
 
 export const ocRadius0 = "0";
@@ -251,6 +251,18 @@ export const ocWebBodyLargeRegular = "400 18px/1.5 inter";
 export const ocWebBodyLargeMedium = "500 18px/1.5 inter";
 export const ocWebBodyLargeSemiBold = "Semi Bold 18px/1.5 inter";
 export const ocWebBodyLargeBold = "700 18px/1.5 inter";
+export const ocWebHeading6Light = "300 20px/1.5 inter";
+export const ocWebHeading6ExtraLight = "Extra Light 20px/1.5 inter";
+export const ocWebHeading6Regular = "400 20px/1.5 inter";
+export const ocWebHeading6Medium = "500 20px/1.5 inter";
+export const ocWebHeading6SemiBold = "Semi Bold 20px/1.5 inter";
+export const ocWebHeading6Bold = "700 20px/1.5 inter";
+export const ocWebHeading5Light = "300 24px/1.5 inter";
+export const ocWebHeading5ExtraLight = "Extra Light 24px/1.5 inter";
+export const ocWebHeading5Regular = "400 24px/1.5 inter";
+export const ocWebHeading5Medium = "500 24px/1.5 inter";
+export const ocWebHeading5SemiBold = "Semi Bold 24px/1.5 inter";
+export const ocWebHeading5Bold = "700 24px/1.5 inter";
 export const ocTextHeading = "#111111";
 export const ocTextBody = "#111111";
 export const ocTextAction = "#ffffff";

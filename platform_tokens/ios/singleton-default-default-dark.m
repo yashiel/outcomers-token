@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:11:22 GMT
+// Generated on Wed, 24 Jan 2024 04:44:56 GMT
 
 
 #import ".h"
@@ -1739,6 +1739,94 @@
         @"name": @"OcWebBodyLargeBold",
         @"category": @"web",
         @"type": @"body-large",
+        @"item": @"bold"
+        }
+      },
+    @"heading-6": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Light",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6ExtraLight",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Regular",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Medium",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6SemiBold",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading6Bold",
+        @"category": @"web",
+        @"type": @"heading-6",
+        @"item": @"bold"
+        }
+      },
+    @"heading-5": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading5Light",
+        @"category": @"web",
+        @"type": @"heading-5",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading5ExtraLight",
+        @"category": @"web",
+        @"type": @"heading-5",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading5Regular",
+        @"category": @"web",
+        @"type": @"heading-5",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading5Medium",
+        @"category": @"web",
+        @"type": @"heading-5",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading5SemiBold",
+        @"category": @"web",
+        @"type": @"heading-5",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading5Bold",
+        @"category": @"web",
+        @"type": @"heading-5",
         @"item": @"bold"
         }
       }

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 04:11:22 GMT
+  Generated on Wed, 24 Jan 2024 04:44:56 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -253,6 +253,18 @@
   <string name="oc_web_body_large_medium">[object Object]</string>
   <string name="oc_web_body_large_semi_bold">[object Object]</string>
   <string name="oc_web_body_large_bold">[object Object]</string>
+  <string name="oc_web_heading_6_light">[object Object]</string>
+  <string name="oc_web_heading_6_extra_light">[object Object]</string>
+  <string name="oc_web_heading_6_regular">[object Object]</string>
+  <string name="oc_web_heading_6_medium">[object Object]</string>
+  <string name="oc_web_heading_6_semi_bold">[object Object]</string>
+  <string name="oc_web_heading_6_bold">[object Object]</string>
+  <string name="oc_web_heading_5_light">[object Object]</string>
+  <string name="oc_web_heading_5_extra_light">[object Object]</string>
+  <string name="oc_web_heading_5_regular">[object Object]</string>
+  <string name="oc_web_heading_5_medium">[object Object]</string>
+  <string name="oc_web_heading_5_semi_bold">[object Object]</string>
+  <string name="oc_web_heading_5_bold">[object Object]</string>
   <string name="oc_text_heading">#ffffffff</string>
   <string name="oc_text_body">#ffffffff</string>
   <string name="oc_text_action">#ffffffff</string>

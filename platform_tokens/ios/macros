@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:11:22 GMT
+// Generated on Wed, 24 Jan 2024 04:44:56 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -258,6 +258,18 @@
 #define OcWebBodyLargeMedium [object Object]
 #define OcWebBodyLargeSemiBold [object Object]
 #define OcWebBodyLargeBold [object Object]
+#define OcWebHeading6Light [object Object]
+#define OcWebHeading6ExtraLight [object Object]
+#define OcWebHeading6Regular [object Object]
+#define OcWebHeading6Medium [object Object]
+#define OcWebHeading6SemiBold [object Object]
+#define OcWebHeading6Bold [object Object]
+#define OcWebHeading5Light [object Object]
+#define OcWebHeading5ExtraLight [object Object]
+#define OcWebHeading5Regular [object Object]
+#define OcWebHeading5Medium [object Object]
+#define OcWebHeading5SemiBold [object Object]
+#define OcWebHeading5Bold [object Object]
 #define OcTextHeading [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextBody [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextAction [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]

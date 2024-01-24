@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:11:21 GMT
+// Generated on Wed, 24 Jan 2024 04:44:56 GMT
 
 
 #import ".h"
@@ -258,6 +258,18 @@
  const OcWebBodyLargeMedium = [object Object];
  const OcWebBodyLargeSemiBold = [object Object];
  const OcWebBodyLargeBold = [object Object];
+ const OcWebHeading6Light = [object Object];
+ const OcWebHeading6ExtraLight = [object Object];
+ const OcWebHeading6Regular = [object Object];
+ const OcWebHeading6Medium = [object Object];
+ const OcWebHeading6SemiBold = [object Object];
+ const OcWebHeading6Bold = [object Object];
+ const OcWebHeading5Light = [object Object];
+ const OcWebHeading5ExtraLight = [object Object];
+ const OcWebHeading5Regular = [object Object];
+ const OcWebHeading5Medium = [object Object];
+ const OcWebHeading5SemiBold = [object Object];
+ const OcWebHeading5Bold = [object Object];
  const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
