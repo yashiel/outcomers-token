@@ -133,9 +133,6 @@
       "borderWidth.4": "ad138f4b20c366c8709482b77f43ea04edb0be9f",
       "borderWidth.5": "c1a3851dc0256242a0593c5d157ed85585170e77",
       "borderWidth.none": "cffa808afe1e82f61cbb1ae878565513c62a0e03",
-      "borderWidth.m1": "95e7a88e4b5da678ac812848fa424276bc957ef4",
-      "borderWidth.m2": "2bc538f115186030f80028ef14c37310f7225089",
-      "borderWidth.m3": "f4f19178891fcf633d4445a5c58aecdfbcbab04e",
       "sizing.2": "2936ce93d39418dc3eb3ff63b371fca9a2330567",
       "sizing.4": "1818d64ebc2d661c3bb3b2953bb49c9ea2c4ae69",
       "sizing.8": "5edf6d5140a4b2e36f651c3bec5dc6c21c1dc3f2",
@@ -153,12 +150,12 @@
       "sizing.56": "5f03c2a29c8040abe5863f65cddc6ec5e968b1bc",
       "sizing.60": "67ee3c567a37737f26b9ec01eace338994ac1864",
       "sizing.64": "850d2cba88dcfa70002217e5262ab2bcb27ea73a",
-      "spacing.base.2": "c4dddf7c02d1fba46605d0eabb3e06d3a305807c",
-      "spacing.base.4": "d74149a027a84b7107c6e18a9895673dabe7599b",
-      "spacing.base.8": "d849c7018f63dab273419feff01d7a1941771145",
       "base.4": "4c458e1115ce94c1b8cf767798260406ac328d2c",
       "base.2": "cf8356bd8159bb1b3c7beeb5adaa441b36db622f",
-      "base.8": "7cabf3130422becbbc09ad070072884e7c93b0ea"
+      "base.8": "7cabf3130422becbbc09ad070072884e7c93b0ea",
+      "borderWidth.0-5": "95e7a88e4b5da678ac812848fa424276bc957ef4",
+      "borderWidth.1-5": "2bc538f115186030f80028ef14c37310f7225089",
+      "borderWidth.2-5": "f4f19178891fcf633d4445a5c58aecdfbcbab04e"
     },
     "group": "brand"
   },

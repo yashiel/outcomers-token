@@ -205,7 +205,7 @@
       },
       "none": {
         "value": {
-          "color": "{border.primary}",
+          "color": "",
           "width": "{borderWidth.none}",
           "style": "solid"
         },
@@ -214,47 +214,47 @@
     },
     "spacing": {
       "xxxs": {
-        "value": "{spacing.base.4}/2",
+        "value": "{base.4}/2",
         "type": "spacing"
       },
       "xxs": {
-        "value": "{spacing.base.4}*1",
+        "value": "{base.4}*1",
         "type": "spacing"
       },
       "xs": {
-        "value": "{spacing.base.4}*2",
+        "value": "{base.4}*2",
         "type": "spacing"
       },
       "sm": {
-        "value": "{spacing.base.4}*3",
+        "value": "{base.4}*3",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacing.base.4}*4",
+        "value": "{base.4}*4",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacing.base.8}*3",
+        "value": "{base.8}*3",
         "type": "spacing"
       },
       "xl": {
-        "value": "{spacing.base.8}*4",
+        "value": "{base.8}*4",
         "type": "spacing"
       },
       "xxl": {
-        "value": "{spacing.base.8}*5",
+        "value": "{base.8}*5",
         "type": "spacing"
       },
       "xxxl": {
-        "value": "{spacing.base.8}*6",
+        "value": "{base.8}*6",
         "type": "spacing"
       },
       "extended-1": {
-        "value": "{spacing.base.8}*7",
+        "value": "{base.8}*7",
         "type": "spacing"
       },
       "extended-2": {
-        "value": "{spacing.base.8}*8",
+        "value": "{base.8}*8",
         "type": "spacing"
       }
     },

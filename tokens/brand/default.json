@@ -782,20 +782,20 @@
       "value": "5",
       "type": "borderWidth"
     },
-    "none": {
-      "value": "0",
-      "type": "borderWidth"
-    },
-    "m1": {
+    "0-5": {
       "value": "0.5",
       "type": "borderWidth"
     },
-    "m2": {
+    "1-5": {
       "value": "1.5",
       "type": "borderWidth"
     },
-    "m3": {
+    "2-5": {
       "value": "2.5",
+      "type": "borderWidth"
+    },
+    "none": {
+      "value": "0",
       "type": "borderWidth"
     }
   },
@@ -1085,22 +1085,6 @@
     "line-through": {
       "value": "line-through",
       "type": "textDecoration"
-    }
-  },
-  "spacing": {
-    "base": {
-      "2": {
-        "value": "2",
-        "type": "spacing"
-      },
-      "4": {
-        "value": "4",
-        "type": "spacing"
-      },
-      "8": {
-        "value": "8",
-        "type": "spacing"
-      }
     }
   },
   "base": {
