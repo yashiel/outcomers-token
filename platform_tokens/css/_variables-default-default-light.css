@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 09:34:55 GMT
+ * Generated on Wed, 24 Jan 2024 20:20:40 GMT
  */
 
 :root {
@@ -162,30 +162,30 @@
   --oc-mobile-small-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-extra-light: var(--oc-font-weight-200) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-light: var(--oc-font-weight-300) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-1-bold: var(--oc-font-weight-700) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-1-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-1-medium: var(--oc-font-weight-500) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-1-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-1-extra-light: var(--oc-font-weight-200) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-1-light: var(--oc-font-weight-300) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-2-bold: var(--oc-font-weight-700) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-2-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-2-medium: var(--oc-font-weight-500) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-2-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-2-extra-light: var(--oc-font-weight-200) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-2-light: var(--oc-font-weight-300) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-3-bold: var(--oc-font-weight-700) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-3-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-3-medium: var(--oc-font-weight-500) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-3-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-24)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-3-extra-light: var(--oc-font-weight-200) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-3-light: var(--oc-font-weight-300) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-4-bold: var(--oc-font-weight-700) var(--oc-font-size-22)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-4-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-22)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-4-medium: var(--oc-font-weight-500) var(--oc-font-size-22)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-4-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-22)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-4-extra-light: var(--oc-font-weight-200) var(--oc-font-size-22)/var(--oc-line-height-150) var(--oc-font-family-inter);
-  --oc-web-heading-4-light: var(--oc-font-weight-300) var(--oc-font-size-22)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-1-bold: var(--oc-font-weight-700) var(--oc-font-size-var(--oc-paragaph-spacing-4)0)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-1-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-var(--oc-paragaph-spacing-4)0)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-1-medium: var(--oc-font-weight-500) var(--oc-font-size-var(--oc-paragaph-spacing-4)0)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-1-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-40)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-1-extra-light: var(--oc-font-weight-200) var(--oc-font-size-var(--oc-paragaph-spacing-4)0)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-1-light: var(--oc-font-weight-300) var(--oc-font-size-var(--oc-paragaph-spacing-4)0)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-2-bold: var(--oc-font-weight-700) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-2-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-2-medium: var(--oc-font-weight-500) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-2-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-2-extra-light: var(--oc-font-weight-200) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-2-light: var(--oc-font-weight-300) var(--oc-font-size-32)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-3-bold: var(--oc-font-weight-700) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-3-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-3-medium: var(--oc-font-weight-500) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-3-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-3-extra-light: var(--oc-font-weight-200) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-3-light: var(--oc-font-weight-300) var(--oc-font-size-28)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-4-bold: var(--oc-font-weight-700) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-4-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-4-medium: var(--oc-font-weight-500) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-4-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-24)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-4-extra-light: var(--oc-font-weight-200) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-web-heading-4-light: var(--oc-font-weight-300) var(--oc-font-size-2var(--oc-paragaph-spacing-4))/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-heading-5-bold: var(--oc-font-weight-700) var(--oc-font-size-20)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-heading-5-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-20)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-heading-5-medium: var(--oc-font-weight-500) var(--oc-font-size-20)/var(--oc-line-height-150) var(--oc-font-family-inter);
