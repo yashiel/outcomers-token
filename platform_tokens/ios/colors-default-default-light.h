@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 09:00:59 GMT
+// Generated on Wed, 24 Jan 2024 09:32:11 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -289,6 +289,30 @@ OcMobileSmallRegular,
 OcMobileSmallMedium,
 OcMobileSmallSemiBold,
 OcMobileSmallBold,
+OcMobileLabelLight,
+OcMobileLabelExtraLight,
+OcMobileLabelRegular,
+OcMobileLabelMedium,
+OcMobileLabelSemiBold,
+OcMobileLabelBold,
+OcMobileBodyLight,
+OcMobileBodyExtraLight,
+OcMobileBodyRegular,
+OcMobileBodyMedium,
+OcMobileBodySemiBold,
+OcMobileBodyBold,
+OcMobileBodyLgLight,
+OcMobileBodyLgExtraLight,
+OcMobileBodyLgRegular,
+OcMobileBodyLgMedium,
+OcMobileBodyLgSemiBold,
+OcMobileBodyLgBold,
+OcMobileHeading6Light,
+OcMobileHeading6ExtraLight,
+OcMobileHeading6Regular,
+OcMobileHeading6Medium,
+OcMobileHeading6SemiBold,
+OcMobileHeading6Bold,
 OcLayoutRadius2,
 OcLayoutRadius4,
 OcLayoutRadius8,

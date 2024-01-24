@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 09:00:59 GMT
+  Generated on Wed, 24 Jan 2024 09:32:11 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -284,6 +284,30 @@
   <string name="oc_mobile_small_medium">[object Object]</string>
   <string name="oc_mobile_small_semi_bold">[object Object]</string>
   <string name="oc_mobile_small_bold">[object Object]</string>
+  <string name="oc_mobile_label_light">[object Object]</string>
+  <string name="oc_mobile_label_extra_light">[object Object]</string>
+  <string name="oc_mobile_label_regular">[object Object]</string>
+  <string name="oc_mobile_label_medium">[object Object]</string>
+  <string name="oc_mobile_label_semi_bold">[object Object]</string>
+  <string name="oc_mobile_label_bold">[object Object]</string>
+  <string name="oc_mobile_body_light">[object Object]</string>
+  <string name="oc_mobile_body_extra_light">[object Object]</string>
+  <string name="oc_mobile_body_regular">[object Object]</string>
+  <string name="oc_mobile_body_medium">[object Object]</string>
+  <string name="oc_mobile_body_semi_bold">[object Object]</string>
+  <string name="oc_mobile_body_bold">[object Object]</string>
+  <string name="oc_mobile_body_lg_light">[object Object]</string>
+  <string name="oc_mobile_body_lg_extra_light">[object Object]</string>
+  <string name="oc_mobile_body_lg_regular">[object Object]</string>
+  <string name="oc_mobile_body_lg_medium">[object Object]</string>
+  <string name="oc_mobile_body_lg_semi_bold">[object Object]</string>
+  <string name="oc_mobile_body_lg_bold">[object Object]</string>
+  <string name="oc_mobile_heading_6_light">[object Object]</string>
+  <string name="oc_mobile_heading_6_extra_light">[object Object]</string>
+  <string name="oc_mobile_heading_6_regular">[object Object]</string>
+  <string name="oc_mobile_heading_6_medium">[object Object]</string>
+  <string name="oc_mobile_heading_6_semi_bold">[object Object]</string>
+  <string name="oc_mobile_heading_6_bold">[object Object]</string>
   <string name="oc_layout_radius_2">2</string>
   <string name="oc_layout_radius_4">4</string>
   <string name="oc_layout_radius_8">8</string>

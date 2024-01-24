@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 09:00:59 GMT
+// Generated on Wed, 24 Jan 2024 09:32:11 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -289,6 +289,30 @@
 #define OcMobileSmallMedium [object Object]
 #define OcMobileSmallSemiBold [object Object]
 #define OcMobileSmallBold [object Object]
+#define OcMobileLabelLight [object Object]
+#define OcMobileLabelExtraLight [object Object]
+#define OcMobileLabelRegular [object Object]
+#define OcMobileLabelMedium [object Object]
+#define OcMobileLabelSemiBold [object Object]
+#define OcMobileLabelBold [object Object]
+#define OcMobileBodyLight [object Object]
+#define OcMobileBodyExtraLight [object Object]
+#define OcMobileBodyRegular [object Object]
+#define OcMobileBodyMedium [object Object]
+#define OcMobileBodySemiBold [object Object]
+#define OcMobileBodyBold [object Object]
+#define OcMobileBodyLgLight [object Object]
+#define OcMobileBodyLgExtraLight [object Object]
+#define OcMobileBodyLgRegular [object Object]
+#define OcMobileBodyLgMedium [object Object]
+#define OcMobileBodyLgSemiBold [object Object]
+#define OcMobileBodyLgBold [object Object]
+#define OcMobileHeading6Light [object Object]
+#define OcMobileHeading6ExtraLight [object Object]
+#define OcMobileHeading6Regular [object Object]
+#define OcMobileHeading6Medium [object Object]
+#define OcMobileHeading6SemiBold [object Object]
+#define OcMobileHeading6Bold [object Object]
 #define OcLayoutRadius2 2
 #define OcLayoutRadius4 4
 #define OcLayoutRadius8 8

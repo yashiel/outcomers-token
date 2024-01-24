@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 09:00:59 GMT
+ * Generated on Wed, 24 Jan 2024 09:32:11 GMT
  */
 
 export const ocRadius0 = "0";
@@ -282,6 +282,30 @@ export const ocMobileSmallRegular = "400 10px/1.5 Inter";
 export const ocMobileSmallMedium = "500 10px/1.5 Inter";
 export const ocMobileSmallSemiBold = "Semi Bold 10px/1.5 Inter";
 export const ocMobileSmallBold = "700 10px/1.5 Inter";
+export const ocMobileLabelLight = "300 12px/1.5 Inter";
+export const ocMobileLabelExtraLight = "Extra Light 12px/1.5 Inter";
+export const ocMobileLabelRegular = "400 12px/1.5 Inter";
+export const ocMobileLabelMedium = "500 12px/1.5 Inter";
+export const ocMobileLabelSemiBold = "Semi Bold 12px/1.5 Inter";
+export const ocMobileLabelBold = "700 12px/1.5 Inter";
+export const ocMobileBodyLight = "300 14px/1.5 Inter";
+export const ocMobileBodyExtraLight = "Extra Light 14px/1.5 Inter";
+export const ocMobileBodyRegular = "400 14px/1.5 Inter";
+export const ocMobileBodyMedium = "500 14px/1.5 Inter";
+export const ocMobileBodySemiBold = "Semi Bold 14px/1.5 Inter";
+export const ocMobileBodyBold = "700 14px/1.5 Inter";
+export const ocMobileBodyLgLight = "300 16px/1.5 Inter";
+export const ocMobileBodyLgExtraLight = "Extra Light 16px/1.5 Inter";
+export const ocMobileBodyLgRegular = "400 16px/1.5 Inter";
+export const ocMobileBodyLgMedium = "500 16px/1.5 Inter";
+export const ocMobileBodyLgSemiBold = "Semi Bold 16px/1.5 Inter";
+export const ocMobileBodyLgBold = "700 16px/1.5 Inter";
+export const ocMobileHeading6Light = "300 22px/1.5 Inter";
+export const ocMobileHeading6ExtraLight = "Extra Light 22px/1.5 Inter";
+export const ocMobileHeading6Regular = "400 22px/1.5 Inter";
+export const ocMobileHeading6Medium = "500 22px/1.5 Inter";
+export const ocMobileHeading6SemiBold = "Semi Bold 22px/1.5 Inter";
+export const ocMobileHeading6Bold = "700 22px/1.5 Inter";
 export const ocLayoutRadius2 = "2px";
 export const ocLayoutRadius4 = "4px";
 export const ocLayoutRadius8 = "8px";

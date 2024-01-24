@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 09:00:59 GMT
+// Generated on Wed, 24 Jan 2024 09:32:11 GMT
 
 
 #import ".h"
@@ -289,6 +289,30 @@ NSString * const OcMobileSmallRegular = [object Object];
 NSString * const OcMobileSmallMedium = [object Object];
 NSString * const OcMobileSmallSemiBold = [object Object];
 NSString * const OcMobileSmallBold = [object Object];
+NSString * const OcMobileLabelLight = [object Object];
+NSString * const OcMobileLabelExtraLight = [object Object];
+NSString * const OcMobileLabelRegular = [object Object];
+NSString * const OcMobileLabelMedium = [object Object];
+NSString * const OcMobileLabelSemiBold = [object Object];
+NSString * const OcMobileLabelBold = [object Object];
+NSString * const OcMobileBodyLight = [object Object];
+NSString * const OcMobileBodyExtraLight = [object Object];
+NSString * const OcMobileBodyRegular = [object Object];
+NSString * const OcMobileBodyMedium = [object Object];
+NSString * const OcMobileBodySemiBold = [object Object];
+NSString * const OcMobileBodyBold = [object Object];
+NSString * const OcMobileBodyLgLight = [object Object];
+NSString * const OcMobileBodyLgExtraLight = [object Object];
+NSString * const OcMobileBodyLgRegular = [object Object];
+NSString * const OcMobileBodyLgMedium = [object Object];
+NSString * const OcMobileBodyLgSemiBold = [object Object];
+NSString * const OcMobileBodyLgBold = [object Object];
+NSString * const OcMobileHeading6Light = [object Object];
+NSString * const OcMobileHeading6ExtraLight = [object Object];
+NSString * const OcMobileHeading6Regular = [object Object];
+NSString * const OcMobileHeading6Medium = [object Object];
+NSString * const OcMobileHeading6SemiBold = [object Object];
+NSString * const OcMobileHeading6Bold = [object Object];
 NSString * const OcLayoutRadius2 = 2;
 NSString * const OcLayoutRadius4 = 4;
 NSString * const OcLayoutRadius8 = 8;
@@ -2252,6 +2276,174 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcMobileSmallBold",
     @"category": @"mobile",
     @"type": @"small",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelLight",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelExtraLight",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelRegular",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelMedium",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelSemiBold",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelBold",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyLight",
+    @"category": @"mobile",
+    @"type": @"body",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyExtraLight",
+    @"category": @"mobile",
+    @"type": @"body",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyRegular",
+    @"category": @"mobile",
+    @"type": @"body",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyMedium",
+    @"category": @"mobile",
+    @"type": @"body",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodySemiBold",
+    @"category": @"mobile",
+    @"type": @"body",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyBold",
+    @"category": @"mobile",
+    @"type": @"body",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyLgLight",
+    @"category": @"mobile",
+    @"type": @"body-lg",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyLgExtraLight",
+    @"category": @"mobile",
+    @"type": @"body-lg",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyLgRegular",
+    @"category": @"mobile",
+    @"type": @"body-lg",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyLgMedium",
+    @"category": @"mobile",
+    @"type": @"body-lg",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyLgSemiBold",
+    @"category": @"mobile",
+    @"type": @"body-lg",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileBodyLgBold",
+    @"category": @"mobile",
+    @"type": @"body-lg",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileHeading6Light",
+    @"category": @"mobile",
+    @"type": @"heading-6",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileHeading6ExtraLight",
+    @"category": @"mobile",
+    @"type": @"heading-6",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileHeading6Regular",
+    @"category": @"mobile",
+    @"type": @"heading-6",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileHeading6Medium",
+    @"category": @"mobile",
+    @"type": @"heading-6",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileHeading6SemiBold",
+    @"category": @"mobile",
+    @"type": @"heading-6",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileHeading6Bold",
+    @"category": @"mobile",
+    @"type": @"heading-6",
     @"item": @"bold"
   },
 @{

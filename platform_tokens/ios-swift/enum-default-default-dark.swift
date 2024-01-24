@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 09:01:00 GMT
+// Generated on Wed, 24 Jan 2024 09:32:11 GMT
 
 
 import UIKit
@@ -249,6 +249,30 @@ public enum  {
     public static let ocLineHeight130 = 130%
     public static let ocLineHeight140 = 140%
     public static let ocLineHeight150 = 150%
+    public static let ocMobileBodyBold = [object Object]
+    public static let ocMobileBodyExtraLight = [object Object]
+    public static let ocMobileBodyLgBold = [object Object]
+    public static let ocMobileBodyLgExtraLight = [object Object]
+    public static let ocMobileBodyLgLight = [object Object]
+    public static let ocMobileBodyLgMedium = [object Object]
+    public static let ocMobileBodyLgRegular = [object Object]
+    public static let ocMobileBodyLgSemiBold = [object Object]
+    public static let ocMobileBodyLight = [object Object]
+    public static let ocMobileBodyMedium = [object Object]
+    public static let ocMobileBodyRegular = [object Object]
+    public static let ocMobileBodySemiBold = [object Object]
+    public static let ocMobileHeading6Bold = [object Object]
+    public static let ocMobileHeading6ExtraLight = [object Object]
+    public static let ocMobileHeading6Light = [object Object]
+    public static let ocMobileHeading6Medium = [object Object]
+    public static let ocMobileHeading6Regular = [object Object]
+    public static let ocMobileHeading6SemiBold = [object Object]
+    public static let ocMobileLabelBold = [object Object]
+    public static let ocMobileLabelExtraLight = [object Object]
+    public static let ocMobileLabelLight = [object Object]
+    public static let ocMobileLabelMedium = [object Object]
+    public static let ocMobileLabelRegular = [object Object]
+    public static let ocMobileLabelSemiBold = [object Object]
     public static let ocMobileSmallBold = [object Object]
     public static let ocMobileSmallExtraLight = [object Object]
     public static let ocMobileSmallLight = [object Object]

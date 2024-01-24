@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 09:00:59 GMT
+// Generated on Wed, 24 Jan 2024 09:32:11 GMT
 
 
 #import ".h"
@@ -289,6 +289,30 @@
  const OcMobileSmallMedium = [object Object];
  const OcMobileSmallSemiBold = [object Object];
  const OcMobileSmallBold = [object Object];
+ const OcMobileLabelLight = [object Object];
+ const OcMobileLabelExtraLight = [object Object];
+ const OcMobileLabelRegular = [object Object];
+ const OcMobileLabelMedium = [object Object];
+ const OcMobileLabelSemiBold = [object Object];
+ const OcMobileLabelBold = [object Object];
+ const OcMobileBodyLight = [object Object];
+ const OcMobileBodyExtraLight = [object Object];
+ const OcMobileBodyRegular = [object Object];
+ const OcMobileBodyMedium = [object Object];
+ const OcMobileBodySemiBold = [object Object];
+ const OcMobileBodyBold = [object Object];
+ const OcMobileBodyLgLight = [object Object];
+ const OcMobileBodyLgExtraLight = [object Object];
+ const OcMobileBodyLgRegular = [object Object];
+ const OcMobileBodyLgMedium = [object Object];
+ const OcMobileBodyLgSemiBold = [object Object];
+ const OcMobileBodyLgBold = [object Object];
+ const OcMobileHeading6Light = [object Object];
+ const OcMobileHeading6ExtraLight = [object Object];
+ const OcMobileHeading6Regular = [object Object];
+ const OcMobileHeading6Medium = [object Object];
+ const OcMobileHeading6SemiBold = [object Object];
+ const OcMobileHeading6Bold = [object Object];
  const OcLayoutRadius2 = 2;
  const OcLayoutRadius4 = 4;
  const OcLayoutRadius8 = 8;

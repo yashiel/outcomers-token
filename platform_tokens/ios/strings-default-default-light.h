@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 09:00:59 GMT
+// Generated on Wed, 24 Jan 2024 09:32:11 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -289,6 +289,30 @@ extern NSString * const OcMobileSmallRegular;
 extern NSString * const OcMobileSmallMedium;
 extern NSString * const OcMobileSmallSemiBold;
 extern NSString * const OcMobileSmallBold;
+extern NSString * const OcMobileLabelLight;
+extern NSString * const OcMobileLabelExtraLight;
+extern NSString * const OcMobileLabelRegular;
+extern NSString * const OcMobileLabelMedium;
+extern NSString * const OcMobileLabelSemiBold;
+extern NSString * const OcMobileLabelBold;
+extern NSString * const OcMobileBodyLight;
+extern NSString * const OcMobileBodyExtraLight;
+extern NSString * const OcMobileBodyRegular;
+extern NSString * const OcMobileBodyMedium;
+extern NSString * const OcMobileBodySemiBold;
+extern NSString * const OcMobileBodyBold;
+extern NSString * const OcMobileBodyLgLight;
+extern NSString * const OcMobileBodyLgExtraLight;
+extern NSString * const OcMobileBodyLgRegular;
+extern NSString * const OcMobileBodyLgMedium;
+extern NSString * const OcMobileBodyLgSemiBold;
+extern NSString * const OcMobileBodyLgBold;
+extern NSString * const OcMobileHeading6Light;
+extern NSString * const OcMobileHeading6ExtraLight;
+extern NSString * const OcMobileHeading6Regular;
+extern NSString * const OcMobileHeading6Medium;
+extern NSString * const OcMobileHeading6SemiBold;
+extern NSString * const OcMobileHeading6Bold;
 extern NSString * const OcLayoutRadius2;
 extern NSString * const OcLayoutRadius4;
 extern NSString * const OcLayoutRadius8;

@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 09:00:59 GMT
+// Generated on Wed, 24 Jan 2024 09:32:11 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -288,6 +288,30 @@ extern  const OcMobileSmallRegular;
 extern  const OcMobileSmallMedium;
 extern  const OcMobileSmallSemiBold;
 extern  const OcMobileSmallBold;
+extern  const OcMobileLabelLight;
+extern  const OcMobileLabelExtraLight;
+extern  const OcMobileLabelRegular;
+extern  const OcMobileLabelMedium;
+extern  const OcMobileLabelSemiBold;
+extern  const OcMobileLabelBold;
+extern  const OcMobileBodyLight;
+extern  const OcMobileBodyExtraLight;
+extern  const OcMobileBodyRegular;
+extern  const OcMobileBodyMedium;
+extern  const OcMobileBodySemiBold;
+extern  const OcMobileBodyBold;
+extern  const OcMobileBodyLgLight;
+extern  const OcMobileBodyLgExtraLight;
+extern  const OcMobileBodyLgRegular;
+extern  const OcMobileBodyLgMedium;
+extern  const OcMobileBodyLgSemiBold;
+extern  const OcMobileBodyLgBold;
+extern  const OcMobileHeading6Light;
+extern  const OcMobileHeading6ExtraLight;
+extern  const OcMobileHeading6Regular;
+extern  const OcMobileHeading6Medium;
+extern  const OcMobileHeading6SemiBold;
+extern  const OcMobileHeading6Bold;
 extern  const OcLayoutRadius2;
 extern  const OcLayoutRadius4;
 extern  const OcLayoutRadius8;
