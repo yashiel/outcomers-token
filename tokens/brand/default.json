@@ -1102,5 +1102,19 @@
         "type": "spacing"
       }
     }
+  },
+  "base": {
+    "2": {
+      "value": "2",
+      "type": "number"
+    },
+    "4": {
+      "value": "4",
+      "type": "number"
+    },
+    "8": {
+      "value": "8",
+      "type": "number"
+    }
   }
 }

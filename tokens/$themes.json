@@ -155,7 +155,10 @@
       "sizing.64": "850d2cba88dcfa70002217e5262ab2bcb27ea73a",
       "spacing.base.2": "c4dddf7c02d1fba46605d0eabb3e06d3a305807c",
       "spacing.base.4": "d74149a027a84b7107c6e18a9895673dabe7599b",
-      "spacing.base.8": "d849c7018f63dab273419feff01d7a1941771145"
+      "spacing.base.8": "d849c7018f63dab273419feff01d7a1941771145",
+      "base.4": "4c458e1115ce94c1b8cf767798260406ac328d2c",
+      "base.2": "cf8356bd8159bb1b3c7beeb5adaa441b36db622f",
+      "base.8": "7cabf3130422becbbc09ad070072884e7c93b0ea"
     },
     "group": "brand"
   },
@@ -285,7 +288,19 @@
       "web.heading-4.bold": "S:f5a15fc47e4b87a201fbb79d73bedcbd7a86b1a2,",
       "web.heading-3.bold": "S:073d82a8b76a7e8617f4564f347c5a42fb302297,",
       "web.heading-2.bold": "S:bb3f5c410beab60a3ed79a025418b9425264c7b4,",
-      "web.heading-1.bold": "S:f333b6402d02e8ed890cc78dc13debdc6da30f09,"
+      "web.heading-1.bold": "S:f333b6402d02e8ed890cc78dc13debdc6da30f09,",
+      "layout.shadow.primary.xs.left": "S:29affea45663b3abc363e4696414b78b340e7946,",
+      "layout.shadow.primary.xs.mid": "S:ad2941c3e3257499a02af105b06e6b0bb02fd85b,",
+      "layout.shadow.primary.xs.right": "S:701f2df765ff98606ecb9bf5d8145d63eb1d2e66,",
+      "layout.shadow.primary.xxs.left": "S:31df233f242d60ea81c33332fe83afdb72ffe6d0,",
+      "layout.shadow.primary.xxs.mid": "S:82eac61c161a427ac16fb85307dd37d0ff2cce1c,",
+      "layout.shadow.primary.xxs.right": "S:b3a9605a7602c1ed42eca514440d19efe3323efb,",
+      "layout.shadow.primary.xxxs.left": "S:e8ad7caab0f9b2b482402d586c19d4092c1207c6,",
+      "layout.shadow.primary.xxxs.mid": "S:869a45ca07ec255076e32b328b7356b038573e36,",
+      "layout.shadow.primary.xxxs.right": "S:39aedca264df2c6856cd05cf2713bee2a61c9662,",
+      "layout.shadow.primary.md.left": "S:4a35952512cd380a54589a105e54ae86d4be5afa,",
+      "layout.shadow.primary.md.mid": "S:adeaf1b3811377cd33855dbc927f15ff9b1dded3,",
+      "layout.shadow.primary.md.right": "S:5d0cf682f781fafe2ae42ae9776ac4003c507906,"
     },
     "selectedTokenSets": {
       "brand/default": "source",
