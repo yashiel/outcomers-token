@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:25:32 GMT
+// Generated on Wed, 24 Jan 2024 06:04:35 GMT
 
 
 #import ".h"
@@ -295,6 +295,25 @@ NSString * const OcMobileSmallRegular = [object Object];
 NSString * const OcMobileSmallMedium = [object Object];
 NSString * const OcMobileSmallSemiBold = [object Object];
 NSString * const OcMobileSmallBold = [object Object];
+NSString * const OcLayoutRadius2 = 2;
+NSString * const OcLayoutRadius4 = 4;
+NSString * const OcLayoutRadius8 = 8;
+NSString * const OcLayoutRadius16 = 16;
+NSString * const OcLayoutRadius24 = 24;
+NSString * const OcLayoutRadiusNone = 0;
+NSString * const OcLayoutRadiusRounded = 50;
+NSString * const OcLayoutBorderPrimarySolid1 = [object Object];
+NSString * const OcLayoutBorderPrimarySolid2 = [object Object];
+NSString * const OcLayoutBorderPrimarySolid3 = [object Object];
+NSString * const OcLayoutBorderPrimarySolid4 = [object Object];
+NSString * const OcLayoutBorderPrimarySolid5 = [object Object];
+NSString * const OcLayoutBorderPrimarySolidNone = [object Object];
+NSString * const OcLayoutBorderPrimaryDashed1 = [object Object];
+NSString * const OcLayoutBorderPrimaryDashed2 = [object Object];
+NSString * const OcLayoutBorderPrimaryDashed3 = [object Object];
+NSString * const OcLayoutBorderPrimaryDashed4 = [object Object];
+NSString * const OcLayoutBorderPrimaryDashed5 = [object Object];
+NSString * const OcLayoutBorderPrimaryDashedNone = [object Object];
 NSString * const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -2244,6 +2263,163 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"category": @"mobile",
     @"type": @"small",
     @"item": @"bold"
+  },
+@{
+  @"value": 2,
+  @"name": @"OcLayoutRadius2",
+    @"category": @"layout",
+    @"type": @"radius",
+    @"item": @"2"
+  },
+@{
+  @"value": 4,
+  @"name": @"OcLayoutRadius4",
+    @"category": @"layout",
+    @"type": @"radius",
+    @"item": @"4"
+  },
+@{
+  @"value": 8,
+  @"name": @"OcLayoutRadius8",
+    @"category": @"layout",
+    @"type": @"radius",
+    @"item": @"8"
+  },
+@{
+  @"value": 16,
+  @"name": @"OcLayoutRadius16",
+    @"category": @"layout",
+    @"type": @"radius",
+    @"item": @"16"
+  },
+@{
+  @"value": 24,
+  @"name": @"OcLayoutRadius24",
+    @"category": @"layout",
+    @"type": @"radius",
+    @"item": @"24"
+  },
+@{
+  @"value": 0,
+  @"name": @"OcLayoutRadiusNone",
+    @"category": @"layout",
+    @"type": @"radius",
+    @"item": @"none"
+  },
+@{
+  @"value": 50,
+  @"name": @"OcLayoutRadiusRounded",
+    @"category": @"layout",
+    @"type": @"radius",
+    @"item": @"rounded"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimarySolid1",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"solid",
+    @"state": @"1"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimarySolid2",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"solid",
+    @"state": @"2"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimarySolid3",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"solid",
+    @"state": @"3"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimarySolid4",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"solid",
+    @"state": @"4"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimarySolid5",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"solid",
+    @"state": @"5"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimarySolidNone",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"solid",
+    @"state": @"none"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimaryDashed1",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"dashed",
+    @"state": @"1"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimaryDashed2",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"dashed",
+    @"state": @"2"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimaryDashed3",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"dashed",
+    @"state": @"3"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimaryDashed4",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"dashed",
+    @"state": @"4"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimaryDashed5",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"dashed",
+    @"state": @"5"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimaryDashedNone",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"dashed",
+    @"state": @"none"
   },
 @{
   @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],

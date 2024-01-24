@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 05:25:32 GMT
+ * Generated on Wed, 24 Jan 2024 06:04:35 GMT
  */
 
 export const ocRadius0 = "0";
@@ -288,6 +288,25 @@ export const ocMobileSmallRegular = "400 10px/1.5 Inter";
 export const ocMobileSmallMedium = "500 10px/1.5 Inter";
 export const ocMobileSmallSemiBold = "Semi Bold 10px/1.5 Inter";
 export const ocMobileSmallBold = "700 10px/1.5 Inter";
+export const ocLayoutRadius2 = "2px";
+export const ocLayoutRadius4 = "4px";
+export const ocLayoutRadius8 = "8px";
+export const ocLayoutRadius16 = "16px";
+export const ocLayoutRadius24 = "24px";
+export const ocLayoutRadiusNone = "0";
+export const ocLayoutRadiusRounded = "50px";
+export const ocLayoutBorderPrimarySolid1 = "1px solid #D4D4D4";
+export const ocLayoutBorderPrimarySolid2 = "2px solid #D4D4D4";
+export const ocLayoutBorderPrimarySolid3 = "3px solid #D4D4D4";
+export const ocLayoutBorderPrimarySolid4 = "4px solid #D4D4D4";
+export const ocLayoutBorderPrimarySolid5 = "5px solid #D4D4D4";
+export const ocLayoutBorderPrimarySolidNone = "0 solid #D4D4D4";
+export const ocLayoutBorderPrimaryDashed1 = "1px dashed #D4D4D4";
+export const ocLayoutBorderPrimaryDashed2 = "2px dashed #D4D4D4";
+export const ocLayoutBorderPrimaryDashed3 = "3px dashed #D4D4D4";
+export const ocLayoutBorderPrimaryDashed4 = "4px dashed #D4D4D4";
+export const ocLayoutBorderPrimaryDashed5 = "5px dashed #D4D4D4";
+export const ocLayoutBorderPrimaryDashedNone = "0 dashed #D4D4D4";
 export const ocTextHeading = "#111111";
 export const ocTextBody = "#111111";
 export const ocTextAction = "#ffffff";

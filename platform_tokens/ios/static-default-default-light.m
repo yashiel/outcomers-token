@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:25:32 GMT
+// Generated on Wed, 24 Jan 2024 06:04:35 GMT
 
 
 #import ".h"
@@ -295,6 +295,25 @@
  const OcMobileSmallMedium = [object Object];
  const OcMobileSmallSemiBold = [object Object];
  const OcMobileSmallBold = [object Object];
+ const OcLayoutRadius2 = 2;
+ const OcLayoutRadius4 = 4;
+ const OcLayoutRadius8 = 8;
+ const OcLayoutRadius16 = 16;
+ const OcLayoutRadius24 = 24;
+ const OcLayoutRadiusNone = 0;
+ const OcLayoutRadiusRounded = 50;
+ const OcLayoutBorderPrimarySolid1 = [object Object];
+ const OcLayoutBorderPrimarySolid2 = [object Object];
+ const OcLayoutBorderPrimarySolid3 = [object Object];
+ const OcLayoutBorderPrimarySolid4 = [object Object];
+ const OcLayoutBorderPrimarySolid5 = [object Object];
+ const OcLayoutBorderPrimarySolidNone = [object Object];
+ const OcLayoutBorderPrimaryDashed1 = [object Object];
+ const OcLayoutBorderPrimaryDashed2 = [object Object];
+ const OcLayoutBorderPrimaryDashed3 = [object Object];
+ const OcLayoutBorderPrimaryDashed4 = [object Object];
+ const OcLayoutBorderPrimaryDashed5 = [object Object];
+ const OcLayoutBorderPrimaryDashedNone = [object Object];
  const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

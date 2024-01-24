@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:25:33 GMT
+// Generated on Wed, 24 Jan 2024 06:04:35 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -295,6 +295,25 @@
 #define OcMobileSmallMedium [object Object]
 #define OcMobileSmallSemiBold [object Object]
 #define OcMobileSmallBold [object Object]
+#define OcLayoutRadius2 2
+#define OcLayoutRadius4 4
+#define OcLayoutRadius8 8
+#define OcLayoutRadius16 16
+#define OcLayoutRadius24 24
+#define OcLayoutRadiusNone 0
+#define OcLayoutRadiusRounded 50
+#define OcLayoutBorderPrimarySolid1 [object Object]
+#define OcLayoutBorderPrimarySolid2 [object Object]
+#define OcLayoutBorderPrimarySolid3 [object Object]
+#define OcLayoutBorderPrimarySolid4 [object Object]
+#define OcLayoutBorderPrimarySolid5 [object Object]
+#define OcLayoutBorderPrimarySolidNone [object Object]
+#define OcLayoutBorderPrimaryDashed1 [object Object]
+#define OcLayoutBorderPrimaryDashed2 [object Object]
+#define OcLayoutBorderPrimaryDashed3 [object Object]
+#define OcLayoutBorderPrimaryDashed4 [object Object]
+#define OcLayoutBorderPrimaryDashed5 [object Object]
+#define OcLayoutBorderPrimaryDashedNone [object Object]
 #define OcTextHeading [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextBody [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextAction [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]

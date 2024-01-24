@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 05:25:32 GMT
+  Generated on Wed, 24 Jan 2024 06:04:35 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -290,6 +290,25 @@
   <string name="oc_mobile_small_medium">[object Object]</string>
   <string name="oc_mobile_small_semi_bold">[object Object]</string>
   <string name="oc_mobile_small_bold">[object Object]</string>
+  <string name="oc_layout_radius_2">2</string>
+  <string name="oc_layout_radius_4">4</string>
+  <string name="oc_layout_radius_8">8</string>
+  <string name="oc_layout_radius_16">16</string>
+  <string name="oc_layout_radius_24">24</string>
+  <string name="oc_layout_radius_none">0</string>
+  <string name="oc_layout_radius_rounded">50</string>
+  <string name="oc_layout_border_primary_solid_1">[object Object]</string>
+  <string name="oc_layout_border_primary_solid_2">[object Object]</string>
+  <string name="oc_layout_border_primary_solid_3">[object Object]</string>
+  <string name="oc_layout_border_primary_solid_4">[object Object]</string>
+  <string name="oc_layout_border_primary_solid_5">[object Object]</string>
+  <string name="oc_layout_border_primary_solid_none">[object Object]</string>
+  <string name="oc_layout_border_primary_dashed_1">[object Object]</string>
+  <string name="oc_layout_border_primary_dashed_2">[object Object]</string>
+  <string name="oc_layout_border_primary_dashed_3">[object Object]</string>
+  <string name="oc_layout_border_primary_dashed_4">[object Object]</string>
+  <string name="oc_layout_border_primary_dashed_5">[object Object]</string>
+  <string name="oc_layout_border_primary_dashed_none">[object Object]</string>
   <string name="oc_text_heading">#ff111111</string>
   <string name="oc_text_body">#ff111111</string>
   <string name="oc_text_action">#ffffffff</string>

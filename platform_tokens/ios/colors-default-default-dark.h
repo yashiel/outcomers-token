@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:25:33 GMT
+// Generated on Wed, 24 Jan 2024 06:04:35 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -295,6 +295,25 @@ OcMobileSmallRegular,
 OcMobileSmallMedium,
 OcMobileSmallSemiBold,
 OcMobileSmallBold,
+OcLayoutRadius2,
+OcLayoutRadius4,
+OcLayoutRadius8,
+OcLayoutRadius16,
+OcLayoutRadius24,
+OcLayoutRadiusNone,
+OcLayoutRadiusRounded,
+OcLayoutBorderPrimarySolid1,
+OcLayoutBorderPrimarySolid2,
+OcLayoutBorderPrimarySolid3,
+OcLayoutBorderPrimarySolid4,
+OcLayoutBorderPrimarySolid5,
+OcLayoutBorderPrimarySolidNone,
+OcLayoutBorderPrimaryDashed1,
+OcLayoutBorderPrimaryDashed2,
+OcLayoutBorderPrimaryDashed3,
+OcLayoutBorderPrimaryDashed4,
+OcLayoutBorderPrimaryDashed5,
+OcLayoutBorderPrimaryDashedNone,
 OcTextHeading,
 OcTextBody,
 OcTextAction,

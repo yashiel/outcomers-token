@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:25:33 GMT
+// Generated on Wed, 24 Jan 2024 06:04:35 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -295,6 +295,25 @@ extern NSString * const OcMobileSmallRegular;
 extern NSString * const OcMobileSmallMedium;
 extern NSString * const OcMobileSmallSemiBold;
 extern NSString * const OcMobileSmallBold;
+extern NSString * const OcLayoutRadius2;
+extern NSString * const OcLayoutRadius4;
+extern NSString * const OcLayoutRadius8;
+extern NSString * const OcLayoutRadius16;
+extern NSString * const OcLayoutRadius24;
+extern NSString * const OcLayoutRadiusNone;
+extern NSString * const OcLayoutRadiusRounded;
+extern NSString * const OcLayoutBorderPrimarySolid1;
+extern NSString * const OcLayoutBorderPrimarySolid2;
+extern NSString * const OcLayoutBorderPrimarySolid3;
+extern NSString * const OcLayoutBorderPrimarySolid4;
+extern NSString * const OcLayoutBorderPrimarySolid5;
+extern NSString * const OcLayoutBorderPrimarySolidNone;
+extern NSString * const OcLayoutBorderPrimaryDashed1;
+extern NSString * const OcLayoutBorderPrimaryDashed2;
+extern NSString * const OcLayoutBorderPrimaryDashed3;
+extern NSString * const OcLayoutBorderPrimaryDashed4;
+extern NSString * const OcLayoutBorderPrimaryDashed5;
+extern NSString * const OcLayoutBorderPrimaryDashedNone;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

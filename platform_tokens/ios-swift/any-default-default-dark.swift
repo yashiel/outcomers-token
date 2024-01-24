@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:25:33 GMT
+// Generated on Wed, 24 Jan 2024 06:04:35 GMT
 
 
 import UIKit
@@ -186,6 +186,25 @@ public class  {
     public static let ocIconPrimary = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
+    public static let ocLayoutBorderPrimaryDashed1 = [object Object]
+    public static let ocLayoutBorderPrimaryDashed2 = [object Object]
+    public static let ocLayoutBorderPrimaryDashed3 = [object Object]
+    public static let ocLayoutBorderPrimaryDashed4 = [object Object]
+    public static let ocLayoutBorderPrimaryDashed5 = [object Object]
+    public static let ocLayoutBorderPrimaryDashedNone = [object Object]
+    public static let ocLayoutBorderPrimarySolid1 = [object Object]
+    public static let ocLayoutBorderPrimarySolid2 = [object Object]
+    public static let ocLayoutBorderPrimarySolid3 = [object Object]
+    public static let ocLayoutBorderPrimarySolid4 = [object Object]
+    public static let ocLayoutBorderPrimarySolid5 = [object Object]
+    public static let ocLayoutBorderPrimarySolidNone = [object Object]
+    public static let ocLayoutRadius16 = 16
+    public static let ocLayoutRadius2 = 2
+    public static let ocLayoutRadius24 = 24
+    public static let ocLayoutRadius4 = 4
+    public static let ocLayoutRadius8 = 8
+    public static let ocLayoutRadiusNone = 0
+    public static let ocLayoutRadiusRounded = 50
     public static let ocLetterSpacing0 = 0%
     public static let ocLetterSpacing1 = 1%
     public static let ocLetterSpacing2 = -2.5%
