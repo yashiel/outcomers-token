@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 06:04:35 GMT
+// Generated on Wed, 24 Jan 2024 08:21:45 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -143,15 +143,6 @@ extern  const OcColorNeutral300;
 extern  const OcColorNeutral400;
 extern  const OcColorNeutralBlack;
 extern  const OcColorNeutralWhite;
-extern  const OcSpacingXxxs;
-extern  const OcSpacingXxs;
-extern  const OcSpacingXs;
-extern  const OcSpacingSm;
-extern  const OcSpacingMd;
-extern  const OcSpacingLg;
-extern  const OcSpacingXl;
-extern  const OcSpacingXxl;
-extern  const OcSpacingXxxl;
 extern  const OcBorderWidth1;
 extern  const OcBorderWidth2;
 extern  const OcBorderWidth3;
@@ -228,6 +219,9 @@ extern  const OcParagaphSpacing16;
 extern  const OcTextDecorationNone;
 extern  const OcTextDecorationUnderline;
 extern  const OcTextDecorationLineThrough;
+extern  const OcSpacingBase2;
+extern  const OcSpacingBase4;
+extern  const OcSpacingBase8;
 extern  const OcWebSmallLight;
 extern  const OcWebSmallExtraLight;
 extern  const OcWebSmallRegular;
@@ -306,13 +300,33 @@ extern  const OcLayoutBorderPrimarySolid2;
 extern  const OcLayoutBorderPrimarySolid3;
 extern  const OcLayoutBorderPrimarySolid4;
 extern  const OcLayoutBorderPrimarySolid5;
-extern  const OcLayoutBorderPrimarySolidNone;
 extern  const OcLayoutBorderPrimaryDashed1;
 extern  const OcLayoutBorderPrimaryDashed2;
 extern  const OcLayoutBorderPrimaryDashed3;
 extern  const OcLayoutBorderPrimaryDashed4;
 extern  const OcLayoutBorderPrimaryDashed5;
-extern  const OcLayoutBorderPrimaryDashedNone;
+extern  const OcLayoutBorderSecondarySolid1;
+extern  const OcLayoutBorderSecondarySolid2;
+extern  const OcLayoutBorderSecondarySolid3;
+extern  const OcLayoutBorderSecondarySolid4;
+extern  const OcLayoutBorderSecondarySolid5;
+extern  const OcLayoutBorderSecondaryDashed1;
+extern  const OcLayoutBorderSecondaryDashed2;
+extern  const OcLayoutBorderSecondaryDashed3;
+extern  const OcLayoutBorderSecondaryDashed4;
+extern  const OcLayoutBorderSecondaryDashed5;
+extern  const OcLayoutBorderNone;
+extern  const OcLayoutSpacingXxxs;
+extern  const OcLayoutSpacingXxs;
+extern  const OcLayoutSpacingXs;
+extern  const OcLayoutSpacingSm;
+extern  const OcLayoutSpacingMd;
+extern  const OcLayoutSpacingLg;
+extern  const OcLayoutSpacingXl;
+extern  const OcLayoutSpacingXxl;
+extern  const OcLayoutSpacingXxxl;
+extern  const OcLayoutSpacingExtended1;
+extern  const OcLayoutSpacingExtended2;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

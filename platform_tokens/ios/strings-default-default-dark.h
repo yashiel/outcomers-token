@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 06:04:35 GMT
+// Generated on Wed, 24 Jan 2024 08:21:45 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -144,15 +144,6 @@ extern NSString * const OcColorNeutral300;
 extern NSString * const OcColorNeutral400;
 extern NSString * const OcColorNeutralBlack;
 extern NSString * const OcColorNeutralWhite;
-extern NSString * const OcSpacingXxxs;
-extern NSString * const OcSpacingXxs;
-extern NSString * const OcSpacingXs;
-extern NSString * const OcSpacingSm;
-extern NSString * const OcSpacingMd;
-extern NSString * const OcSpacingLg;
-extern NSString * const OcSpacingXl;
-extern NSString * const OcSpacingXxl;
-extern NSString * const OcSpacingXxxl;
 extern NSString * const OcBorderWidth1;
 extern NSString * const OcBorderWidth2;
 extern NSString * const OcBorderWidth3;
@@ -229,6 +220,9 @@ extern NSString * const OcParagaphSpacing16;
 extern NSString * const OcTextDecorationNone;
 extern NSString * const OcTextDecorationUnderline;
 extern NSString * const OcTextDecorationLineThrough;
+extern NSString * const OcSpacingBase2;
+extern NSString * const OcSpacingBase4;
+extern NSString * const OcSpacingBase8;
 extern NSString * const OcWebSmallLight;
 extern NSString * const OcWebSmallExtraLight;
 extern NSString * const OcWebSmallRegular;
@@ -307,13 +301,33 @@ extern NSString * const OcLayoutBorderPrimarySolid2;
 extern NSString * const OcLayoutBorderPrimarySolid3;
 extern NSString * const OcLayoutBorderPrimarySolid4;
 extern NSString * const OcLayoutBorderPrimarySolid5;
-extern NSString * const OcLayoutBorderPrimarySolidNone;
 extern NSString * const OcLayoutBorderPrimaryDashed1;
 extern NSString * const OcLayoutBorderPrimaryDashed2;
 extern NSString * const OcLayoutBorderPrimaryDashed3;
 extern NSString * const OcLayoutBorderPrimaryDashed4;
 extern NSString * const OcLayoutBorderPrimaryDashed5;
-extern NSString * const OcLayoutBorderPrimaryDashedNone;
+extern NSString * const OcLayoutBorderSecondarySolid1;
+extern NSString * const OcLayoutBorderSecondarySolid2;
+extern NSString * const OcLayoutBorderSecondarySolid3;
+extern NSString * const OcLayoutBorderSecondarySolid4;
+extern NSString * const OcLayoutBorderSecondarySolid5;
+extern NSString * const OcLayoutBorderSecondaryDashed1;
+extern NSString * const OcLayoutBorderSecondaryDashed2;
+extern NSString * const OcLayoutBorderSecondaryDashed3;
+extern NSString * const OcLayoutBorderSecondaryDashed4;
+extern NSString * const OcLayoutBorderSecondaryDashed5;
+extern NSString * const OcLayoutBorderNone;
+extern NSString * const OcLayoutSpacingXxxs;
+extern NSString * const OcLayoutSpacingXxs;
+extern NSString * const OcLayoutSpacingXs;
+extern NSString * const OcLayoutSpacingSm;
+extern NSString * const OcLayoutSpacingMd;
+extern NSString * const OcLayoutSpacingLg;
+extern NSString * const OcLayoutSpacingXl;
+extern NSString * const OcLayoutSpacingXxl;
+extern NSString * const OcLayoutSpacingXxxl;
+extern NSString * const OcLayoutSpacingExtended1;
+extern NSString * const OcLayoutSpacingExtended2;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

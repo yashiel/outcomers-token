@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 06:04:35 GMT
+// Generated on Wed, 24 Jan 2024 08:21:45 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -144,15 +144,6 @@
 #define OcColorNeutral400 [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f]
 #define OcColorNeutralBlack [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f]
 #define OcColorNeutralWhite [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
-#define OcSpacingXxxs 2
-#define OcSpacingXxs 4
-#define OcSpacingXs 8
-#define OcSpacingSm 12
-#define OcSpacingMd 16
-#define OcSpacingLg 24
-#define OcSpacingXl 32
-#define OcSpacingXxl 48
-#define OcSpacingXxxl 64
 #define OcBorderWidth1 1
 #define OcBorderWidth2 2
 #define OcBorderWidth3 3
@@ -229,6 +220,9 @@
 #define OcTextDecorationNone none
 #define OcTextDecorationUnderline underline
 #define OcTextDecorationLineThrough line-through
+#define OcSpacingBase2 2
+#define OcSpacingBase4 4
+#define OcSpacingBase8 8
 #define OcWebSmallLight [object Object]
 #define OcWebSmallExtraLight [object Object]
 #define OcWebSmallRegular [object Object]
@@ -307,13 +301,33 @@
 #define OcLayoutBorderPrimarySolid3 [object Object]
 #define OcLayoutBorderPrimarySolid4 [object Object]
 #define OcLayoutBorderPrimarySolid5 [object Object]
-#define OcLayoutBorderPrimarySolidNone [object Object]
 #define OcLayoutBorderPrimaryDashed1 [object Object]
 #define OcLayoutBorderPrimaryDashed2 [object Object]
 #define OcLayoutBorderPrimaryDashed3 [object Object]
 #define OcLayoutBorderPrimaryDashed4 [object Object]
 #define OcLayoutBorderPrimaryDashed5 [object Object]
-#define OcLayoutBorderPrimaryDashedNone [object Object]
+#define OcLayoutBorderSecondarySolid1 [object Object]
+#define OcLayoutBorderSecondarySolid2 [object Object]
+#define OcLayoutBorderSecondarySolid3 [object Object]
+#define OcLayoutBorderSecondarySolid4 [object Object]
+#define OcLayoutBorderSecondarySolid5 [object Object]
+#define OcLayoutBorderSecondaryDashed1 [object Object]
+#define OcLayoutBorderSecondaryDashed2 [object Object]
+#define OcLayoutBorderSecondaryDashed3 [object Object]
+#define OcLayoutBorderSecondaryDashed4 [object Object]
+#define OcLayoutBorderSecondaryDashed5 [object Object]
+#define OcLayoutBorderNone [object Object]
+#define OcLayoutSpacingXxxs 4/2
+#define OcLayoutSpacingXxs 4*1
+#define OcLayoutSpacingXs 4*2
+#define OcLayoutSpacingSm 4*3
+#define OcLayoutSpacingMd 4*4
+#define OcLayoutSpacingLg 8*3
+#define OcLayoutSpacingXl 8*4
+#define OcLayoutSpacingXxl 8*5
+#define OcLayoutSpacingXxxl 8*6
+#define OcLayoutSpacingExtended1 8*7
+#define OcLayoutSpacingExtended2 8*8
 #define OcTextHeading [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextBody [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextAction [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 06:04:35 GMT
+// Generated on Wed, 24 Jan 2024 08:21:45 GMT
 
 
 #import ".h"
@@ -144,15 +144,6 @@
  const OcColorNeutral400 = [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f];
  const OcColorNeutralBlack = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcColorNeutralWhite = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
- const OcSpacingXxxs = 2;
- const OcSpacingXxs = 4;
- const OcSpacingXs = 8;
- const OcSpacingSm = 12;
- const OcSpacingMd = 16;
- const OcSpacingLg = 24;
- const OcSpacingXl = 32;
- const OcSpacingXxl = 48;
- const OcSpacingXxxl = 64;
  const OcBorderWidth1 = 1;
  const OcBorderWidth2 = 2;
  const OcBorderWidth3 = 3;
@@ -229,6 +220,9 @@
  const OcTextDecorationNone = none;
  const OcTextDecorationUnderline = underline;
  const OcTextDecorationLineThrough = line-through;
+ const OcSpacingBase2 = 2;
+ const OcSpacingBase4 = 4;
+ const OcSpacingBase8 = 8;
  const OcWebSmallLight = [object Object];
  const OcWebSmallExtraLight = [object Object];
  const OcWebSmallRegular = [object Object];
@@ -307,13 +301,33 @@
  const OcLayoutBorderPrimarySolid3 = [object Object];
  const OcLayoutBorderPrimarySolid4 = [object Object];
  const OcLayoutBorderPrimarySolid5 = [object Object];
- const OcLayoutBorderPrimarySolidNone = [object Object];
  const OcLayoutBorderPrimaryDashed1 = [object Object];
  const OcLayoutBorderPrimaryDashed2 = [object Object];
  const OcLayoutBorderPrimaryDashed3 = [object Object];
  const OcLayoutBorderPrimaryDashed4 = [object Object];
  const OcLayoutBorderPrimaryDashed5 = [object Object];
- const OcLayoutBorderPrimaryDashedNone = [object Object];
+ const OcLayoutBorderSecondarySolid1 = [object Object];
+ const OcLayoutBorderSecondarySolid2 = [object Object];
+ const OcLayoutBorderSecondarySolid3 = [object Object];
+ const OcLayoutBorderSecondarySolid4 = [object Object];
+ const OcLayoutBorderSecondarySolid5 = [object Object];
+ const OcLayoutBorderSecondaryDashed1 = [object Object];
+ const OcLayoutBorderSecondaryDashed2 = [object Object];
+ const OcLayoutBorderSecondaryDashed3 = [object Object];
+ const OcLayoutBorderSecondaryDashed4 = [object Object];
+ const OcLayoutBorderSecondaryDashed5 = [object Object];
+ const OcLayoutBorderNone = [object Object];
+ const OcLayoutSpacingXxxs = 4/2;
+ const OcLayoutSpacingXxs = 4*1;
+ const OcLayoutSpacingXs = 4*2;
+ const OcLayoutSpacingSm = 4*3;
+ const OcLayoutSpacingMd = 4*4;
+ const OcLayoutSpacingLg = 8*3;
+ const OcLayoutSpacingXl = 8*4;
+ const OcLayoutSpacingXxl = 8*5;
+ const OcLayoutSpacingXxxl = 8*6;
+ const OcLayoutSpacingExtended1 = 8*7;
+ const OcLayoutSpacingExtended2 = 8*8;
  const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

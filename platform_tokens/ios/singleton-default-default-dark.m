@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 06:04:35 GMT
+// Generated on Wed, 24 Jan 2024 08:21:45 GMT
 
 
 #import ".h"
@@ -993,62 +993,6 @@
         }
       }
     },
-  @"spacing": @{
-    @"xxxs": @{
-      @"value": 2,
-      @"name": @"OcSpacingXxxs",
-      @"category": @"spacing",
-      @"type": @"xxxs"
-      },
-    @"xxs": @{
-      @"value": 4,
-      @"name": @"OcSpacingXxs",
-      @"category": @"spacing",
-      @"type": @"xxs"
-      },
-    @"xs": @{
-      @"value": 8,
-      @"name": @"OcSpacingXs",
-      @"category": @"spacing",
-      @"type": @"xs"
-      },
-    @"sm": @{
-      @"value": 12,
-      @"name": @"OcSpacingSm",
-      @"category": @"spacing",
-      @"type": @"sm"
-      },
-    @"md": @{
-      @"value": 16,
-      @"name": @"OcSpacingMd",
-      @"category": @"spacing",
-      @"type": @"md"
-      },
-    @"lg": @{
-      @"value": 24,
-      @"name": @"OcSpacingLg",
-      @"category": @"spacing",
-      @"type": @"lg"
-      },
-    @"xl": @{
-      @"value": 32,
-      @"name": @"OcSpacingXl",
-      @"category": @"spacing",
-      @"type": @"xl"
-      },
-    @"xxl": @{
-      @"value": 48,
-      @"name": @"OcSpacingXxl",
-      @"category": @"spacing",
-      @"type": @"xxl"
-      },
-    @"xxxl": @{
-      @"value": 64,
-      @"name": @"OcSpacingXxxl",
-      @"category": @"spacing",
-      @"type": @"xxxl"
-      }
-    },
   @"borderWidth": @{
     @"1": @{
       @"value": 1,
@@ -1525,6 +1469,31 @@
       @"name": @"OcTextDecorationLineThrough",
       @"category": @"textDecoration",
       @"type": @"line-through"
+      }
+    },
+  @"spacing": @{
+    @"base": @{
+      @"2": @{
+        @"value": 2,
+        @"name": @"OcSpacingBase2",
+        @"category": @"spacing",
+        @"type": @"base",
+        @"item": @"2"
+        },
+      @"4": @{
+        @"value": 4,
+        @"name": @"OcSpacingBase4",
+        @"category": @"spacing",
+        @"type": @"base",
+        @"item": @"4"
+        },
+      @"8": @{
+        @"value": 8,
+        @"name": @"OcSpacingBase8",
+        @"category": @"spacing",
+        @"type": @"base",
+        @"item": @"8"
+        }
       }
     },
   @"web": @{
@@ -2114,15 +2083,6 @@
             @"item": @"primary",
             @"subitem": @"solid",
             @"state": @"5"
-            },
-          @"none": @{
-            @"value": [object Object],
-            @"name": @"OcLayoutBorderPrimarySolidNone",
-            @"category": @"layout",
-            @"type": @"border",
-            @"item": @"primary",
-            @"subitem": @"solid",
-            @"state": @"none"
             }
           },
         @"dashed": @{
@@ -2170,17 +2130,190 @@
             @"item": @"primary",
             @"subitem": @"dashed",
             @"state": @"5"
-            },
-          @"none": @{
-            @"value": [object Object],
-            @"name": @"OcLayoutBorderPrimaryDashedNone",
-            @"category": @"layout",
-            @"type": @"border",
-            @"item": @"primary",
-            @"subitem": @"dashed",
-            @"state": @"none"
             }
           }
+        },
+      @"secondary": @{
+        @"solid": @{
+          @"1": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondarySolid1",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"solid",
+            @"state": @"1"
+            },
+          @"2": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondarySolid2",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"solid",
+            @"state": @"2"
+            },
+          @"3": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondarySolid3",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"solid",
+            @"state": @"3"
+            },
+          @"4": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondarySolid4",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"solid",
+            @"state": @"4"
+            },
+          @"5": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondarySolid5",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"solid",
+            @"state": @"5"
+            }
+          },
+        @"dashed": @{
+          @"1": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondaryDashed1",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"dashed",
+            @"state": @"1"
+            },
+          @"2": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondaryDashed2",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"dashed",
+            @"state": @"2"
+            },
+          @"3": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondaryDashed3",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"dashed",
+            @"state": @"3"
+            },
+          @"4": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondaryDashed4",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"dashed",
+            @"state": @"4"
+            },
+          @"5": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondaryDashed5",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"dashed",
+            @"state": @"5"
+            }
+          }
+        },
+      @"none": @{
+        @"value": [object Object],
+        @"name": @"OcLayoutBorderNone",
+        @"category": @"layout",
+        @"type": @"border",
+        @"item": @"none"
+        }
+      },
+    @"spacing": @{
+      @"xxxs": @{
+        @"value": 4/2,
+        @"name": @"OcLayoutSpacingXxxs",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"xxxs"
+        },
+      @"xxs": @{
+        @"value": 4*1,
+        @"name": @"OcLayoutSpacingXxs",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"xxs"
+        },
+      @"xs": @{
+        @"value": 4*2,
+        @"name": @"OcLayoutSpacingXs",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"xs"
+        },
+      @"sm": @{
+        @"value": 4*3,
+        @"name": @"OcLayoutSpacingSm",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"sm"
+        },
+      @"md": @{
+        @"value": 4*4,
+        @"name": @"OcLayoutSpacingMd",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"md"
+        },
+      @"lg": @{
+        @"value": 8*3,
+        @"name": @"OcLayoutSpacingLg",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"lg"
+        },
+      @"xl": @{
+        @"value": 8*4,
+        @"name": @"OcLayoutSpacingXl",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"xl"
+        },
+      @"xxl": @{
+        @"value": 8*5,
+        @"name": @"OcLayoutSpacingXxl",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"xxl"
+        },
+      @"xxxl": @{
+        @"value": 8*6,
+        @"name": @"OcLayoutSpacingXxxl",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"xxxl"
+        },
+      @"extended-1": @{
+        @"value": 8*7,
+        @"name": @"OcLayoutSpacingExtended1",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"extended-1"
+        },
+      @"extended-2": @{
+        @"value": 8*8,
+        @"name": @"OcLayoutSpacingExtended2",
+        @"category": @"layout",
+        @"type": @"spacing",
+        @"item": @"extended-2"
         }
       }
     },

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 06:04:35 GMT
+// Generated on Wed, 24 Jan 2024 08:21:45 GMT
 
 
 #import ".h"
@@ -144,15 +144,6 @@ NSString * const OcColorNeutral300 = [UIColor colorWithRed:0.086f green:0.086f b
 NSString * const OcColorNeutral400 = [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f];
 NSString * const OcColorNeutralBlack = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcColorNeutralWhite = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
-NSString * const OcSpacingXxxs = 2;
-NSString * const OcSpacingXxs = 4;
-NSString * const OcSpacingXs = 8;
-NSString * const OcSpacingSm = 12;
-NSString * const OcSpacingMd = 16;
-NSString * const OcSpacingLg = 24;
-NSString * const OcSpacingXl = 32;
-NSString * const OcSpacingXxl = 48;
-NSString * const OcSpacingXxxl = 64;
 NSString * const OcBorderWidth1 = 1;
 NSString * const OcBorderWidth2 = 2;
 NSString * const OcBorderWidth3 = 3;
@@ -229,6 +220,9 @@ NSString * const OcParagaphSpacing16 = 16;
 NSString * const OcTextDecorationNone = none;
 NSString * const OcTextDecorationUnderline = underline;
 NSString * const OcTextDecorationLineThrough = line-through;
+NSString * const OcSpacingBase2 = 2;
+NSString * const OcSpacingBase4 = 4;
+NSString * const OcSpacingBase8 = 8;
 NSString * const OcWebSmallLight = [object Object];
 NSString * const OcWebSmallExtraLight = [object Object];
 NSString * const OcWebSmallRegular = [object Object];
@@ -307,13 +301,33 @@ NSString * const OcLayoutBorderPrimarySolid2 = [object Object];
 NSString * const OcLayoutBorderPrimarySolid3 = [object Object];
 NSString * const OcLayoutBorderPrimarySolid4 = [object Object];
 NSString * const OcLayoutBorderPrimarySolid5 = [object Object];
-NSString * const OcLayoutBorderPrimarySolidNone = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed1 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed2 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed3 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed4 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed5 = [object Object];
-NSString * const OcLayoutBorderPrimaryDashedNone = [object Object];
+NSString * const OcLayoutBorderSecondarySolid1 = [object Object];
+NSString * const OcLayoutBorderSecondarySolid2 = [object Object];
+NSString * const OcLayoutBorderSecondarySolid3 = [object Object];
+NSString * const OcLayoutBorderSecondarySolid4 = [object Object];
+NSString * const OcLayoutBorderSecondarySolid5 = [object Object];
+NSString * const OcLayoutBorderSecondaryDashed1 = [object Object];
+NSString * const OcLayoutBorderSecondaryDashed2 = [object Object];
+NSString * const OcLayoutBorderSecondaryDashed3 = [object Object];
+NSString * const OcLayoutBorderSecondaryDashed4 = [object Object];
+NSString * const OcLayoutBorderSecondaryDashed5 = [object Object];
+NSString * const OcLayoutBorderNone = [object Object];
+NSString * const OcLayoutSpacingXxxs = 4/2;
+NSString * const OcLayoutSpacingXxs = 4*1;
+NSString * const OcLayoutSpacingXs = 4*2;
+NSString * const OcLayoutSpacingSm = 4*3;
+NSString * const OcLayoutSpacingMd = 4*4;
+NSString * const OcLayoutSpacingLg = 8*3;
+NSString * const OcLayoutSpacingXl = 8*4;
+NSString * const OcLayoutSpacingXxl = 8*5;
+NSString * const OcLayoutSpacingXxxl = 8*6;
+NSString * const OcLayoutSpacingExtended1 = 8*7;
+NSString * const OcLayoutSpacingExtended2 = 8*8;
 NSString * const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -1293,60 +1307,6 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"item": @"white"
   },
 @{
-  @"value": 2,
-  @"name": @"OcSpacingXxxs",
-    @"category": @"spacing",
-    @"type": @"xxxs"
-  },
-@{
-  @"value": 4,
-  @"name": @"OcSpacingXxs",
-    @"category": @"spacing",
-    @"type": @"xxs"
-  },
-@{
-  @"value": 8,
-  @"name": @"OcSpacingXs",
-    @"category": @"spacing",
-    @"type": @"xs"
-  },
-@{
-  @"value": 12,
-  @"name": @"OcSpacingSm",
-    @"category": @"spacing",
-    @"type": @"sm"
-  },
-@{
-  @"value": 16,
-  @"name": @"OcSpacingMd",
-    @"category": @"spacing",
-    @"type": @"md"
-  },
-@{
-  @"value": 24,
-  @"name": @"OcSpacingLg",
-    @"category": @"spacing",
-    @"type": @"lg"
-  },
-@{
-  @"value": 32,
-  @"name": @"OcSpacingXl",
-    @"category": @"spacing",
-    @"type": @"xl"
-  },
-@{
-  @"value": 48,
-  @"name": @"OcSpacingXxl",
-    @"category": @"spacing",
-    @"type": @"xxl"
-  },
-@{
-  @"value": 64,
-  @"name": @"OcSpacingXxxl",
-    @"category": @"spacing",
-    @"type": @"xxxl"
-  },
-@{
   @"value": 1,
   @"name": @"OcBorderWidth1",
     @"category": @"borderWidth",
@@ -1801,6 +1761,27 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcTextDecorationLineThrough",
     @"category": @"textDecoration",
     @"type": @"line-through"
+  },
+@{
+  @"value": 2,
+  @"name": @"OcSpacingBase2",
+    @"category": @"spacing",
+    @"type": @"base",
+    @"item": @"2"
+  },
+@{
+  @"value": 4,
+  @"name": @"OcSpacingBase4",
+    @"category": @"spacing",
+    @"type": @"base",
+    @"item": @"4"
+  },
+@{
+  @"value": 8,
+  @"name": @"OcSpacingBase8",
+    @"category": @"spacing",
+    @"type": @"base",
+    @"item": @"8"
   },
 @{
   @"value": [object Object],
@@ -2360,15 +2341,6 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   },
 @{
   @"value": [object Object],
-  @"name": @"OcLayoutBorderPrimarySolidNone",
-    @"category": @"layout",
-    @"type": @"border",
-    @"item": @"primary",
-    @"subitem": @"solid",
-    @"state": @"none"
-  },
-@{
-  @"value": [object Object],
   @"name": @"OcLayoutBorderPrimaryDashed1",
     @"category": @"layout",
     @"type": @"border",
@@ -2414,12 +2386,177 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   },
 @{
   @"value": [object Object],
-  @"name": @"OcLayoutBorderPrimaryDashedNone",
+  @"name": @"OcLayoutBorderSecondarySolid1",
     @"category": @"layout",
     @"type": @"border",
-    @"item": @"primary",
+    @"item": @"secondary",
+    @"subitem": @"solid",
+    @"state": @"1"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondarySolid2",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"solid",
+    @"state": @"2"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondarySolid3",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"solid",
+    @"state": @"3"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondarySolid4",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"solid",
+    @"state": @"4"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondarySolid5",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"solid",
+    @"state": @"5"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondaryDashed1",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
     @"subitem": @"dashed",
-    @"state": @"none"
+    @"state": @"1"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondaryDashed2",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"dashed",
+    @"state": @"2"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondaryDashed3",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"dashed",
+    @"state": @"3"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondaryDashed4",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"dashed",
+    @"state": @"4"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondaryDashed5",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"dashed",
+    @"state": @"5"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderNone",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"none"
+  },
+@{
+  @"value": 4/2,
+  @"name": @"OcLayoutSpacingXxxs",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"xxxs"
+  },
+@{
+  @"value": 4*1,
+  @"name": @"OcLayoutSpacingXxs",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"xxs"
+  },
+@{
+  @"value": 4*2,
+  @"name": @"OcLayoutSpacingXs",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"xs"
+  },
+@{
+  @"value": 4*3,
+  @"name": @"OcLayoutSpacingSm",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"sm"
+  },
+@{
+  @"value": 4*4,
+  @"name": @"OcLayoutSpacingMd",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"md"
+  },
+@{
+  @"value": 8*3,
+  @"name": @"OcLayoutSpacingLg",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"lg"
+  },
+@{
+  @"value": 8*4,
+  @"name": @"OcLayoutSpacingXl",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"xl"
+  },
+@{
+  @"value": 8*5,
+  @"name": @"OcLayoutSpacingXxl",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"xxl"
+  },
+@{
+  @"value": 8*6,
+  @"name": @"OcLayoutSpacingXxxl",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"xxxl"
+  },
+@{
+  @"value": 8*7,
+  @"name": @"OcLayoutSpacingExtended1",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"extended-1"
+  },
+@{
+  @"value": 8*8,
+  @"name": @"OcLayoutSpacingExtended2",
+    @"category": @"layout",
+    @"type": @"spacing",
+    @"item": @"extended-2"
   },
 @{
   @"value": [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],

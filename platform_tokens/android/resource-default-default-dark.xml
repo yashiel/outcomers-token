@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 06:04:35 GMT
+  Generated on Wed, 24 Jan 2024 08:21:45 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -139,15 +139,6 @@
   <color name="oc_color_neutral_400">#ff0b0b0b</color>
   <color name="oc_color_neutral_black">#ff111111</color>
   <color name="oc_color_neutral_white">#ffffffff</color>
-  <string name="oc_spacing_xxxs">2</string>
-  <string name="oc_spacing_xxs">4</string>
-  <string name="oc_spacing_xs">8</string>
-  <string name="oc_spacing_sm">12</string>
-  <string name="oc_spacing_md">16</string>
-  <string name="oc_spacing_lg">24</string>
-  <string name="oc_spacing_xl">32</string>
-  <string name="oc_spacing_xxl">48</string>
-  <string name="oc_spacing_xxxl">64</string>
   <string name="oc_border_width_1">1</string>
   <string name="oc_border_width_2">2</string>
   <string name="oc_border_width_3">3</string>
@@ -224,6 +215,9 @@
   <string name="oc_text_decoration_none">none</string>
   <string name="oc_text_decoration_underline">underline</string>
   <string name="oc_text_decoration_line_through">line-through</string>
+  <string name="oc_spacing_base_2">2</string>
+  <string name="oc_spacing_base_4">4</string>
+  <string name="oc_spacing_base_8">8</string>
   <string name="oc_web_small_light">[object Object]</string>
   <string name="oc_web_small_extra_light">[object Object]</string>
   <string name="oc_web_small_regular">[object Object]</string>
@@ -302,13 +296,33 @@
   <string name="oc_layout_border_primary_solid_3">[object Object]</string>
   <string name="oc_layout_border_primary_solid_4">[object Object]</string>
   <string name="oc_layout_border_primary_solid_5">[object Object]</string>
-  <string name="oc_layout_border_primary_solid_none">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_1">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_2">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_3">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_4">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_5">[object Object]</string>
-  <string name="oc_layout_border_primary_dashed_none">[object Object]</string>
+  <string name="oc_layout_border_secondary_solid_1">[object Object]</string>
+  <string name="oc_layout_border_secondary_solid_2">[object Object]</string>
+  <string name="oc_layout_border_secondary_solid_3">[object Object]</string>
+  <string name="oc_layout_border_secondary_solid_4">[object Object]</string>
+  <string name="oc_layout_border_secondary_solid_5">[object Object]</string>
+  <string name="oc_layout_border_secondary_dashed_1">[object Object]</string>
+  <string name="oc_layout_border_secondary_dashed_2">[object Object]</string>
+  <string name="oc_layout_border_secondary_dashed_3">[object Object]</string>
+  <string name="oc_layout_border_secondary_dashed_4">[object Object]</string>
+  <string name="oc_layout_border_secondary_dashed_5">[object Object]</string>
+  <string name="oc_layout_border_none">[object Object]</string>
+  <string name="oc_layout_spacing_xxxs">4/2</string>
+  <string name="oc_layout_spacing_xxs">4*1</string>
+  <string name="oc_layout_spacing_xs">4*2</string>
+  <string name="oc_layout_spacing_sm">4*3</string>
+  <string name="oc_layout_spacing_md">4*4</string>
+  <string name="oc_layout_spacing_lg">8*3</string>
+  <string name="oc_layout_spacing_xl">8*4</string>
+  <string name="oc_layout_spacing_xxl">8*5</string>
+  <string name="oc_layout_spacing_xxxl">8*6</string>
+  <string name="oc_layout_spacing_extended_1">8*7</string>
+  <string name="oc_layout_spacing_extended_2">8*8</string>
   <string name="oc_text_heading">#ffffffff</string>
   <string name="oc_text_body">#ffffffff</string>
   <string name="oc_text_action">#ffffffff</string>

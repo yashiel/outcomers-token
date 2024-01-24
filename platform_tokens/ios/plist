@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 06:04:35 GMT
+  Generated on Wed, 24 Jan 2024 08:21:45 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1417,33 +1417,6 @@
       <key>a</key>
       <real>1</real>
       </dict>
-    <key>OcSpacingXxxs</key>
-    </dict>
-      <string>2</string>
-    <key>OcSpacingXxs</key>
-    </dict>
-      <string>4</string>
-    <key>OcSpacingXs</key>
-    </dict>
-      <string>8</string>
-    <key>OcSpacingSm</key>
-    </dict>
-      <string>12</string>
-    <key>OcSpacingMd</key>
-    </dict>
-      <string>16</string>
-    <key>OcSpacingLg</key>
-    </dict>
-      <string>24</string>
-    <key>OcSpacingXl</key>
-    </dict>
-      <string>32</string>
-    <key>OcSpacingXxl</key>
-    </dict>
-      <string>48</string>
-    <key>OcSpacingXxxl</key>
-    </dict>
-      <string>64</string>
     <key>OcBorderWidth1</key>
     </dict>
       <string>1</string>
@@ -1672,6 +1645,15 @@
     <key>OcTextDecorationLineThrough</key>
     </dict>
       <string>line-through</string>
+    <key>OcSpacingBase2</key>
+    </dict>
+      <string>2</string>
+    <key>OcSpacingBase4</key>
+    </dict>
+      <string>4</string>
+    <key>OcSpacingBase8</key>
+    </dict>
+      <string>8</string>
     <key>OcWebSmallLight</key>
     </dict>
       <string>[object Object]</string>
@@ -1906,9 +1888,6 @@
     <key>OcLayoutBorderPrimarySolid5</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcLayoutBorderPrimarySolidNone</key>
-    </dict>
-      <string>[object Object]</string>
     <key>OcLayoutBorderPrimaryDashed1</key>
     </dict>
       <string>[object Object]</string>
@@ -1924,9 +1903,72 @@
     <key>OcLayoutBorderPrimaryDashed5</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcLayoutBorderPrimaryDashedNone</key>
+    <key>OcLayoutBorderSecondarySolid1</key>
     </dict>
       <string>[object Object]</string>
+    <key>OcLayoutBorderSecondarySolid2</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondarySolid3</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondarySolid4</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondarySolid5</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondaryDashed1</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondaryDashed2</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondaryDashed3</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondaryDashed4</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderSecondaryDashed5</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutBorderNone</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutSpacingXxxs</key>
+    </dict>
+      <string>4/2</string>
+    <key>OcLayoutSpacingXxs</key>
+    </dict>
+      <string>4*1</string>
+    <key>OcLayoutSpacingXs</key>
+    </dict>
+      <string>4*2</string>
+    <key>OcLayoutSpacingSm</key>
+    </dict>
+      <string>4*3</string>
+    <key>OcLayoutSpacingMd</key>
+    </dict>
+      <string>4*4</string>
+    <key>OcLayoutSpacingLg</key>
+    </dict>
+      <string>8*3</string>
+    <key>OcLayoutSpacingXl</key>
+    </dict>
+      <string>8*4</string>
+    <key>OcLayoutSpacingXxl</key>
+    </dict>
+      <string>8*5</string>
+    <key>OcLayoutSpacingXxxl</key>
+    </dict>
+      <string>8*6</string>
+    <key>OcLayoutSpacingExtended1</key>
+    </dict>
+      <string>8*7</string>
+    <key>OcLayoutSpacingExtended2</key>
+    </dict>
+      <string>8*8</string>
     <key>OcTextHeading</key>
     </dict>
       <string>[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]</string>

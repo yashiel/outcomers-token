@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 06:04:35 GMT
+// Generated on Wed, 24 Jan 2024 08:21:45 GMT
 
 
 import UIKit
@@ -186,18 +186,27 @@ public enum  {
     public static let ocIconPrimary = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
+    public static let ocLayoutBorderNone = [object Object]
     public static let ocLayoutBorderPrimaryDashed1 = [object Object]
     public static let ocLayoutBorderPrimaryDashed2 = [object Object]
     public static let ocLayoutBorderPrimaryDashed3 = [object Object]
     public static let ocLayoutBorderPrimaryDashed4 = [object Object]
     public static let ocLayoutBorderPrimaryDashed5 = [object Object]
-    public static let ocLayoutBorderPrimaryDashedNone = [object Object]
     public static let ocLayoutBorderPrimarySolid1 = [object Object]
     public static let ocLayoutBorderPrimarySolid2 = [object Object]
     public static let ocLayoutBorderPrimarySolid3 = [object Object]
     public static let ocLayoutBorderPrimarySolid4 = [object Object]
     public static let ocLayoutBorderPrimarySolid5 = [object Object]
-    public static let ocLayoutBorderPrimarySolidNone = [object Object]
+    public static let ocLayoutBorderSecondaryDashed1 = [object Object]
+    public static let ocLayoutBorderSecondaryDashed2 = [object Object]
+    public static let ocLayoutBorderSecondaryDashed3 = [object Object]
+    public static let ocLayoutBorderSecondaryDashed4 = [object Object]
+    public static let ocLayoutBorderSecondaryDashed5 = [object Object]
+    public static let ocLayoutBorderSecondarySolid1 = [object Object]
+    public static let ocLayoutBorderSecondarySolid2 = [object Object]
+    public static let ocLayoutBorderSecondarySolid3 = [object Object]
+    public static let ocLayoutBorderSecondarySolid4 = [object Object]
+    public static let ocLayoutBorderSecondarySolid5 = [object Object]
     public static let ocLayoutRadius16 = 16
     public static let ocLayoutRadius2 = 2
     public static let ocLayoutRadius24 = 24
@@ -205,6 +214,17 @@ public enum  {
     public static let ocLayoutRadius8 = 8
     public static let ocLayoutRadiusNone = 0
     public static let ocLayoutRadiusRounded = 50
+    public static let ocLayoutSpacingExtended1 = 8*7
+    public static let ocLayoutSpacingExtended2 = 8*8
+    public static let ocLayoutSpacingLg = 8*3
+    public static let ocLayoutSpacingMd = 4*4
+    public static let ocLayoutSpacingSm = 4*3
+    public static let ocLayoutSpacingXl = 8*4
+    public static let ocLayoutSpacingXs = 4*2
+    public static let ocLayoutSpacingXxl = 8*5
+    public static let ocLayoutSpacingXxs = 4*1
+    public static let ocLayoutSpacingXxxl = 8*6
+    public static let ocLayoutSpacingXxxs = 4/2
     public static let ocLetterSpacing0 = 0%
     public static let ocLetterSpacing1 = 1%
     public static let ocLetterSpacing2 = -2.5%
@@ -254,15 +274,9 @@ public enum  {
     public static let ocSizing60 = 60
     public static let ocSizing64 = 64
     public static let ocSizing8 = 8
-    public static let ocSpacingLg = 24
-    public static let ocSpacingMd = 16
-    public static let ocSpacingSm = 12
-    public static let ocSpacingXl = 32
-    public static let ocSpacingXs = 8
-    public static let ocSpacingXxl = 48
-    public static let ocSpacingXxs = 4
-    public static let ocSpacingXxxl = 64
-    public static let ocSpacingXxxs = 2
+    public static let ocSpacingBase2 = 2
+    public static let ocSpacingBase4 = 4
+    public static let ocSpacingBase8 = 8
     public static let ocSurfaceAction = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceActionHover = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceDisabled = UIColor(red: 0.776, green: 0.776, blue: 0.776, alpha: 1)

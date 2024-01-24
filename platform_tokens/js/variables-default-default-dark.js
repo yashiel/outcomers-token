@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 06:04:35 GMT
+ * Generated on Wed, 24 Jan 2024 08:21:45 GMT
  */
 
 export const ocRadius0 = "0";
@@ -137,15 +137,6 @@ export const ocColorNeutral300 = "#161616";
 export const ocColorNeutral400 = "#0B0B0B";
 export const ocColorNeutralBlack = "#111111";
 export const ocColorNeutralWhite = "#ffffff";
-export const ocSpacingXxxs = "2px";
-export const ocSpacingXxs = "4px";
-export const ocSpacingXs = "8px";
-export const ocSpacingSm = "12px";
-export const ocSpacingMd = "16px";
-export const ocSpacingLg = "24px";
-export const ocSpacingXl = "32px";
-export const ocSpacingXxl = "48px";
-export const ocSpacingXxxl = "64px";
 export const ocBorderWidth1 = "1px";
 export const ocBorderWidth2 = "2px";
 export const ocBorderWidth3 = "3px";
@@ -222,6 +213,9 @@ export const ocParagaphSpacing16 = "16";
 export const ocTextDecorationNone = "none";
 export const ocTextDecorationUnderline = "underline";
 export const ocTextDecorationLineThrough = "line-through";
+export const ocSpacingBase2 = "2px";
+export const ocSpacingBase4 = "4px";
+export const ocSpacingBase8 = "8px";
 export const ocWebSmallLight = "300 10px/1.5 Inter";
 export const ocWebSmallExtraLight = "Extra Light 10px/1.5 Inter";
 export const ocWebSmallRegular = "400 10px/1.5 Inter";
@@ -300,13 +294,33 @@ export const ocLayoutBorderPrimarySolid2 = "2px solid #D4D4D4";
 export const ocLayoutBorderPrimarySolid3 = "3px solid #D4D4D4";
 export const ocLayoutBorderPrimarySolid4 = "4px solid #D4D4D4";
 export const ocLayoutBorderPrimarySolid5 = "5px solid #D4D4D4";
-export const ocLayoutBorderPrimarySolidNone = "0 solid #D4D4D4";
 export const ocLayoutBorderPrimaryDashed1 = "1px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed2 = "2px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed3 = "3px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed4 = "4px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed5 = "5px dashed #D4D4D4";
-export const ocLayoutBorderPrimaryDashedNone = "0 dashed #D4D4D4";
+export const ocLayoutBorderSecondarySolid1 = "1px solid #049E53";
+export const ocLayoutBorderSecondarySolid2 = "2px solid #049E53";
+export const ocLayoutBorderSecondarySolid3 = "3px solid #049E53";
+export const ocLayoutBorderSecondarySolid4 = "4px solid #049E53";
+export const ocLayoutBorderSecondarySolid5 = "5px solid #049E53";
+export const ocLayoutBorderSecondaryDashed1 = "1px dashed #049E53";
+export const ocLayoutBorderSecondaryDashed2 = "2px dashed #049E53";
+export const ocLayoutBorderSecondaryDashed3 = "3px dashed #049E53";
+export const ocLayoutBorderSecondaryDashed4 = "4px dashed #049E53";
+export const ocLayoutBorderSecondaryDashed5 = "5px dashed #049E53";
+export const ocLayoutBorderNone = "0 solid #D4D4D4";
+export const ocLayoutSpacingXxxs = "2px";
+export const ocLayoutSpacingXxs = "4px";
+export const ocLayoutSpacingXs = "8px";
+export const ocLayoutSpacingSm = "12px";
+export const ocLayoutSpacingMd = "16px";
+export const ocLayoutSpacingLg = "24px";
+export const ocLayoutSpacingXl = "32px";
+export const ocLayoutSpacingXxl = "40px";
+export const ocLayoutSpacingXxxl = "48px";
+export const ocLayoutSpacingExtended1 = "56px";
+export const ocLayoutSpacingExtended2 = "64px";
 export const ocTextHeading = "#ffffff";
 export const ocTextBody = "#ffffff";
 export const ocTextAction = "#ffffff";

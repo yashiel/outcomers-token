@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 06:04:35 GMT
+ * Generated on Wed, 24 Jan 2024 08:21:45 GMT
  */
 
 :root {
+  --oc-spacing-base-8: 8px;
+  --oc-spacing-base-4: 4px;
+  --oc-spacing-base-2: 2px;
   --oc-text-decoration-line-through: line-through;
   --oc-text-decoration-underline: underline;
   --oc-text-decoration-none: none;
@@ -80,15 +83,6 @@
   --oc-border-width-3: 3px;
   --oc-border-width-2: 2px;
   --oc-border-width-1: 1px;
-  --oc-spacing-xxxl: 64px;
-  --oc-spacing-xxl: 48px;
-  --oc-spacing-xl: 32px;
-  --oc-spacing-lg: 24px;
-  --oc-spacing-md: 16px;
-  --oc-spacing-sm: 12px;
-  --oc-spacing-xs: 8px;
-  --oc-spacing-xxs: 4px;
-  --oc-spacing-xxxs: 2px;
   --oc-color-black-black: #111111;
   --oc-color-white-white: #ffffff;
   --oc-color-gray-400: #0b0b0b;
@@ -118,6 +112,17 @@
   --oc-radius-4: 4px;
   --oc-radius-2: 2px;
   --oc-radius-0: 0;
+  --oc-layout-spacing-extended-2: var(--oc-spacing-base-8)*8;
+  --oc-layout-spacing-extended-1: var(--oc-spacing-base-8)*7;
+  --oc-layout-spacing-xxxl: var(--oc-spacing-base-8)*6;
+  --oc-layout-spacing-xxl: var(--oc-spacing-base-8)*5;
+  --oc-layout-spacing-xl: var(--oc-spacing-base-8)*4;
+  --oc-layout-spacing-lg: var(--oc-spacing-base-8)*3;
+  --oc-layout-spacing-md: var(--oc-spacing-base-4)*4;
+  --oc-layout-spacing-sm: var(--oc-spacing-base-4)*3;
+  --oc-layout-spacing-xs: var(--oc-spacing-base-4)*2;
+  --oc-layout-spacing-xxs: var(--oc-spacing-base-4)*1;
+  --oc-layout-spacing-xxxs: var(--oc-spacing-base-4)/2;
   --oc-layout-radius-rounded: var(--oc-radius-50);
   --oc-layout-radius-none: var(--oc-radius-0);
   --oc-layout-radius-24: var(--oc-radius-24);
@@ -335,13 +340,22 @@
   --oc-text-error: var(--oc-color-error-dark);
   --oc-text-warning: var(--oc-color-warning-darker);
   --oc-text-success: var(--oc-color-success-darker);
-  --oc-layout-border-primary-dashed-none: var(--oc-border-width-none) dashed var(--oc-border-primary);
+  --oc-layout-border-none: var(--oc-border-width-none) solid var(--oc-border-primary);
+  --oc-layout-border-secondary-dashed-5: var(--oc-border-width-5) dashed var(--oc-border-secondary);
+  --oc-layout-border-secondary-dashed-4: var(--oc-border-width-4) dashed var(--oc-border-secondary);
+  --oc-layout-border-secondary-dashed-3: var(--oc-border-width-3) dashed var(--oc-border-secondary);
+  --oc-layout-border-secondary-dashed-2: var(--oc-border-width-2) dashed var(--oc-border-secondary);
+  --oc-layout-border-secondary-dashed-1: var(--oc-border-width-1) dashed var(--oc-border-secondary);
+  --oc-layout-border-secondary-solid-5: var(--oc-border-width-5) solid var(--oc-border-secondary);
+  --oc-layout-border-secondary-solid-4: var(--oc-border-width-4) solid var(--oc-border-secondary);
+  --oc-layout-border-secondary-solid-3: var(--oc-border-width-3) solid var(--oc-border-secondary);
+  --oc-layout-border-secondary-solid-2: var(--oc-border-width-2) solid var(--oc-border-secondary);
+  --oc-layout-border-secondary-solid-1: var(--oc-border-width-1) solid var(--oc-border-secondary);
   --oc-layout-border-primary-dashed-5: var(--oc-border-width-5) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-4: var(--oc-border-width-4) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-3: var(--oc-border-width-3) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-2: var(--oc-border-width-2) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-1: var(--oc-border-width-1) dashed var(--oc-border-primary);
-  --oc-layout-border-primary-solid-none: var(--oc-border-width-none) solid var(--oc-border-primary);
   --oc-layout-border-primary-solid-5: var(--oc-border-width-5) solid var(--oc-border-primary);
   --oc-layout-border-primary-solid-4: var(--oc-border-width-4) solid var(--oc-border-primary);
   --oc-layout-border-primary-solid-3: var(--oc-border-width-3) solid var(--oc-border-primary);
