@@ -127,12 +127,12 @@
       "color.gray.400": "07a04a69a5a7c7de5ff32dba0b7a591460113ec3",
       "color.white.white": "6a0750f3544f5c4fd1d539d0947417da0292117c",
       "color.black.black": "c674aeca67cb724513ed6deb4ab109ffad5246c5",
-      "borderWidth.0-5": "95e7a88e4b5da678ac812848fa424276bc957ef4",
       "borderWidth.1": "c8251ff0fe2d0931ede80fa5da79d59d25bb01c4",
       "borderWidth.2": "1e5d0bbf563add1cdf6e39a956e25ee05940d392",
       "borderWidth.3": "c3b24f7d2188725123934eeab1a9c96ba8648502",
       "borderWidth.4": "ad138f4b20c366c8709482b77f43ea04edb0be9f",
       "borderWidth.5": "c1a3851dc0256242a0593c5d157ed85585170e77",
+      "borderWidth.0-5": "95e7a88e4b5da678ac812848fa424276bc957ef4",
       "borderWidth.1-5": "2bc538f115186030f80028ef14c37310f7225089",
       "borderWidth.2-5": "f4f19178891fcf633d4445a5c58aecdfbcbab04e",
       "borderWidth.none": "cffa808afe1e82f61cbb1ae878565513c62a0e03",
@@ -153,8 +153,8 @@
       "sizing.56": "5f03c2a29c8040abe5863f65cddc6ec5e968b1bc",
       "sizing.60": "67ee3c567a37737f26b9ec01eace338994ac1864",
       "sizing.64": "850d2cba88dcfa70002217e5262ab2bcb27ea73a",
-      "base.4": "4c458e1115ce94c1b8cf767798260406ac328d2c",
       "base.2": "cf8356bd8159bb1b3c7beeb5adaa441b36db622f",
+      "base.4": "4c458e1115ce94c1b8cf767798260406ac328d2c",
       "base.8": "7cabf3130422becbbc09ad070072884e7c93b0ea"
     },
     "group": "brand"
