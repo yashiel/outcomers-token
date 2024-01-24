@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:21:45 GMT
+// Generated on Wed, 24 Jan 2024 08:47:13 GMT
 
 
 #import ".h"
@@ -223,6 +223,9 @@
  const OcSpacingBase2 = 2;
  const OcSpacingBase4 = 4;
  const OcSpacingBase8 = 8;
+ const OcBase2 = 2;
+ const OcBase4 = 4;
+ const OcBase8 = 8;
  const OcWebSmallLight = [object Object];
  const OcWebSmallExtraLight = [object Object];
  const OcWebSmallRegular = [object Object];
@@ -328,6 +331,18 @@
  const OcLayoutSpacingXxxl = 8*6;
  const OcLayoutSpacingExtended1 = 8*7;
  const OcLayoutSpacingExtended2 = 8*8;
+ const OcLayoutShadowPrimaryXsLeft = [object Object];
+ const OcLayoutShadowPrimaryXsMid = [object Object];
+ const OcLayoutShadowPrimaryXsRight = [object Object];
+ const OcLayoutShadowPrimaryXxsLeft = [object Object];
+ const OcLayoutShadowPrimaryXxsMid = [object Object];
+ const OcLayoutShadowPrimaryXxsRight = [object Object];
+ const OcLayoutShadowPrimaryXxxsLeft = [object Object];
+ const OcLayoutShadowPrimaryXxxsMid = [object Object];
+ const OcLayoutShadowPrimaryXxxsRight = [object Object];
+ const OcLayoutShadowPrimaryMdLeft = [object Object];
+ const OcLayoutShadowPrimaryMdMid = [object Object];
+ const OcLayoutShadowPrimaryMdRight = [object Object];
  const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

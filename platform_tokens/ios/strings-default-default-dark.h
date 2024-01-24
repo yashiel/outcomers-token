@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:21:45 GMT
+// Generated on Wed, 24 Jan 2024 08:47:14 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -223,6 +223,9 @@ extern NSString * const OcTextDecorationLineThrough;
 extern NSString * const OcSpacingBase2;
 extern NSString * const OcSpacingBase4;
 extern NSString * const OcSpacingBase8;
+extern NSString * const OcBase2;
+extern NSString * const OcBase4;
+extern NSString * const OcBase8;
 extern NSString * const OcWebSmallLight;
 extern NSString * const OcWebSmallExtraLight;
 extern NSString * const OcWebSmallRegular;
@@ -328,6 +331,18 @@ extern NSString * const OcLayoutSpacingXxl;
 extern NSString * const OcLayoutSpacingXxxl;
 extern NSString * const OcLayoutSpacingExtended1;
 extern NSString * const OcLayoutSpacingExtended2;
+extern NSString * const OcLayoutShadowPrimaryXsLeft;
+extern NSString * const OcLayoutShadowPrimaryXsMid;
+extern NSString * const OcLayoutShadowPrimaryXsRight;
+extern NSString * const OcLayoutShadowPrimaryXxsLeft;
+extern NSString * const OcLayoutShadowPrimaryXxsMid;
+extern NSString * const OcLayoutShadowPrimaryXxsRight;
+extern NSString * const OcLayoutShadowPrimaryXxxsLeft;
+extern NSString * const OcLayoutShadowPrimaryXxxsMid;
+extern NSString * const OcLayoutShadowPrimaryXxxsRight;
+extern NSString * const OcLayoutShadowPrimaryMdLeft;
+extern NSString * const OcLayoutShadowPrimaryMdMid;
+extern NSString * const OcLayoutShadowPrimaryMdRight;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

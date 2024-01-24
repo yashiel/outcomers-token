@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:21:45 GMT
+// Generated on Wed, 24 Jan 2024 08:47:14 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -222,6 +222,9 @@ extern  const OcTextDecorationLineThrough;
 extern  const OcSpacingBase2;
 extern  const OcSpacingBase4;
 extern  const OcSpacingBase8;
+extern  const OcBase2;
+extern  const OcBase4;
+extern  const OcBase8;
 extern  const OcWebSmallLight;
 extern  const OcWebSmallExtraLight;
 extern  const OcWebSmallRegular;
@@ -327,6 +330,18 @@ extern  const OcLayoutSpacingXxl;
 extern  const OcLayoutSpacingXxxl;
 extern  const OcLayoutSpacingExtended1;
 extern  const OcLayoutSpacingExtended2;
+extern  const OcLayoutShadowPrimaryXsLeft;
+extern  const OcLayoutShadowPrimaryXsMid;
+extern  const OcLayoutShadowPrimaryXsRight;
+extern  const OcLayoutShadowPrimaryXxsLeft;
+extern  const OcLayoutShadowPrimaryXxsMid;
+extern  const OcLayoutShadowPrimaryXxsRight;
+extern  const OcLayoutShadowPrimaryXxxsLeft;
+extern  const OcLayoutShadowPrimaryXxxsMid;
+extern  const OcLayoutShadowPrimaryXxxsRight;
+extern  const OcLayoutShadowPrimaryMdLeft;
+extern  const OcLayoutShadowPrimaryMdMid;
+extern  const OcLayoutShadowPrimaryMdRight;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

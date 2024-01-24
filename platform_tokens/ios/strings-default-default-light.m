@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:21:45 GMT
+// Generated on Wed, 24 Jan 2024 08:47:13 GMT
 
 
 #import ".h"
@@ -223,6 +223,9 @@ NSString * const OcTextDecorationLineThrough = line-through;
 NSString * const OcSpacingBase2 = 2;
 NSString * const OcSpacingBase4 = 4;
 NSString * const OcSpacingBase8 = 8;
+NSString * const OcBase2 = 2;
+NSString * const OcBase4 = 4;
+NSString * const OcBase8 = 8;
 NSString * const OcWebSmallLight = [object Object];
 NSString * const OcWebSmallExtraLight = [object Object];
 NSString * const OcWebSmallRegular = [object Object];
@@ -328,6 +331,18 @@ NSString * const OcLayoutSpacingXxl = 8*5;
 NSString * const OcLayoutSpacingXxxl = 8*6;
 NSString * const OcLayoutSpacingExtended1 = 8*7;
 NSString * const OcLayoutSpacingExtended2 = 8*8;
+NSString * const OcLayoutShadowPrimaryXsLeft = [object Object];
+NSString * const OcLayoutShadowPrimaryXsMid = [object Object];
+NSString * const OcLayoutShadowPrimaryXsRight = [object Object];
+NSString * const OcLayoutShadowPrimaryXxsLeft = [object Object];
+NSString * const OcLayoutShadowPrimaryXxsMid = [object Object];
+NSString * const OcLayoutShadowPrimaryXxsRight = [object Object];
+NSString * const OcLayoutShadowPrimaryXxxsLeft = [object Object];
+NSString * const OcLayoutShadowPrimaryXxxsMid = [object Object];
+NSString * const OcLayoutShadowPrimaryXxxsRight = [object Object];
+NSString * const OcLayoutShadowPrimaryMdLeft = [object Object];
+NSString * const OcLayoutShadowPrimaryMdMid = [object Object];
+NSString * const OcLayoutShadowPrimaryMdRight = [object Object];
 NSString * const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -1784,6 +1799,24 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"item": @"8"
   },
 @{
+  @"value": 2,
+  @"name": @"OcBase2",
+    @"category": @"base",
+    @"type": @"2"
+  },
+@{
+  @"value": 4,
+  @"name": @"OcBase4",
+    @"category": @"base",
+    @"type": @"4"
+  },
+@{
+  @"value": 8,
+  @"name": @"OcBase8",
+    @"category": @"base",
+    @"type": @"8"
+  },
+@{
   @"value": [object Object],
   @"name": @"OcWebSmallLight",
     @"category": @"web",
@@ -2557,6 +2590,114 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"category": @"layout",
     @"type": @"spacing",
     @"item": @"extended-2"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXsLeft",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xs",
+    @"state": @"left"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXsMid",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xs",
+    @"state": @"mid"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXsRight",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xs",
+    @"state": @"right"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXxsLeft",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xxs",
+    @"state": @"left"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXxsMid",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xxs",
+    @"state": @"mid"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXxsRight",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xxs",
+    @"state": @"right"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXxxsLeft",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xxxs",
+    @"state": @"left"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXxxsMid",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xxxs",
+    @"state": @"mid"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryXxxsRight",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"xxxs",
+    @"state": @"right"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryMdLeft",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"md",
+    @"state": @"left"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryMdMid",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"md",
+    @"state": @"mid"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutShadowPrimaryMdRight",
+    @"category": @"layout",
+    @"type": @"shadow",
+    @"item": @"primary",
+    @"subitem": @"md",
+    @"state": @"right"
   },
 @{
   @"value": [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f],

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:21:45 GMT
+// Generated on Wed, 24 Jan 2024 08:47:14 GMT
 
 
 #import ".h"
@@ -1496,6 +1496,26 @@
         }
       }
     },
+  @"base": @{
+    @"2": @{
+      @"value": 2,
+      @"name": @"OcBase2",
+      @"category": @"base",
+      @"type": @"2"
+      },
+    @"4": @{
+      @"value": 4,
+      @"name": @"OcBase4",
+      @"category": @"base",
+      @"type": @"4"
+      },
+    @"8": @{
+      @"value": 8,
+      @"name": @"OcBase8",
+      @"category": @"base",
+      @"type": @"8"
+      }
+    },
   @"web": @{
     @"small": @{
       @"light": @{
@@ -2314,6 +2334,126 @@
         @"category": @"layout",
         @"type": @"spacing",
         @"item": @"extended-2"
+        }
+      },
+    @"shadow": @{
+      @"primary": @{
+        @"xs": @{
+          @"left": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXsLeft",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xs",
+            @"state": @"left"
+            },
+          @"mid": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXsMid",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xs",
+            @"state": @"mid"
+            },
+          @"right": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXsRight",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xs",
+            @"state": @"right"
+            }
+          },
+        @"xxs": @{
+          @"left": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXxsLeft",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xxs",
+            @"state": @"left"
+            },
+          @"mid": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXxsMid",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xxs",
+            @"state": @"mid"
+            },
+          @"right": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXxsRight",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xxs",
+            @"state": @"right"
+            }
+          },
+        @"xxxs": @{
+          @"left": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXxxsLeft",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xxxs",
+            @"state": @"left"
+            },
+          @"mid": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXxxsMid",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xxxs",
+            @"state": @"mid"
+            },
+          @"right": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryXxxsRight",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"xxxs",
+            @"state": @"right"
+            }
+          },
+        @"md": @{
+          @"left": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryMdLeft",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"md",
+            @"state": @"left"
+            },
+          @"mid": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryMdMid",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"md",
+            @"state": @"mid"
+            },
+          @"right": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutShadowPrimaryMdRight",
+            @"category": @"layout",
+            @"type": @"shadow",
+            @"item": @"primary",
+            @"subitem": @"md",
+            @"state": @"right"
+            }
+          }
         }
       }
     },

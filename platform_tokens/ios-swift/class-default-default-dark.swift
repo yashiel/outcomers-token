@@ -4,12 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:21:45 GMT
+// Generated on Wed, 24 Jan 2024 08:47:14 GMT
 
 
 import UIKit
 
 public class  {
+    public static let ocBase2 = 2
+    public static let ocBase4 = 4
+    public static let ocBase8 = 8
     public static let ocBorderAction = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocBorderActionHover = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocBorderDisabled = UIColor(red: 0.439, green: 0.439, blue: 0.439, alpha: 1)
@@ -214,6 +217,18 @@ public class  {
     public static let ocLayoutRadius8 = 8
     public static let ocLayoutRadiusNone = 0
     public static let ocLayoutRadiusRounded = 50
+    public static let ocLayoutShadowPrimaryMdLeft = [object Object]
+    public static let ocLayoutShadowPrimaryMdMid = [object Object]
+    public static let ocLayoutShadowPrimaryMdRight = [object Object]
+    public static let ocLayoutShadowPrimaryXsLeft = [object Object]
+    public static let ocLayoutShadowPrimaryXsMid = [object Object]
+    public static let ocLayoutShadowPrimaryXsRight = [object Object]
+    public static let ocLayoutShadowPrimaryXxsLeft = [object Object]
+    public static let ocLayoutShadowPrimaryXxsMid = [object Object]
+    public static let ocLayoutShadowPrimaryXxsRight = [object Object]
+    public static let ocLayoutShadowPrimaryXxxsLeft = [object Object]
+    public static let ocLayoutShadowPrimaryXxxsMid = [object Object]
+    public static let ocLayoutShadowPrimaryXxxsRight = [object Object]
     public static let ocLayoutSpacingExtended1 = 8*7
     public static let ocLayoutSpacingExtended2 = 8*8
     public static let ocLayoutSpacingLg = 8*3

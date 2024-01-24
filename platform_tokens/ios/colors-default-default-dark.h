@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 08:21:45 GMT
+// Generated on Wed, 24 Jan 2024 08:47:14 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -223,6 +223,9 @@ OcTextDecorationLineThrough,
 OcSpacingBase2,
 OcSpacingBase4,
 OcSpacingBase8,
+OcBase2,
+OcBase4,
+OcBase8,
 OcWebSmallLight,
 OcWebSmallExtraLight,
 OcWebSmallRegular,
@@ -328,6 +331,18 @@ OcLayoutSpacingXxl,
 OcLayoutSpacingXxxl,
 OcLayoutSpacingExtended1,
 OcLayoutSpacingExtended2,
+OcLayoutShadowPrimaryXsLeft,
+OcLayoutShadowPrimaryXsMid,
+OcLayoutShadowPrimaryXsRight,
+OcLayoutShadowPrimaryXxsLeft,
+OcLayoutShadowPrimaryXxsMid,
+OcLayoutShadowPrimaryXxsRight,
+OcLayoutShadowPrimaryXxxsLeft,
+OcLayoutShadowPrimaryXxxsMid,
+OcLayoutShadowPrimaryXxxsRight,
+OcLayoutShadowPrimaryMdLeft,
+OcLayoutShadowPrimaryMdMid,
+OcLayoutShadowPrimaryMdRight,
 OcTextHeading,
 OcTextBody,
 OcTextAction,

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 08:21:45 GMT
+ * Generated on Wed, 24 Jan 2024 08:47:14 GMT
  */
 
 export const ocRadius0 = "0";
@@ -216,6 +216,9 @@ export const ocTextDecorationLineThrough = "line-through";
 export const ocSpacingBase2 = "2px";
 export const ocSpacingBase4 = "4px";
 export const ocSpacingBase8 = "8px";
+export const ocBase2 = "2";
+export const ocBase4 = "4";
+export const ocBase8 = "8";
 export const ocWebSmallLight = "300 10px/1.5 Inter";
 export const ocWebSmallExtraLight = "Extra Light 10px/1.5 Inter";
 export const ocWebSmallRegular = "400 10px/1.5 Inter";
@@ -321,6 +324,18 @@ export const ocLayoutSpacingXxl = "40px";
 export const ocLayoutSpacingXxxl = "48px";
 export const ocLayoutSpacingExtended1 = "56px";
 export const ocLayoutSpacingExtended2 = "64px";
+export const ocLayoutShadowPrimaryXsLeft = "-6px 0 10px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXsMid = "0 6px 10px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXsRight = "6px 0 10px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXxsLeft = "-6px 0 4px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXxsMid = "0 6px 4px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXxsRight = "6px 0 4px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXxxsLeft = "-4px 0 8px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXxxsMid = "0 4px 8px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryXxxsRight = "4px 0 8px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryMdLeft = "-8px 0 10px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryMdMid = "0 8px 10px -4px #E2E2E2";
+export const ocLayoutShadowPrimaryMdRight = "8px 0 10px -4px #E2E2E2";
 export const ocTextHeading = "#ffffff";
 export const ocTextBody = "#ffffff";
 export const ocTextAction = "#ffffff";

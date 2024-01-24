@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 08:21:45 GMT
+  Generated on Wed, 24 Jan 2024 08:47:14 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1654,6 +1654,15 @@
     <key>OcSpacingBase8</key>
     </dict>
       <string>8</string>
+    <key>OcBase2</key>
+    </dict>
+      <string>2</string>
+    <key>OcBase4</key>
+    </dict>
+      <string>4</string>
+    <key>OcBase8</key>
+    </dict>
+      <string>8</string>
     <key>OcWebSmallLight</key>
     </dict>
       <string>[object Object]</string>
@@ -1969,6 +1978,42 @@
     <key>OcLayoutSpacingExtended2</key>
     </dict>
       <string>8*8</string>
+    <key>OcLayoutShadowPrimaryXsLeft</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXsMid</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXsRight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXxsLeft</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXxsMid</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXxsRight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXxxsLeft</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXxxsMid</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryXxxsRight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryMdLeft</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryMdMid</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcLayoutShadowPrimaryMdRight</key>
+    </dict>
+      <string>[object Object]</string>
     <key>OcTextHeading</key>
     </dict>
       <string>[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]</string>
