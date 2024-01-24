@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Tue, 23 Jan 2024 19:33:15 GMT
+  Generated on Wed, 24 Jan 2024 04:11:22 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1705,22 +1705,58 @@
     <key>OcWebLabelBold</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebBody2Light</key>
+    <key>OcWebBodySmallLight</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebBody2ExtraLight</key>
+    <key>OcWebBodySmallExtraLight</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebBody2Regular</key>
+    <key>OcWebBodySmallRegular</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebBody2Medium</key>
+    <key>OcWebBodySmallMedium</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebBody2SemiBold</key>
+    <key>OcWebBodySmallSemiBold</key>
     </dict>
       <string>[object Object]</string>
-    <key>OcWebBody2Bold</key>
+    <key>OcWebBodySmallBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyRegular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyMedium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodySemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyLargeLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyLargeExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyLargeRegular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyLargeMedium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyLargeSemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcWebBodyLargeBold</key>
     </dict>
       <string>[object Object]</string>
     <key>OcTextHeading</key>

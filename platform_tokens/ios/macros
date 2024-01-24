@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 19:33:15 GMT
+// Generated on Wed, 24 Jan 2024 04:11:22 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -240,12 +240,24 @@
 #define OcWebLabelMedium [object Object]
 #define OcWebLabelSemiBold [object Object]
 #define OcWebLabelBold [object Object]
-#define OcWebBody2Light [object Object]
-#define OcWebBody2ExtraLight [object Object]
-#define OcWebBody2Regular [object Object]
-#define OcWebBody2Medium [object Object]
-#define OcWebBody2SemiBold [object Object]
-#define OcWebBody2Bold [object Object]
+#define OcWebBodySmallLight [object Object]
+#define OcWebBodySmallExtraLight [object Object]
+#define OcWebBodySmallRegular [object Object]
+#define OcWebBodySmallMedium [object Object]
+#define OcWebBodySmallSemiBold [object Object]
+#define OcWebBodySmallBold [object Object]
+#define OcWebBodyLight [object Object]
+#define OcWebBodyExtraLight [object Object]
+#define OcWebBodyRegular [object Object]
+#define OcWebBodyMedium [object Object]
+#define OcWebBodySemiBold [object Object]
+#define OcWebBodyBold [object Object]
+#define OcWebBodyLargeLight [object Object]
+#define OcWebBodyLargeExtraLight [object Object]
+#define OcWebBodyLargeRegular [object Object]
+#define OcWebBodyLargeMedium [object Object]
+#define OcWebBodyLargeSemiBold [object Object]
+#define OcWebBodyLargeBold [object Object]
 #define OcTextHeading [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextBody [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextAction [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]

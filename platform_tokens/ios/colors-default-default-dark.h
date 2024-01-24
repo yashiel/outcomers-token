@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 19:33:15 GMT
+// Generated on Wed, 24 Jan 2024 04:11:22 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -240,12 +240,24 @@ OcWebLabelRegular,
 OcWebLabelMedium,
 OcWebLabelSemiBold,
 OcWebLabelBold,
-OcWebBody2Light,
-OcWebBody2ExtraLight,
-OcWebBody2Regular,
-OcWebBody2Medium,
-OcWebBody2SemiBold,
-OcWebBody2Bold,
+OcWebBodySmallLight,
+OcWebBodySmallExtraLight,
+OcWebBodySmallRegular,
+OcWebBodySmallMedium,
+OcWebBodySmallSemiBold,
+OcWebBodySmallBold,
+OcWebBodyLight,
+OcWebBodyExtraLight,
+OcWebBodyRegular,
+OcWebBodyMedium,
+OcWebBodySemiBold,
+OcWebBodyBold,
+OcWebBodyLargeLight,
+OcWebBodyLargeExtraLight,
+OcWebBodyLargeRegular,
+OcWebBodyLargeMedium,
+OcWebBodyLargeSemiBold,
+OcWebBodyLargeBold,
 OcTextHeading,
 OcTextBody,
 OcTextAction,

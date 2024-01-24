@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 19:33:15 GMT
+// Generated on Wed, 24 Jan 2024 04:11:21 GMT
 
 
 import UIKit
@@ -267,12 +267,24 @@ public class  {
     public static let ocTextOnDisabled = UIColor(red: 0.043, green: 0.043, blue: 0.043, alpha: 1)
     public static let ocTextSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocTextWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
-    public static let ocWebBody2Bold = [object Object]
-    public static let ocWebBody2ExtraLight = [object Object]
-    public static let ocWebBody2Light = [object Object]
-    public static let ocWebBody2Medium = [object Object]
-    public static let ocWebBody2Regular = [object Object]
-    public static let ocWebBody2SemiBold = [object Object]
+    public static let ocWebBodyBold = [object Object]
+    public static let ocWebBodyExtraLight = [object Object]
+    public static let ocWebBodyLargeBold = [object Object]
+    public static let ocWebBodyLargeExtraLight = [object Object]
+    public static let ocWebBodyLargeLight = [object Object]
+    public static let ocWebBodyLargeMedium = [object Object]
+    public static let ocWebBodyLargeRegular = [object Object]
+    public static let ocWebBodyLargeSemiBold = [object Object]
+    public static let ocWebBodyLight = [object Object]
+    public static let ocWebBodyMedium = [object Object]
+    public static let ocWebBodyRegular = [object Object]
+    public static let ocWebBodySemiBold = [object Object]
+    public static let ocWebBodySmallBold = [object Object]
+    public static let ocWebBodySmallExtraLight = [object Object]
+    public static let ocWebBodySmallLight = [object Object]
+    public static let ocWebBodySmallMedium = [object Object]
+    public static let ocWebBodySmallRegular = [object Object]
+    public static let ocWebBodySmallSemiBold = [object Object]
     public static let ocWebLabelBold = [object Object]
     public static let ocWebLabelExtraLight = [object Object]
     public static let ocWebLabelLight = [object Object]

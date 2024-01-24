@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Jan 2024 19:33:15 GMT
+ * Generated on Wed, 24 Jan 2024 04:11:22 GMT
  */
 
 export const ocRadius0 = "0";
@@ -233,12 +233,24 @@ export const ocWebLabelRegular = "400 12px/1.5 inter";
 export const ocWebLabelMedium = "500 12px/1.5 inter";
 export const ocWebLabelSemiBold = "Semi Bold 12px/1.5 inter";
 export const ocWebLabelBold = "700 12px/1.5 inter";
-export const ocWebBody2Light = "300 14px/1.5 inter";
-export const ocWebBody2ExtraLight = "Extra Light 14px/1.5 inter";
-export const ocWebBody2Regular = "400 14px/1.5 inter";
-export const ocWebBody2Medium = "500 14px/1.5 inter";
-export const ocWebBody2SemiBold = "Semi Bold 14px/1.5 inter";
-export const ocWebBody2Bold = "700 14px/1.5 inter";
+export const ocWebBodySmallLight = "300 14px/1.5 inter";
+export const ocWebBodySmallExtraLight = "Extra Light 14px/1.5 inter";
+export const ocWebBodySmallRegular = "400 14px/1.5 inter";
+export const ocWebBodySmallMedium = "500 14px/1.5 inter";
+export const ocWebBodySmallSemiBold = "Semi Bold 14px/1.5 inter";
+export const ocWebBodySmallBold = "700 14px/1.5 inter";
+export const ocWebBodyLight = "300 16px/1.5 inter";
+export const ocWebBodyExtraLight = "Extra Light 16px/1.5 inter";
+export const ocWebBodyRegular = "400 16px/1.5 inter";
+export const ocWebBodyMedium = "500 16px/1.5 inter";
+export const ocWebBodySemiBold = "Semi Bold 16px/1.5 inter";
+export const ocWebBodyBold = "700 16px/1.5 inter";
+export const ocWebBodyLargeLight = "300 18px/1.5 inter";
+export const ocWebBodyLargeExtraLight = "Extra Light 18px/1.5 inter";
+export const ocWebBodyLargeRegular = "400 18px/1.5 inter";
+export const ocWebBodyLargeMedium = "500 18px/1.5 inter";
+export const ocWebBodyLargeSemiBold = "Semi Bold 18px/1.5 inter";
+export const ocWebBodyLargeBold = "700 18px/1.5 inter";
 export const ocTextHeading = "#ffffff";
 export const ocTextBody = "#ffffff";
 export const ocTextAction = "#ffffff";

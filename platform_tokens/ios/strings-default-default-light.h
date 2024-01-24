@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 19:33:15 GMT
+// Generated on Wed, 24 Jan 2024 04:11:21 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -240,12 +240,24 @@ extern NSString * const OcWebLabelRegular;
 extern NSString * const OcWebLabelMedium;
 extern NSString * const OcWebLabelSemiBold;
 extern NSString * const OcWebLabelBold;
-extern NSString * const OcWebBody2Light;
-extern NSString * const OcWebBody2ExtraLight;
-extern NSString * const OcWebBody2Regular;
-extern NSString * const OcWebBody2Medium;
-extern NSString * const OcWebBody2SemiBold;
-extern NSString * const OcWebBody2Bold;
+extern NSString * const OcWebBodySmallLight;
+extern NSString * const OcWebBodySmallExtraLight;
+extern NSString * const OcWebBodySmallRegular;
+extern NSString * const OcWebBodySmallMedium;
+extern NSString * const OcWebBodySmallSemiBold;
+extern NSString * const OcWebBodySmallBold;
+extern NSString * const OcWebBodyLight;
+extern NSString * const OcWebBodyExtraLight;
+extern NSString * const OcWebBodyRegular;
+extern NSString * const OcWebBodyMedium;
+extern NSString * const OcWebBodySemiBold;
+extern NSString * const OcWebBodyBold;
+extern NSString * const OcWebBodyLargeLight;
+extern NSString * const OcWebBodyLargeExtraLight;
+extern NSString * const OcWebBodyLargeRegular;
+extern NSString * const OcWebBodyLargeMedium;
+extern NSString * const OcWebBodyLargeSemiBold;
+extern NSString * const OcWebBodyLargeBold;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

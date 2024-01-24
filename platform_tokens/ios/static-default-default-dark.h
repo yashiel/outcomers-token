@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 19:33:15 GMT
+// Generated on Wed, 24 Jan 2024 04:11:22 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -239,12 +239,24 @@ extern  const OcWebLabelRegular;
 extern  const OcWebLabelMedium;
 extern  const OcWebLabelSemiBold;
 extern  const OcWebLabelBold;
-extern  const OcWebBody2Light;
-extern  const OcWebBody2ExtraLight;
-extern  const OcWebBody2Regular;
-extern  const OcWebBody2Medium;
-extern  const OcWebBody2SemiBold;
-extern  const OcWebBody2Bold;
+extern  const OcWebBodySmallLight;
+extern  const OcWebBodySmallExtraLight;
+extern  const OcWebBodySmallRegular;
+extern  const OcWebBodySmallMedium;
+extern  const OcWebBodySmallSemiBold;
+extern  const OcWebBodySmallBold;
+extern  const OcWebBodyLight;
+extern  const OcWebBodyExtraLight;
+extern  const OcWebBodyRegular;
+extern  const OcWebBodyMedium;
+extern  const OcWebBodySemiBold;
+extern  const OcWebBodyBold;
+extern  const OcWebBodyLargeLight;
+extern  const OcWebBodyLargeExtraLight;
+extern  const OcWebBodyLargeRegular;
+extern  const OcWebBodyLargeMedium;
+extern  const OcWebBodyLargeSemiBold;
+extern  const OcWebBodyLargeBold;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 19:33:15 GMT
+// Generated on Wed, 24 Jan 2024 04:11:22 GMT
 
 
 #import ".h"
@@ -1610,47 +1610,135 @@
         @"item": @"bold"
         }
       },
-    @"body-2": @{
+    @"body-small": @{
       @"light": @{
         @"value": [object Object],
-        @"name": @"OcWebBody2Light",
+        @"name": @"OcWebBodySmallLight",
         @"category": @"web",
-        @"type": @"body-2",
+        @"type": @"body-small",
         @"item": @"light"
         },
       @"extra-light": @{
         @"value": [object Object],
-        @"name": @"OcWebBody2ExtraLight",
+        @"name": @"OcWebBodySmallExtraLight",
         @"category": @"web",
-        @"type": @"body-2",
+        @"type": @"body-small",
         @"item": @"extra-light"
         },
       @"regular": @{
         @"value": [object Object],
-        @"name": @"OcWebBody2Regular",
+        @"name": @"OcWebBodySmallRegular",
         @"category": @"web",
-        @"type": @"body-2",
+        @"type": @"body-small",
         @"item": @"regular"
         },
       @"medium": @{
         @"value": [object Object],
-        @"name": @"OcWebBody2Medium",
+        @"name": @"OcWebBodySmallMedium",
         @"category": @"web",
-        @"type": @"body-2",
+        @"type": @"body-small",
         @"item": @"medium"
         },
       @"semi-bold": @{
         @"value": [object Object],
-        @"name": @"OcWebBody2SemiBold",
+        @"name": @"OcWebBodySmallSemiBold",
         @"category": @"web",
-        @"type": @"body-2",
+        @"type": @"body-small",
         @"item": @"semi-bold"
         },
       @"bold": @{
         @"value": [object Object],
-        @"name": @"OcWebBody2Bold",
+        @"name": @"OcWebBodySmallBold",
         @"category": @"web",
-        @"type": @"body-2",
+        @"type": @"body-small",
+        @"item": @"bold"
+        }
+      },
+    @"body": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyLight",
+        @"category": @"web",
+        @"type": @"body",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyExtraLight",
+        @"category": @"web",
+        @"type": @"body",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyRegular",
+        @"category": @"web",
+        @"type": @"body",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyMedium",
+        @"category": @"web",
+        @"type": @"body",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodySemiBold",
+        @"category": @"web",
+        @"type": @"body",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyBold",
+        @"category": @"web",
+        @"type": @"body",
+        @"item": @"bold"
+        }
+      },
+    @"body-large": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyLargeLight",
+        @"category": @"web",
+        @"type": @"body-large",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyLargeExtraLight",
+        @"category": @"web",
+        @"type": @"body-large",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyLargeRegular",
+        @"category": @"web",
+        @"type": @"body-large",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyLargeMedium",
+        @"category": @"web",
+        @"type": @"body-large",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyLargeSemiBold",
+        @"category": @"web",
+        @"type": @"body-large",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebBodyLargeBold",
+        @"category": @"web",
+        @"type": @"body-large",
         @"item": @"bold"
         }
       }

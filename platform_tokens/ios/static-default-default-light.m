@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jan 2024 19:33:15 GMT
+// Generated on Wed, 24 Jan 2024 04:11:21 GMT
 
 
 #import ".h"
@@ -240,12 +240,24 @@
  const OcWebLabelMedium = [object Object];
  const OcWebLabelSemiBold = [object Object];
  const OcWebLabelBold = [object Object];
- const OcWebBody2Light = [object Object];
- const OcWebBody2ExtraLight = [object Object];
- const OcWebBody2Regular = [object Object];
- const OcWebBody2Medium = [object Object];
- const OcWebBody2SemiBold = [object Object];
- const OcWebBody2Bold = [object Object];
+ const OcWebBodySmallLight = [object Object];
+ const OcWebBodySmallExtraLight = [object Object];
+ const OcWebBodySmallRegular = [object Object];
+ const OcWebBodySmallMedium = [object Object];
+ const OcWebBodySmallSemiBold = [object Object];
+ const OcWebBodySmallBold = [object Object];
+ const OcWebBodyLight = [object Object];
+ const OcWebBodyExtraLight = [object Object];
+ const OcWebBodyRegular = [object Object];
+ const OcWebBodyMedium = [object Object];
+ const OcWebBodySemiBold = [object Object];
+ const OcWebBodyBold = [object Object];
+ const OcWebBodyLargeLight = [object Object];
+ const OcWebBodyLargeExtraLight = [object Object];
+ const OcWebBodyLargeRegular = [object Object];
+ const OcWebBodyLargeMedium = [object Object];
+ const OcWebBodyLargeSemiBold = [object Object];
+ const OcWebBodyLargeBold = [object Object];
  const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
