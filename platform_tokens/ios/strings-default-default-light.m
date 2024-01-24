@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:50:10 GMT
+// Generated on Wed, 24 Jan 2024 05:14:03 GMT
 
 
 #import ".h"
@@ -211,6 +211,7 @@ NSString * const OcFontSize18 = 18;
 NSString * const OcFontSize20 = 20;
 NSString * const OcFontSize22 = 22;
 NSString * const OcFontSize24 = 24;
+NSString * const OcFontSize28 = 28;
 NSString * const OcFontSize32 = 32;
 NSString * const OcFontSize40 = 40;
 NSString * const OcFontSize48 = 48;
@@ -252,12 +253,6 @@ NSString * const OcWebBodyRegular = [object Object];
 NSString * const OcWebBodyMedium = [object Object];
 NSString * const OcWebBodySemiBold = [object Object];
 NSString * const OcWebBodyBold = [object Object];
-NSString * const OcWebBodyLargeLight = [object Object];
-NSString * const OcWebBodyLargeExtraLight = [object Object];
-NSString * const OcWebBodyLargeRegular = [object Object];
-NSString * const OcWebBodyLargeMedium = [object Object];
-NSString * const OcWebBodyLargeSemiBold = [object Object];
-NSString * const OcWebBodyLargeBold = [object Object];
 NSString * const OcWebHeading6Light = [object Object];
 NSString * const OcWebHeading6ExtraLight = [object Object];
 NSString * const OcWebHeading6Regular = [object Object];
@@ -270,6 +265,30 @@ NSString * const OcWebHeading5Regular = [object Object];
 NSString * const OcWebHeading5Medium = [object Object];
 NSString * const OcWebHeading5SemiBold = [object Object];
 NSString * const OcWebHeading5Bold = [object Object];
+NSString * const OcWebHeading4Light = [object Object];
+NSString * const OcWebHeading4ExtraLight = [object Object];
+NSString * const OcWebHeading4Regular = [object Object];
+NSString * const OcWebHeading4Medium = [object Object];
+NSString * const OcWebHeading4SemiBold = [object Object];
+NSString * const OcWebHeading4Bold = [object Object];
+NSString * const OcWebHeading3Light = [object Object];
+NSString * const OcWebHeading3ExtraLight = [object Object];
+NSString * const OcWebHeading3Regular = [object Object];
+NSString * const OcWebHeading3Medium = [object Object];
+NSString * const OcWebHeading3SemiBold = [object Object];
+NSString * const OcWebHeading3Bold = [object Object];
+NSString * const OcWebHeading2Light = [object Object];
+NSString * const OcWebHeading2ExtraLight = [object Object];
+NSString * const OcWebHeading2Regular = [object Object];
+NSString * const OcWebHeading2Medium = [object Object];
+NSString * const OcWebHeading2SemiBold = [object Object];
+NSString * const OcWebHeading2Bold = [object Object];
+NSString * const OcWebHeading1Light = [object Object];
+NSString * const OcWebHeading1ExtraLight = [object Object];
+NSString * const OcWebHeading1Regular = [object Object];
+NSString * const OcWebHeading1Medium = [object Object];
+NSString * const OcWebHeading1SemiBold = [object Object];
+NSString * const OcWebHeading1Bold = [object Object];
 NSString * const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -1651,6 +1670,12 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"24"
   },
 @{
+  @"value": 28,
+  @"name": @"OcFontSize28",
+    @"category": @"fontSize",
+    @"type": @"28"
+  },
+@{
   @"value": 32,
   @"name": @"OcFontSize32",
     @"category": @"fontSize",
@@ -1922,48 +1947,6 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   },
 @{
   @"value": [object Object],
-  @"name": @"OcWebBodyLargeLight",
-    @"category": @"web",
-    @"type": @"body-large",
-    @"item": @"light"
-  },
-@{
-  @"value": [object Object],
-  @"name": @"OcWebBodyLargeExtraLight",
-    @"category": @"web",
-    @"type": @"body-large",
-    @"item": @"extra-light"
-  },
-@{
-  @"value": [object Object],
-  @"name": @"OcWebBodyLargeRegular",
-    @"category": @"web",
-    @"type": @"body-large",
-    @"item": @"regular"
-  },
-@{
-  @"value": [object Object],
-  @"name": @"OcWebBodyLargeMedium",
-    @"category": @"web",
-    @"type": @"body-large",
-    @"item": @"medium"
-  },
-@{
-  @"value": [object Object],
-  @"name": @"OcWebBodyLargeSemiBold",
-    @"category": @"web",
-    @"type": @"body-large",
-    @"item": @"semi-bold"
-  },
-@{
-  @"value": [object Object],
-  @"name": @"OcWebBodyLargeBold",
-    @"category": @"web",
-    @"type": @"body-large",
-    @"item": @"bold"
-  },
-@{
-  @"value": [object Object],
   @"name": @"OcWebHeading6Light",
     @"category": @"web",
     @"type": @"heading-6",
@@ -2044,6 +2027,174 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcWebHeading5Bold",
     @"category": @"web",
     @"type": @"heading-5",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading4Light",
+    @"category": @"web",
+    @"type": @"heading-4",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading4ExtraLight",
+    @"category": @"web",
+    @"type": @"heading-4",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading4Regular",
+    @"category": @"web",
+    @"type": @"heading-4",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading4Medium",
+    @"category": @"web",
+    @"type": @"heading-4",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading4SemiBold",
+    @"category": @"web",
+    @"type": @"heading-4",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading4Bold",
+    @"category": @"web",
+    @"type": @"heading-4",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading3Light",
+    @"category": @"web",
+    @"type": @"heading-3",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading3ExtraLight",
+    @"category": @"web",
+    @"type": @"heading-3",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading3Regular",
+    @"category": @"web",
+    @"type": @"heading-3",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading3Medium",
+    @"category": @"web",
+    @"type": @"heading-3",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading3SemiBold",
+    @"category": @"web",
+    @"type": @"heading-3",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading3Bold",
+    @"category": @"web",
+    @"type": @"heading-3",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading2Light",
+    @"category": @"web",
+    @"type": @"heading-2",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading2ExtraLight",
+    @"category": @"web",
+    @"type": @"heading-2",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading2Regular",
+    @"category": @"web",
+    @"type": @"heading-2",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading2Medium",
+    @"category": @"web",
+    @"type": @"heading-2",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading2SemiBold",
+    @"category": @"web",
+    @"type": @"heading-2",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading2Bold",
+    @"category": @"web",
+    @"type": @"heading-2",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading1Light",
+    @"category": @"web",
+    @"type": @"heading-1",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading1ExtraLight",
+    @"category": @"web",
+    @"type": @"heading-1",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading1Regular",
+    @"category": @"web",
+    @"type": @"heading-1",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading1Medium",
+    @"category": @"web",
+    @"type": @"heading-1",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading1SemiBold",
+    @"category": @"web",
+    @"type": @"heading-1",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcWebHeading1Bold",
+    @"category": @"web",
+    @"type": @"heading-1",
     @"item": @"bold"
   },
 @{

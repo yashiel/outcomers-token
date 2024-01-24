@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:50:10 GMT
+// Generated on Wed, 24 Jan 2024 05:14:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -210,6 +210,7 @@ extern  const OcFontSize18;
 extern  const OcFontSize20;
 extern  const OcFontSize22;
 extern  const OcFontSize24;
+extern  const OcFontSize28;
 extern  const OcFontSize32;
 extern  const OcFontSize40;
 extern  const OcFontSize48;
@@ -251,12 +252,6 @@ extern  const OcWebBodyRegular;
 extern  const OcWebBodyMedium;
 extern  const OcWebBodySemiBold;
 extern  const OcWebBodyBold;
-extern  const OcWebBodyLargeLight;
-extern  const OcWebBodyLargeExtraLight;
-extern  const OcWebBodyLargeRegular;
-extern  const OcWebBodyLargeMedium;
-extern  const OcWebBodyLargeSemiBold;
-extern  const OcWebBodyLargeBold;
 extern  const OcWebHeading6Light;
 extern  const OcWebHeading6ExtraLight;
 extern  const OcWebHeading6Regular;
@@ -269,6 +264,30 @@ extern  const OcWebHeading5Regular;
 extern  const OcWebHeading5Medium;
 extern  const OcWebHeading5SemiBold;
 extern  const OcWebHeading5Bold;
+extern  const OcWebHeading4Light;
+extern  const OcWebHeading4ExtraLight;
+extern  const OcWebHeading4Regular;
+extern  const OcWebHeading4Medium;
+extern  const OcWebHeading4SemiBold;
+extern  const OcWebHeading4Bold;
+extern  const OcWebHeading3Light;
+extern  const OcWebHeading3ExtraLight;
+extern  const OcWebHeading3Regular;
+extern  const OcWebHeading3Medium;
+extern  const OcWebHeading3SemiBold;
+extern  const OcWebHeading3Bold;
+extern  const OcWebHeading2Light;
+extern  const OcWebHeading2ExtraLight;
+extern  const OcWebHeading2Regular;
+extern  const OcWebHeading2Medium;
+extern  const OcWebHeading2SemiBold;
+extern  const OcWebHeading2Bold;
+extern  const OcWebHeading1Light;
+extern  const OcWebHeading1ExtraLight;
+extern  const OcWebHeading1Regular;
+extern  const OcWebHeading1Medium;
+extern  const OcWebHeading1SemiBold;
+extern  const OcWebHeading1Bold;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

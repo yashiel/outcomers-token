@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 04:50:10 GMT
+ * Generated on Wed, 24 Jan 2024 05:14:03 GMT
  */
 
 export const ocRadius0 = "0";
@@ -204,6 +204,7 @@ export const ocFontSize18 = "18px";
 export const ocFontSize20 = "20px";
 export const ocFontSize22 = "22px";
 export const ocFontSize24 = "24px";
+export const ocFontSize28 = "28px";
 export const ocFontSize32 = "32px";
 export const ocFontSize40 = "40px";
 export const ocFontSize48 = "48px";
@@ -245,24 +246,42 @@ export const ocWebBodyRegular = "400 16px/1.5 Inter";
 export const ocWebBodyMedium = "500 16px/1.5 Inter";
 export const ocWebBodySemiBold = "Semi Bold 16px/1.5 Inter";
 export const ocWebBodyBold = "700 16px/1.5 Inter";
-export const ocWebBodyLargeLight = "300 18px/1.5 Inter";
-export const ocWebBodyLargeExtraLight = "Extra Light 18px/1.5 Inter";
-export const ocWebBodyLargeRegular = "400 18px/1.5 Inter";
-export const ocWebBodyLargeMedium = "500 18px/1.5 Inter";
-export const ocWebBodyLargeSemiBold = "Semi Bold 18px/1.5 Inter";
-export const ocWebBodyLargeBold = "700 18px/1.5 Inter";
-export const ocWebHeading6Light = "300 20px/1.5 Inter";
-export const ocWebHeading6ExtraLight = "Extra Light 20px/1.5 Inter";
-export const ocWebHeading6Regular = "400 20px/1.5 Inter";
-export const ocWebHeading6Medium = "500 20px/1.5 Inter";
-export const ocWebHeading6SemiBold = "Semi Bold 20px/1.5 Inter";
-export const ocWebHeading6Bold = "700 20px/1.5 Inter";
-export const ocWebHeading5Light = "300 24px/1.5 Inter";
-export const ocWebHeading5ExtraLight = "Extra Light 24px/1.5 Inter";
-export const ocWebHeading5Regular = "400 24px/1.5 Inter";
-export const ocWebHeading5Medium = "500 24px/1.5 Inter";
-export const ocWebHeading5SemiBold = "Semi Bold 24px/1.5 Inter";
-export const ocWebHeading5Bold = "700 24px/1.5 Inter";
+export const ocWebHeading6Light = "300 18px/1.5 Inter";
+export const ocWebHeading6ExtraLight = "Extra Light 18px/1.5 Inter";
+export const ocWebHeading6Regular = "400 18px/1.5 Inter";
+export const ocWebHeading6Medium = "500 18px/1.5 Inter";
+export const ocWebHeading6SemiBold = "Semi Bold 18px/1.5 Inter";
+export const ocWebHeading6Bold = "700 18px/1.5 Inter";
+export const ocWebHeading5Light = "300 20px/1.5 Inter";
+export const ocWebHeading5ExtraLight = "Extra Light 20px/1.5 Inter";
+export const ocWebHeading5Regular = "400 20px/1.5 Inter";
+export const ocWebHeading5Medium = "500 20px/1.5 Inter";
+export const ocWebHeading5SemiBold = "Semi Bold 20px/1.5 Inter";
+export const ocWebHeading5Bold = "700 20px/1.5 Inter";
+export const ocWebHeading4Light = "300 22px/1.5 Inter";
+export const ocWebHeading4ExtraLight = "Extra Light 22px/1.5 Inter";
+export const ocWebHeading4Regular = "400 22px/1.5 Inter";
+export const ocWebHeading4Medium = "500 22px/1.5 Inter";
+export const ocWebHeading4SemiBold = "Semi Bold 22px/1.5 Inter";
+export const ocWebHeading4Bold = "700 22px/1.5 Inter";
+export const ocWebHeading3Light = "300 24px/1.5 Inter";
+export const ocWebHeading3ExtraLight = "Extra Light 24px/1.5 Inter";
+export const ocWebHeading3Regular = "400 24px/1.5 Inter";
+export const ocWebHeading3Medium = "500 24px/1.5 Inter";
+export const ocWebHeading3SemiBold = "Semi Bold 24px/1.5 Inter";
+export const ocWebHeading3Bold = "700 24px/1.5 Inter";
+export const ocWebHeading2Light = "300 28px/1.5 Inter";
+export const ocWebHeading2ExtraLight = "Extra Light 28px/1.5 Inter";
+export const ocWebHeading2Regular = "400 28px/1.5 Inter";
+export const ocWebHeading2Medium = "500 28px/1.5 Inter";
+export const ocWebHeading2SemiBold = "Semi Bold 28px/1.5 Inter";
+export const ocWebHeading2Bold = "700 28px/1.5 Inter";
+export const ocWebHeading1Light = "300 32px/1.5 Inter";
+export const ocWebHeading1ExtraLight = "Extra Light 32px/1.5 Inter";
+export const ocWebHeading1Regular = "400 32px/1.5 Inter";
+export const ocWebHeading1Medium = "500 32px/1.5 Inter";
+export const ocWebHeading1SemiBold = "Semi Bold 32px/1.5 Inter";
+export const ocWebHeading1Bold = "700 32px/1.5 Inter";
 export const ocTextHeading = "#111111";
 export const ocTextBody = "#111111";
 export const ocTextAction = "#ffffff";

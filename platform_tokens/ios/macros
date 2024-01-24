@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:50:10 GMT
+// Generated on Wed, 24 Jan 2024 05:14:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -211,6 +211,7 @@
 #define OcFontSize20 20
 #define OcFontSize22 22
 #define OcFontSize24 24
+#define OcFontSize28 28
 #define OcFontSize32 32
 #define OcFontSize40 40
 #define OcFontSize48 48
@@ -252,12 +253,6 @@
 #define OcWebBodyMedium [object Object]
 #define OcWebBodySemiBold [object Object]
 #define OcWebBodyBold [object Object]
-#define OcWebBodyLargeLight [object Object]
-#define OcWebBodyLargeExtraLight [object Object]
-#define OcWebBodyLargeRegular [object Object]
-#define OcWebBodyLargeMedium [object Object]
-#define OcWebBodyLargeSemiBold [object Object]
-#define OcWebBodyLargeBold [object Object]
 #define OcWebHeading6Light [object Object]
 #define OcWebHeading6ExtraLight [object Object]
 #define OcWebHeading6Regular [object Object]
@@ -270,6 +265,30 @@
 #define OcWebHeading5Medium [object Object]
 #define OcWebHeading5SemiBold [object Object]
 #define OcWebHeading5Bold [object Object]
+#define OcWebHeading4Light [object Object]
+#define OcWebHeading4ExtraLight [object Object]
+#define OcWebHeading4Regular [object Object]
+#define OcWebHeading4Medium [object Object]
+#define OcWebHeading4SemiBold [object Object]
+#define OcWebHeading4Bold [object Object]
+#define OcWebHeading3Light [object Object]
+#define OcWebHeading3ExtraLight [object Object]
+#define OcWebHeading3Regular [object Object]
+#define OcWebHeading3Medium [object Object]
+#define OcWebHeading3SemiBold [object Object]
+#define OcWebHeading3Bold [object Object]
+#define OcWebHeading2Light [object Object]
+#define OcWebHeading2ExtraLight [object Object]
+#define OcWebHeading2Regular [object Object]
+#define OcWebHeading2Medium [object Object]
+#define OcWebHeading2SemiBold [object Object]
+#define OcWebHeading2Bold [object Object]
+#define OcWebHeading1Light [object Object]
+#define OcWebHeading1ExtraLight [object Object]
+#define OcWebHeading1Regular [object Object]
+#define OcWebHeading1Medium [object Object]
+#define OcWebHeading1SemiBold [object Object]
+#define OcWebHeading1Bold [object Object]
 #define OcTextHeading [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextBody [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
 #define OcTextAction [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]

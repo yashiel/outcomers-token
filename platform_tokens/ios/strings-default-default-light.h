@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:50:10 GMT
+// Generated on Wed, 24 Jan 2024 05:14:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -211,6 +211,7 @@ extern NSString * const OcFontSize18;
 extern NSString * const OcFontSize20;
 extern NSString * const OcFontSize22;
 extern NSString * const OcFontSize24;
+extern NSString * const OcFontSize28;
 extern NSString * const OcFontSize32;
 extern NSString * const OcFontSize40;
 extern NSString * const OcFontSize48;
@@ -252,12 +253,6 @@ extern NSString * const OcWebBodyRegular;
 extern NSString * const OcWebBodyMedium;
 extern NSString * const OcWebBodySemiBold;
 extern NSString * const OcWebBodyBold;
-extern NSString * const OcWebBodyLargeLight;
-extern NSString * const OcWebBodyLargeExtraLight;
-extern NSString * const OcWebBodyLargeRegular;
-extern NSString * const OcWebBodyLargeMedium;
-extern NSString * const OcWebBodyLargeSemiBold;
-extern NSString * const OcWebBodyLargeBold;
 extern NSString * const OcWebHeading6Light;
 extern NSString * const OcWebHeading6ExtraLight;
 extern NSString * const OcWebHeading6Regular;
@@ -270,6 +265,30 @@ extern NSString * const OcWebHeading5Regular;
 extern NSString * const OcWebHeading5Medium;
 extern NSString * const OcWebHeading5SemiBold;
 extern NSString * const OcWebHeading5Bold;
+extern NSString * const OcWebHeading4Light;
+extern NSString * const OcWebHeading4ExtraLight;
+extern NSString * const OcWebHeading4Regular;
+extern NSString * const OcWebHeading4Medium;
+extern NSString * const OcWebHeading4SemiBold;
+extern NSString * const OcWebHeading4Bold;
+extern NSString * const OcWebHeading3Light;
+extern NSString * const OcWebHeading3ExtraLight;
+extern NSString * const OcWebHeading3Regular;
+extern NSString * const OcWebHeading3Medium;
+extern NSString * const OcWebHeading3SemiBold;
+extern NSString * const OcWebHeading3Bold;
+extern NSString * const OcWebHeading2Light;
+extern NSString * const OcWebHeading2ExtraLight;
+extern NSString * const OcWebHeading2Regular;
+extern NSString * const OcWebHeading2Medium;
+extern NSString * const OcWebHeading2SemiBold;
+extern NSString * const OcWebHeading2Bold;
+extern NSString * const OcWebHeading1Light;
+extern NSString * const OcWebHeading1ExtraLight;
+extern NSString * const OcWebHeading1Regular;
+extern NSString * const OcWebHeading1Medium;
+extern NSString * const OcWebHeading1SemiBold;
+extern NSString * const OcWebHeading1Bold;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

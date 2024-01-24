@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:50:10 GMT
+// Generated on Wed, 24 Jan 2024 05:14:03 GMT
 
 
 #import ".h"
@@ -211,6 +211,7 @@
  const OcFontSize20 = 20;
  const OcFontSize22 = 22;
  const OcFontSize24 = 24;
+ const OcFontSize28 = 28;
  const OcFontSize32 = 32;
  const OcFontSize40 = 40;
  const OcFontSize48 = 48;
@@ -252,12 +253,6 @@
  const OcWebBodyMedium = [object Object];
  const OcWebBodySemiBold = [object Object];
  const OcWebBodyBold = [object Object];
- const OcWebBodyLargeLight = [object Object];
- const OcWebBodyLargeExtraLight = [object Object];
- const OcWebBodyLargeRegular = [object Object];
- const OcWebBodyLargeMedium = [object Object];
- const OcWebBodyLargeSemiBold = [object Object];
- const OcWebBodyLargeBold = [object Object];
  const OcWebHeading6Light = [object Object];
  const OcWebHeading6ExtraLight = [object Object];
  const OcWebHeading6Regular = [object Object];
@@ -270,6 +265,30 @@
  const OcWebHeading5Medium = [object Object];
  const OcWebHeading5SemiBold = [object Object];
  const OcWebHeading5Bold = [object Object];
+ const OcWebHeading4Light = [object Object];
+ const OcWebHeading4ExtraLight = [object Object];
+ const OcWebHeading4Regular = [object Object];
+ const OcWebHeading4Medium = [object Object];
+ const OcWebHeading4SemiBold = [object Object];
+ const OcWebHeading4Bold = [object Object];
+ const OcWebHeading3Light = [object Object];
+ const OcWebHeading3ExtraLight = [object Object];
+ const OcWebHeading3Regular = [object Object];
+ const OcWebHeading3Medium = [object Object];
+ const OcWebHeading3SemiBold = [object Object];
+ const OcWebHeading3Bold = [object Object];
+ const OcWebHeading2Light = [object Object];
+ const OcWebHeading2ExtraLight = [object Object];
+ const OcWebHeading2Regular = [object Object];
+ const OcWebHeading2Medium = [object Object];
+ const OcWebHeading2SemiBold = [object Object];
+ const OcWebHeading2Bold = [object Object];
+ const OcWebHeading1Light = [object Object];
+ const OcWebHeading1ExtraLight = [object Object];
+ const OcWebHeading1Regular = [object Object];
+ const OcWebHeading1Medium = [object Object];
+ const OcWebHeading1SemiBold = [object Object];
+ const OcWebHeading1Bold = [object Object];
  const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

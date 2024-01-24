@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:50:10 GMT
+// Generated on Wed, 24 Jan 2024 05:14:03 GMT
 
 
 #import ".h"
@@ -1412,6 +1412,12 @@
       @"category": @"fontSize",
       @"type": @"24"
       },
+    @"28": @{
+      @"value": 28,
+      @"name": @"OcFontSize28",
+      @"category": @"fontSize",
+      @"type": @"28"
+      },
     @"32": @{
       @"value": 32,
       @"name": @"OcFontSize32",
@@ -1698,50 +1704,6 @@
         @"item": @"bold"
         }
       },
-    @"body-large": @{
-      @"light": @{
-        @"value": [object Object],
-        @"name": @"OcWebBodyLargeLight",
-        @"category": @"web",
-        @"type": @"body-large",
-        @"item": @"light"
-        },
-      @"extra-light": @{
-        @"value": [object Object],
-        @"name": @"OcWebBodyLargeExtraLight",
-        @"category": @"web",
-        @"type": @"body-large",
-        @"item": @"extra-light"
-        },
-      @"regular": @{
-        @"value": [object Object],
-        @"name": @"OcWebBodyLargeRegular",
-        @"category": @"web",
-        @"type": @"body-large",
-        @"item": @"regular"
-        },
-      @"medium": @{
-        @"value": [object Object],
-        @"name": @"OcWebBodyLargeMedium",
-        @"category": @"web",
-        @"type": @"body-large",
-        @"item": @"medium"
-        },
-      @"semi-bold": @{
-        @"value": [object Object],
-        @"name": @"OcWebBodyLargeSemiBold",
-        @"category": @"web",
-        @"type": @"body-large",
-        @"item": @"semi-bold"
-        },
-      @"bold": @{
-        @"value": [object Object],
-        @"name": @"OcWebBodyLargeBold",
-        @"category": @"web",
-        @"type": @"body-large",
-        @"item": @"bold"
-        }
-      },
     @"heading-6": @{
       @"light": @{
         @"value": [object Object],
@@ -1827,6 +1789,182 @@
         @"name": @"OcWebHeading5Bold",
         @"category": @"web",
         @"type": @"heading-5",
+        @"item": @"bold"
+        }
+      },
+    @"heading-4": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading4Light",
+        @"category": @"web",
+        @"type": @"heading-4",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading4ExtraLight",
+        @"category": @"web",
+        @"type": @"heading-4",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading4Regular",
+        @"category": @"web",
+        @"type": @"heading-4",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading4Medium",
+        @"category": @"web",
+        @"type": @"heading-4",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading4SemiBold",
+        @"category": @"web",
+        @"type": @"heading-4",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading4Bold",
+        @"category": @"web",
+        @"type": @"heading-4",
+        @"item": @"bold"
+        }
+      },
+    @"heading-3": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading3Light",
+        @"category": @"web",
+        @"type": @"heading-3",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading3ExtraLight",
+        @"category": @"web",
+        @"type": @"heading-3",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading3Regular",
+        @"category": @"web",
+        @"type": @"heading-3",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading3Medium",
+        @"category": @"web",
+        @"type": @"heading-3",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading3SemiBold",
+        @"category": @"web",
+        @"type": @"heading-3",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading3Bold",
+        @"category": @"web",
+        @"type": @"heading-3",
+        @"item": @"bold"
+        }
+      },
+    @"heading-2": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading2Light",
+        @"category": @"web",
+        @"type": @"heading-2",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading2ExtraLight",
+        @"category": @"web",
+        @"type": @"heading-2",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading2Regular",
+        @"category": @"web",
+        @"type": @"heading-2",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading2Medium",
+        @"category": @"web",
+        @"type": @"heading-2",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading2SemiBold",
+        @"category": @"web",
+        @"type": @"heading-2",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading2Bold",
+        @"category": @"web",
+        @"type": @"heading-2",
+        @"item": @"bold"
+        }
+      },
+    @"heading-1": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading1Light",
+        @"category": @"web",
+        @"type": @"heading-1",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading1ExtraLight",
+        @"category": @"web",
+        @"type": @"heading-1",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading1Regular",
+        @"category": @"web",
+        @"type": @"heading-1",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading1Medium",
+        @"category": @"web",
+        @"type": @"heading-1",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading1SemiBold",
+        @"category": @"web",
+        @"type": @"heading-1",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcWebHeading1Bold",
+        @"category": @"web",
+        @"type": @"heading-1",
         @"item": @"bold"
         }
       }

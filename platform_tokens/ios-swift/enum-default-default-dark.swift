@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 04:50:10 GMT
+// Generated on Wed, 24 Jan 2024 05:14:03 GMT
 
 
 import UIKit
@@ -165,6 +165,7 @@ public enum  {
     public static let ocFontSize20 = 20
     public static let ocFontSize22 = 22
     public static let ocFontSize24 = 24
+    public static let ocFontSize28 = 28
     public static let ocFontSize32 = 32
     public static let ocFontSize40 = 40
     public static let ocFontSize48 = 48
@@ -269,12 +270,6 @@ public enum  {
     public static let ocTextWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
     public static let ocWebBodyBold = [object Object]
     public static let ocWebBodyExtraLight = [object Object]
-    public static let ocWebBodyLargeBold = [object Object]
-    public static let ocWebBodyLargeExtraLight = [object Object]
-    public static let ocWebBodyLargeLight = [object Object]
-    public static let ocWebBodyLargeMedium = [object Object]
-    public static let ocWebBodyLargeRegular = [object Object]
-    public static let ocWebBodyLargeSemiBold = [object Object]
     public static let ocWebBodyLight = [object Object]
     public static let ocWebBodyMedium = [object Object]
     public static let ocWebBodyRegular = [object Object]
@@ -285,6 +280,30 @@ public enum  {
     public static let ocWebBodySmallMedium = [object Object]
     public static let ocWebBodySmallRegular = [object Object]
     public static let ocWebBodySmallSemiBold = [object Object]
+    public static let ocWebHeading1Bold = [object Object]
+    public static let ocWebHeading1ExtraLight = [object Object]
+    public static let ocWebHeading1Light = [object Object]
+    public static let ocWebHeading1Medium = [object Object]
+    public static let ocWebHeading1Regular = [object Object]
+    public static let ocWebHeading1SemiBold = [object Object]
+    public static let ocWebHeading2Bold = [object Object]
+    public static let ocWebHeading2ExtraLight = [object Object]
+    public static let ocWebHeading2Light = [object Object]
+    public static let ocWebHeading2Medium = [object Object]
+    public static let ocWebHeading2Regular = [object Object]
+    public static let ocWebHeading2SemiBold = [object Object]
+    public static let ocWebHeading3Bold = [object Object]
+    public static let ocWebHeading3ExtraLight = [object Object]
+    public static let ocWebHeading3Light = [object Object]
+    public static let ocWebHeading3Medium = [object Object]
+    public static let ocWebHeading3Regular = [object Object]
+    public static let ocWebHeading3SemiBold = [object Object]
+    public static let ocWebHeading4Bold = [object Object]
+    public static let ocWebHeading4ExtraLight = [object Object]
+    public static let ocWebHeading4Light = [object Object]
+    public static let ocWebHeading4Medium = [object Object]
+    public static let ocWebHeading4Regular = [object Object]
+    public static let ocWebHeading4SemiBold = [object Object]
     public static let ocWebHeading5Bold = [object Object]
     public static let ocWebHeading5ExtraLight = [object Object]
     public static let ocWebHeading5Light = [object Object]
