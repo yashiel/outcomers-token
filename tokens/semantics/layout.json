@@ -72,14 +72,6 @@
               "style": "solid"
             },
             "type": "border"
-          },
-          "none": {
-            "value": {
-              "color": "{border.primary}",
-              "width": "{borderWidth.none}",
-              "style": "solid"
-            },
-            "type": "border"
           }
         },
         "dashed": {
@@ -122,16 +114,148 @@
               "style": "dashed"
             },
             "type": "border"
-          },
-          "none": {
+          }
+        }
+      },
+      "secondary": {
+        "solid": {
+          "1": {
             "value": {
-              "color": "{border.primary}",
-              "width": "{borderWidth.none}",
+              "color": "{border.secondary}",
+              "width": "{borderWidth.1}",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "2": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.2}",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "3": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.3}",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "4": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.4}",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "5": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.5}",
+              "style": "solid"
+            },
+            "type": "border"
+          }
+        },
+        "dashed": {
+          "1": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.1}",
+              "style": "dashed"
+            },
+            "type": "border"
+          },
+          "2": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.2}",
+              "style": "dashed"
+            },
+            "type": "border"
+          },
+          "3": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.3}",
+              "style": "dashed"
+            },
+            "type": "border"
+          },
+          "4": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.4}",
+              "style": "dashed"
+            },
+            "type": "border"
+          },
+          "5": {
+            "value": {
+              "color": "{border.secondary}",
+              "width": "{borderWidth.5}",
               "style": "dashed"
             },
             "type": "border"
           }
         }
+      },
+      "none": {
+        "value": {
+          "color": "{border.primary}",
+          "width": "{borderWidth.none}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    },
+    "spacing": {
+      "xxxs": {
+        "value": "{spacing.base.4}/2",
+        "type": "spacing"
+      },
+      "xxs": {
+        "value": "{spacing.base.4}*1",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "{spacing.base.4}*2",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "{spacing.base.4}*3",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{spacing.base.4}*4",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{spacing.base.8}*3",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{spacing.base.8}*4",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "{spacing.base.8}*5",
+        "type": "spacing"
+      },
+      "xxxl": {
+        "value": "{spacing.base.8}*6",
+        "type": "spacing"
+      },
+      "extended-1": {
+        "value": "{spacing.base.8}*7",
+        "type": "spacing"
+      },
+      "extended-2": {
+        "value": "{spacing.base.8}*8",
+        "type": "spacing"
       }
     }
   }

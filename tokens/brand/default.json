@@ -761,44 +761,6 @@
       }
     }
   },
-  "spacing": {
-    "xxxs": {
-      "value": "2",
-      "type": "spacing"
-    },
-    "xxs": {
-      "value": "4",
-      "type": "spacing"
-    },
-    "xs": {
-      "value": "8",
-      "type": "spacing"
-    },
-    "sm": {
-      "value": "12",
-      "type": "spacing"
-    },
-    "md": {
-      "value": "16",
-      "type": "spacing"
-    },
-    "lg": {
-      "value": "24",
-      "type": "spacing"
-    },
-    "xl": {
-      "value": "32",
-      "type": "spacing"
-    },
-    "xxl": {
-      "value": "48",
-      "type": "spacing"
-    },
-    "xxxl": {
-      "value": "64",
-      "type": "spacing"
-    }
-  },
   "borderWidth": {
     "1": {
       "value": "1",
@@ -1123,6 +1085,22 @@
     "line-through": {
       "value": "line-through",
       "type": "textDecoration"
+    }
+  },
+  "spacing": {
+    "base": {
+      "2": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "4": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "8",
+        "type": "spacing"
+      }
     }
   }
 }
