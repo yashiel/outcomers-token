@@ -339,6 +339,142 @@
         },
         "type": "typography"
       }
+    },
+    "heading-6": {
+      "light": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.300}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "extra-light": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.200}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "regular": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.400}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.500}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "semi-bold": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.600}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.20}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      }
+    },
+    "heading-5": {
+      "light": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.300}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "extra-light": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.200}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "regular": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.400}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.500}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "semi-bold": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.600}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "{fontFamily.inter}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.150}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragaphSpacing.4}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
