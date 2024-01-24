@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 05:14:03 GMT
+  Generated on Wed, 24 Jan 2024 05:18:02 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -284,6 +284,12 @@
   <string name="oc_web_heading_1_medium">[object Object]</string>
   <string name="oc_web_heading_1_semi_bold">[object Object]</string>
   <string name="oc_web_heading_1_bold">[object Object]</string>
+  <string name="oc_mobile_small_light">[object Object]</string>
+  <string name="oc_mobile_small_extra_light">[object Object]</string>
+  <string name="oc_mobile_small_regular">[object Object]</string>
+  <string name="oc_mobile_small_medium">[object Object]</string>
+  <string name="oc_mobile_small_semi_bold">[object Object]</string>
+  <string name="oc_mobile_small_bold">[object Object]</string>
   <string name="oc_text_heading">#ffffffff</string>
   <string name="oc_text_body">#ffffffff</string>
   <string name="oc_text_action">#ffffffff</string>

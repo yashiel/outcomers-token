@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:14:03 GMT
+// Generated on Wed, 24 Jan 2024 05:18:02 GMT
 
 
 #import ".h"
@@ -1965,6 +1965,52 @@
         @"name": @"OcWebHeading1Bold",
         @"category": @"web",
         @"type": @"heading-1",
+        @"item": @"bold"
+        }
+      }
+    },
+  @"mobile": @{
+    @"small": @{
+      @"light": @{
+        @"value": [object Object],
+        @"name": @"OcMobileSmallLight",
+        @"category": @"mobile",
+        @"type": @"small",
+        @"item": @"light"
+        },
+      @"extra-light": @{
+        @"value": [object Object],
+        @"name": @"OcMobileSmallExtraLight",
+        @"category": @"mobile",
+        @"type": @"small",
+        @"item": @"extra-light"
+        },
+      @"regular": @{
+        @"value": [object Object],
+        @"name": @"OcMobileSmallRegular",
+        @"category": @"mobile",
+        @"type": @"small",
+        @"item": @"regular"
+        },
+      @"medium": @{
+        @"value": [object Object],
+        @"name": @"OcMobileSmallMedium",
+        @"category": @"mobile",
+        @"type": @"small",
+        @"item": @"medium"
+        },
+      @"semi-bold": @{
+        @"value": [object Object],
+        @"name": @"OcMobileSmallSemiBold",
+        @"category": @"mobile",
+        @"type": @"small",
+        @"item": @"semi-bold"
+        },
+      @"bold": @{
+        @"value": [object Object],
+        @"name": @"OcMobileSmallBold",
+        @"category": @"mobile",
+        @"type": @"small",
         @"item": @"bold"
         }
       }

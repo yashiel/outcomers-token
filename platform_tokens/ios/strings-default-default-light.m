@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:14:03 GMT
+// Generated on Wed, 24 Jan 2024 05:18:02 GMT
 
 
 #import ".h"
@@ -289,6 +289,12 @@ NSString * const OcWebHeading1Regular = [object Object];
 NSString * const OcWebHeading1Medium = [object Object];
 NSString * const OcWebHeading1SemiBold = [object Object];
 NSString * const OcWebHeading1Bold = [object Object];
+NSString * const OcMobileSmallLight = [object Object];
+NSString * const OcMobileSmallExtraLight = [object Object];
+NSString * const OcMobileSmallRegular = [object Object];
+NSString * const OcMobileSmallMedium = [object Object];
+NSString * const OcMobileSmallSemiBold = [object Object];
+NSString * const OcMobileSmallBold = [object Object];
 NSString * const OcTextHeading = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextBody = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
 NSString * const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
@@ -2195,6 +2201,48 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   @"name": @"OcWebHeading1Bold",
     @"category": @"web",
     @"type": @"heading-1",
+    @"item": @"bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallLight",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallExtraLight",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallRegular",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallMedium",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallSemiBold",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallBold",
+    @"category": @"mobile",
+    @"type": @"small",
     @"item": @"bold"
   },
 @{

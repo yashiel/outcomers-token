@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:14:03 GMT
+// Generated on Wed, 24 Jan 2024 05:18:02 GMT
 
 
 #import ".h"
@@ -289,6 +289,12 @@
  const OcWebHeading1Medium = [object Object];
  const OcWebHeading1SemiBold = [object Object];
  const OcWebHeading1Bold = [object Object];
+ const OcMobileSmallLight = [object Object];
+ const OcMobileSmallExtraLight = [object Object];
+ const OcMobileSmallRegular = [object Object];
+ const OcMobileSmallMedium = [object Object];
+ const OcMobileSmallSemiBold = [object Object];
+ const OcMobileSmallBold = [object Object];
  const OcTextHeading = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextBody = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
  const OcTextAction = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];

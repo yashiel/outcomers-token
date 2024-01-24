@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:14:03 GMT
+// Generated on Wed, 24 Jan 2024 05:18:02 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -289,6 +289,12 @@ extern NSString * const OcWebHeading1Regular;
 extern NSString * const OcWebHeading1Medium;
 extern NSString * const OcWebHeading1SemiBold;
 extern NSString * const OcWebHeading1Bold;
+extern NSString * const OcMobileSmallLight;
+extern NSString * const OcMobileSmallExtraLight;
+extern NSString * const OcMobileSmallRegular;
+extern NSString * const OcMobileSmallMedium;
+extern NSString * const OcMobileSmallSemiBold;
+extern NSString * const OcMobileSmallBold;
 extern NSString * const OcTextHeading;
 extern NSString * const OcTextBody;
 extern NSString * const OcTextAction;

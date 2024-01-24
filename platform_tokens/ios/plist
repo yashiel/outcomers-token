@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Wed, 24 Jan 2024 05:14:03 GMT
+  Generated on Wed, 24 Jan 2024 05:18:02 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1850,6 +1850,24 @@
     </dict>
       <string>[object Object]</string>
     <key>OcWebHeading1Bold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallRegular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallMedium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallSemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallBold</key>
     </dict>
       <string>[object Object]</string>
     <key>OcTextHeading</key>

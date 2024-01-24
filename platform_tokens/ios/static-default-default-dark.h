@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:14:03 GMT
+// Generated on Wed, 24 Jan 2024 05:18:02 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -288,6 +288,12 @@ extern  const OcWebHeading1Regular;
 extern  const OcWebHeading1Medium;
 extern  const OcWebHeading1SemiBold;
 extern  const OcWebHeading1Bold;
+extern  const OcMobileSmallLight;
+extern  const OcMobileSmallExtraLight;
+extern  const OcMobileSmallRegular;
+extern  const OcMobileSmallMedium;
+extern  const OcMobileSmallSemiBold;
+extern  const OcMobileSmallBold;
 extern  const OcTextHeading;
 extern  const OcTextBody;
 extern  const OcTextAction;

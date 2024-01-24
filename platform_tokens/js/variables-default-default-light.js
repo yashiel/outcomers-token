@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 05:14:03 GMT
+ * Generated on Wed, 24 Jan 2024 05:18:02 GMT
  */
 
 export const ocRadius0 = "0";
@@ -282,6 +282,12 @@ export const ocWebHeading1Regular = "400 32px/1.5 Inter";
 export const ocWebHeading1Medium = "500 32px/1.5 Inter";
 export const ocWebHeading1SemiBold = "Semi Bold 32px/1.5 Inter";
 export const ocWebHeading1Bold = "700 32px/1.5 Inter";
+export const ocMobileSmallLight = "300 10px/1.5 Inter";
+export const ocMobileSmallExtraLight = "Extra Light 10px/1.5 Inter";
+export const ocMobileSmallRegular = "400 10px/1.5 Inter";
+export const ocMobileSmallMedium = "500 10px/1.5 Inter";
+export const ocMobileSmallSemiBold = "Semi Bold 10px/1.5 Inter";
+export const ocMobileSmallBold = "700 10px/1.5 Inter";
 export const ocTextHeading = "#111111";
 export const ocTextBody = "#111111";
 export const ocTextAction = "#ffffff";

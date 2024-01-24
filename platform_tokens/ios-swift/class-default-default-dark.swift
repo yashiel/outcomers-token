@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 24 Jan 2024 05:14:03 GMT
+// Generated on Wed, 24 Jan 2024 05:18:02 GMT
 
 
 import UIKit
@@ -195,6 +195,12 @@ public class  {
     public static let ocLineHeight130 = 130%
     public static let ocLineHeight140 = 140%
     public static let ocLineHeight150 = 150%
+    public static let ocMobileSmallBold = [object Object]
+    public static let ocMobileSmallExtraLight = [object Object]
+    public static let ocMobileSmallLight = [object Object]
+    public static let ocMobileSmallMedium = [object Object]
+    public static let ocMobileSmallRegular = [object Object]
+    public static let ocMobileSmallSemiBold = [object Object]
     public static let ocOpacity100 = 100%
     public static let ocOpacity25 = 25%
     public static let ocOpacity50 = 50%
