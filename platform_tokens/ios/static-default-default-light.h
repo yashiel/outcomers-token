@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -324,21 +324,25 @@ extern  const OcLayoutBorderPrimarySolid2;
 extern  const OcLayoutBorderPrimarySolid3;
 extern  const OcLayoutBorderPrimarySolid4;
 extern  const OcLayoutBorderPrimarySolid5;
+extern  const OcLayoutBorderPrimarySolid05;
 extern  const OcLayoutBorderPrimaryDashed1;
 extern  const OcLayoutBorderPrimaryDashed2;
 extern  const OcLayoutBorderPrimaryDashed3;
 extern  const OcLayoutBorderPrimaryDashed4;
 extern  const OcLayoutBorderPrimaryDashed5;
+extern  const OcLayoutBorderPrimaryDashed05;
 extern  const OcLayoutBorderSecondarySolid1;
 extern  const OcLayoutBorderSecondarySolid2;
 extern  const OcLayoutBorderSecondarySolid3;
 extern  const OcLayoutBorderSecondarySolid4;
 extern  const OcLayoutBorderSecondarySolid5;
+extern  const OcLayoutBorderSecondarySolid05;
 extern  const OcLayoutBorderSecondaryDashed1;
 extern  const OcLayoutBorderSecondaryDashed2;
 extern  const OcLayoutBorderSecondaryDashed3;
 extern  const OcLayoutBorderSecondaryDashed4;
 extern  const OcLayoutBorderSecondaryDashed5;
+extern  const OcLayoutBorderSecondaryDashed05;
 extern  const OcLayoutBorderNone;
 extern  const OcLayoutSpacingXxxs;
 extern  const OcLayoutSpacingXxs;

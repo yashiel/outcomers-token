@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 #import ".h"
@@ -2254,6 +2254,15 @@
             @"item": @"primary",
             @"subitem": @"solid",
             @"state": @"5"
+            },
+          @"0-5": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderPrimarySolid05",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"primary",
+            @"subitem": @"solid",
+            @"state": @"0-5"
             }
           },
         @"dashed": @{
@@ -2301,6 +2310,15 @@
             @"item": @"primary",
             @"subitem": @"dashed",
             @"state": @"5"
+            },
+          @"0-5": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderPrimaryDashed05",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"primary",
+            @"subitem": @"dashed",
+            @"state": @"0-5"
             }
           }
         },
@@ -2350,6 +2368,15 @@
             @"item": @"secondary",
             @"subitem": @"solid",
             @"state": @"5"
+            },
+          @"0-5": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondarySolid05",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"solid",
+            @"state": @"0-5"
             }
           },
         @"dashed": @{
@@ -2397,6 +2424,15 @@
             @"item": @"secondary",
             @"subitem": @"dashed",
             @"state": @"5"
+            },
+          @"0-5": @{
+            @"value": [object Object],
+            @"name": @"OcLayoutBorderSecondaryDashed05",
+            @"category": @"layout",
+            @"type": @"border",
+            @"item": @"secondary",
+            @"subitem": @"dashed",
+            @"state": @"0-5"
             }
           }
         },

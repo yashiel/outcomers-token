@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -325,21 +325,25 @@ OcLayoutBorderPrimarySolid2,
 OcLayoutBorderPrimarySolid3,
 OcLayoutBorderPrimarySolid4,
 OcLayoutBorderPrimarySolid5,
+OcLayoutBorderPrimarySolid05,
 OcLayoutBorderPrimaryDashed1,
 OcLayoutBorderPrimaryDashed2,
 OcLayoutBorderPrimaryDashed3,
 OcLayoutBorderPrimaryDashed4,
 OcLayoutBorderPrimaryDashed5,
+OcLayoutBorderPrimaryDashed05,
 OcLayoutBorderSecondarySolid1,
 OcLayoutBorderSecondarySolid2,
 OcLayoutBorderSecondarySolid3,
 OcLayoutBorderSecondarySolid4,
 OcLayoutBorderSecondarySolid5,
+OcLayoutBorderSecondarySolid05,
 OcLayoutBorderSecondaryDashed1,
 OcLayoutBorderSecondaryDashed2,
 OcLayoutBorderSecondaryDashed3,
 OcLayoutBorderSecondaryDashed4,
 OcLayoutBorderSecondaryDashed5,
+OcLayoutBorderSecondaryDashed05,
 OcLayoutBorderNone,
 OcLayoutSpacingXxxs,
 OcLayoutSpacingXxs,

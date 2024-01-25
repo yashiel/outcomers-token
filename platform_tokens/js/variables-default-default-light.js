@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 Jan 2024 17:15:48 GMT
+ * Generated on Thu, 25 Jan 2024 17:23:23 GMT
  */
 
 export const ocRadius0 = "0";
@@ -318,21 +318,25 @@ export const ocLayoutBorderPrimarySolid2 = "2px solid #D4D4D4";
 export const ocLayoutBorderPrimarySolid3 = "3px solid #D4D4D4";
 export const ocLayoutBorderPrimarySolid4 = "4px solid #D4D4D4";
 export const ocLayoutBorderPrimarySolid5 = "5px solid #D4D4D4";
+export const ocLayoutBorderPrimarySolid05 = "0.5px solid #D4D4D4";
 export const ocLayoutBorderPrimaryDashed1 = "1px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed2 = "2px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed3 = "3px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed4 = "4px dashed #D4D4D4";
 export const ocLayoutBorderPrimaryDashed5 = "5px dashed #D4D4D4";
+export const ocLayoutBorderPrimaryDashed05 = "0.5px dashed #D4D4D4";
 export const ocLayoutBorderSecondarySolid1 = "1px solid #049E53";
 export const ocLayoutBorderSecondarySolid2 = "2px solid #049E53";
 export const ocLayoutBorderSecondarySolid3 = "3px solid #049E53";
 export const ocLayoutBorderSecondarySolid4 = "4px solid #049E53";
 export const ocLayoutBorderSecondarySolid5 = "5px solid #049E53";
+export const ocLayoutBorderSecondarySolid05 = "0.5px solid #049E53";
 export const ocLayoutBorderSecondaryDashed1 = "1px dashed #049E53";
 export const ocLayoutBorderSecondaryDashed2 = "2px dashed #049E53";
 export const ocLayoutBorderSecondaryDashed3 = "3px dashed #049E53";
 export const ocLayoutBorderSecondaryDashed4 = "4px dashed #049E53";
 export const ocLayoutBorderSecondaryDashed5 = "5px dashed #049E53";
+export const ocLayoutBorderSecondaryDashed05 = "0.5px dashed #049E53";
 export const ocLayoutBorderNone = "0 solid";
 export const ocLayoutSpacingXxxs = 2;
 export const ocLayoutSpacingXxs = 4;

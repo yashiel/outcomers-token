@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 #import ".h"
@@ -325,21 +325,25 @@
  const OcLayoutBorderPrimarySolid3 = [object Object];
  const OcLayoutBorderPrimarySolid4 = [object Object];
  const OcLayoutBorderPrimarySolid5 = [object Object];
+ const OcLayoutBorderPrimarySolid05 = [object Object];
  const OcLayoutBorderPrimaryDashed1 = [object Object];
  const OcLayoutBorderPrimaryDashed2 = [object Object];
  const OcLayoutBorderPrimaryDashed3 = [object Object];
  const OcLayoutBorderPrimaryDashed4 = [object Object];
  const OcLayoutBorderPrimaryDashed5 = [object Object];
+ const OcLayoutBorderPrimaryDashed05 = [object Object];
  const OcLayoutBorderSecondarySolid1 = [object Object];
  const OcLayoutBorderSecondarySolid2 = [object Object];
  const OcLayoutBorderSecondarySolid3 = [object Object];
  const OcLayoutBorderSecondarySolid4 = [object Object];
  const OcLayoutBorderSecondarySolid5 = [object Object];
+ const OcLayoutBorderSecondarySolid05 = [object Object];
  const OcLayoutBorderSecondaryDashed1 = [object Object];
  const OcLayoutBorderSecondaryDashed2 = [object Object];
  const OcLayoutBorderSecondaryDashed3 = [object Object];
  const OcLayoutBorderSecondaryDashed4 = [object Object];
  const OcLayoutBorderSecondaryDashed5 = [object Object];
+ const OcLayoutBorderSecondaryDashed05 = [object Object];
  const OcLayoutBorderNone = [object Object];
  const OcLayoutSpacingXxxs = 4/2;
  const OcLayoutSpacingXxs = 4*1;

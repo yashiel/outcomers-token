@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 import UIKit
@@ -190,21 +190,25 @@ public class  {
     public static let ocIconSuccess = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocIconWarning = UIColor(red: 0.918, green: 0.690, blue: 0.063, alpha: 1)
     public static let ocLayoutBorderNone = [object Object]
+    public static let ocLayoutBorderPrimaryDashed05 = [object Object]
     public static let ocLayoutBorderPrimaryDashed1 = [object Object]
     public static let ocLayoutBorderPrimaryDashed2 = [object Object]
     public static let ocLayoutBorderPrimaryDashed3 = [object Object]
     public static let ocLayoutBorderPrimaryDashed4 = [object Object]
     public static let ocLayoutBorderPrimaryDashed5 = [object Object]
+    public static let ocLayoutBorderPrimarySolid05 = [object Object]
     public static let ocLayoutBorderPrimarySolid1 = [object Object]
     public static let ocLayoutBorderPrimarySolid2 = [object Object]
     public static let ocLayoutBorderPrimarySolid3 = [object Object]
     public static let ocLayoutBorderPrimarySolid4 = [object Object]
     public static let ocLayoutBorderPrimarySolid5 = [object Object]
+    public static let ocLayoutBorderSecondaryDashed05 = [object Object]
     public static let ocLayoutBorderSecondaryDashed1 = [object Object]
     public static let ocLayoutBorderSecondaryDashed2 = [object Object]
     public static let ocLayoutBorderSecondaryDashed3 = [object Object]
     public static let ocLayoutBorderSecondaryDashed4 = [object Object]
     public static let ocLayoutBorderSecondaryDashed5 = [object Object]
+    public static let ocLayoutBorderSecondarySolid05 = [object Object]
     public static let ocLayoutBorderSecondarySolid1 = [object Object]
     public static let ocLayoutBorderSecondarySolid2 = [object Object]
     public static let ocLayoutBorderSecondarySolid3 = [object Object]

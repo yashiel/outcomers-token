@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 #import ".h"
@@ -325,21 +325,25 @@ NSString * const OcLayoutBorderPrimarySolid2 = [object Object];
 NSString * const OcLayoutBorderPrimarySolid3 = [object Object];
 NSString * const OcLayoutBorderPrimarySolid4 = [object Object];
 NSString * const OcLayoutBorderPrimarySolid5 = [object Object];
+NSString * const OcLayoutBorderPrimarySolid05 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed1 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed2 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed3 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed4 = [object Object];
 NSString * const OcLayoutBorderPrimaryDashed5 = [object Object];
+NSString * const OcLayoutBorderPrimaryDashed05 = [object Object];
 NSString * const OcLayoutBorderSecondarySolid1 = [object Object];
 NSString * const OcLayoutBorderSecondarySolid2 = [object Object];
 NSString * const OcLayoutBorderSecondarySolid3 = [object Object];
 NSString * const OcLayoutBorderSecondarySolid4 = [object Object];
 NSString * const OcLayoutBorderSecondarySolid5 = [object Object];
+NSString * const OcLayoutBorderSecondarySolid05 = [object Object];
 NSString * const OcLayoutBorderSecondaryDashed1 = [object Object];
 NSString * const OcLayoutBorderSecondaryDashed2 = [object Object];
 NSString * const OcLayoutBorderSecondaryDashed3 = [object Object];
 NSString * const OcLayoutBorderSecondaryDashed4 = [object Object];
 NSString * const OcLayoutBorderSecondaryDashed5 = [object Object];
+NSString * const OcLayoutBorderSecondaryDashed05 = [object Object];
 NSString * const OcLayoutBorderNone = [object Object];
 NSString * const OcLayoutSpacingXxxs = 4/2;
 NSString * const OcLayoutSpacingXxs = 4*1;
@@ -2542,6 +2546,15 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   },
 @{
   @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimarySolid05",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"solid",
+    @"state": @"0-5"
+  },
+@{
+  @"value": [object Object],
   @"name": @"OcLayoutBorderPrimaryDashed1",
     @"category": @"layout",
     @"type": @"border",
@@ -2584,6 +2597,15 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"item": @"primary",
     @"subitem": @"dashed",
     @"state": @"5"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderPrimaryDashed05",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"primary",
+    @"subitem": @"dashed",
+    @"state": @"0-5"
   },
 @{
   @"value": [object Object],
@@ -2632,6 +2654,15 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   },
 @{
   @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondarySolid05",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"solid",
+    @"state": @"0-5"
+  },
+@{
+  @"value": [object Object],
   @"name": @"OcLayoutBorderSecondaryDashed1",
     @"category": @"layout",
     @"type": @"border",
@@ -2674,6 +2705,15 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"item": @"secondary",
     @"subitem": @"dashed",
     @"state": @"5"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcLayoutBorderSecondaryDashed05",
+    @"category": @"layout",
+    @"type": @"border",
+    @"item": @"secondary",
+    @"subitem": @"dashed",
+    @"state": @"0-5"
   },
 @{
   @"value": [object Object],

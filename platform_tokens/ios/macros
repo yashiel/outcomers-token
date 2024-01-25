@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -325,21 +325,25 @@
 #define OcLayoutBorderPrimarySolid3 [object Object]
 #define OcLayoutBorderPrimarySolid4 [object Object]
 #define OcLayoutBorderPrimarySolid5 [object Object]
+#define OcLayoutBorderPrimarySolid05 [object Object]
 #define OcLayoutBorderPrimaryDashed1 [object Object]
 #define OcLayoutBorderPrimaryDashed2 [object Object]
 #define OcLayoutBorderPrimaryDashed3 [object Object]
 #define OcLayoutBorderPrimaryDashed4 [object Object]
 #define OcLayoutBorderPrimaryDashed5 [object Object]
+#define OcLayoutBorderPrimaryDashed05 [object Object]
 #define OcLayoutBorderSecondarySolid1 [object Object]
 #define OcLayoutBorderSecondarySolid2 [object Object]
 #define OcLayoutBorderSecondarySolid3 [object Object]
 #define OcLayoutBorderSecondarySolid4 [object Object]
 #define OcLayoutBorderSecondarySolid5 [object Object]
+#define OcLayoutBorderSecondarySolid05 [object Object]
 #define OcLayoutBorderSecondaryDashed1 [object Object]
 #define OcLayoutBorderSecondaryDashed2 [object Object]
 #define OcLayoutBorderSecondaryDashed3 [object Object]
 #define OcLayoutBorderSecondaryDashed4 [object Object]
 #define OcLayoutBorderSecondaryDashed5 [object Object]
+#define OcLayoutBorderSecondaryDashed05 [object Object]
 #define OcLayoutBorderNone [object Object]
 #define OcLayoutSpacingXxxs 4/2
 #define OcLayoutSpacingXxs 4*1

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 25 Jan 2024 17:15:48 GMT
+  Generated on Thu, 25 Jan 2024 17:23:23 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -320,21 +320,25 @@
   <string name="oc_layout_border_primary_solid_3">[object Object]</string>
   <string name="oc_layout_border_primary_solid_4">[object Object]</string>
   <string name="oc_layout_border_primary_solid_5">[object Object]</string>
+  <string name="oc_layout_border_primary_solid_0_5">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_1">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_2">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_3">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_4">[object Object]</string>
   <string name="oc_layout_border_primary_dashed_5">[object Object]</string>
+  <string name="oc_layout_border_primary_dashed_0_5">[object Object]</string>
   <string name="oc_layout_border_secondary_solid_1">[object Object]</string>
   <string name="oc_layout_border_secondary_solid_2">[object Object]</string>
   <string name="oc_layout_border_secondary_solid_3">[object Object]</string>
   <string name="oc_layout_border_secondary_solid_4">[object Object]</string>
   <string name="oc_layout_border_secondary_solid_5">[object Object]</string>
+  <string name="oc_layout_border_secondary_solid_0_5">[object Object]</string>
   <string name="oc_layout_border_secondary_dashed_1">[object Object]</string>
   <string name="oc_layout_border_secondary_dashed_2">[object Object]</string>
   <string name="oc_layout_border_secondary_dashed_3">[object Object]</string>
   <string name="oc_layout_border_secondary_dashed_4">[object Object]</string>
   <string name="oc_layout_border_secondary_dashed_5">[object Object]</string>
+  <string name="oc_layout_border_secondary_dashed_0_5">[object Object]</string>
   <string name="oc_layout_border_none">[object Object]</string>
   <string name="oc_layout_spacing_xxxs">4/2</string>
   <string name="oc_layout_spacing_xxs">4*1</string>

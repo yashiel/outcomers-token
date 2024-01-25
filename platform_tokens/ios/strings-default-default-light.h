@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 17:15:48 GMT
+// Generated on Thu, 25 Jan 2024 17:23:23 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -325,21 +325,25 @@ extern NSString * const OcLayoutBorderPrimarySolid2;
 extern NSString * const OcLayoutBorderPrimarySolid3;
 extern NSString * const OcLayoutBorderPrimarySolid4;
 extern NSString * const OcLayoutBorderPrimarySolid5;
+extern NSString * const OcLayoutBorderPrimarySolid05;
 extern NSString * const OcLayoutBorderPrimaryDashed1;
 extern NSString * const OcLayoutBorderPrimaryDashed2;
 extern NSString * const OcLayoutBorderPrimaryDashed3;
 extern NSString * const OcLayoutBorderPrimaryDashed4;
 extern NSString * const OcLayoutBorderPrimaryDashed5;
+extern NSString * const OcLayoutBorderPrimaryDashed05;
 extern NSString * const OcLayoutBorderSecondarySolid1;
 extern NSString * const OcLayoutBorderSecondarySolid2;
 extern NSString * const OcLayoutBorderSecondarySolid3;
 extern NSString * const OcLayoutBorderSecondarySolid4;
 extern NSString * const OcLayoutBorderSecondarySolid5;
+extern NSString * const OcLayoutBorderSecondarySolid05;
 extern NSString * const OcLayoutBorderSecondaryDashed1;
 extern NSString * const OcLayoutBorderSecondaryDashed2;
 extern NSString * const OcLayoutBorderSecondaryDashed3;
 extern NSString * const OcLayoutBorderSecondaryDashed4;
 extern NSString * const OcLayoutBorderSecondaryDashed5;
+extern NSString * const OcLayoutBorderSecondaryDashed05;
 extern NSString * const OcLayoutBorderNone;
 extern NSString * const OcLayoutSpacingXxxs;
 extern NSString * const OcLayoutSpacingXxs;

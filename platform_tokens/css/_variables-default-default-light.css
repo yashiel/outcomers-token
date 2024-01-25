@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 Jan 2024 17:15:48 GMT
+ * Generated on Thu, 25 Jan 2024 17:23:22 GMT
  */
 
 :root {
@@ -377,21 +377,25 @@
   --oc-text-error: var(--oc-color-error-dark);
   --oc-text-warning: var(--oc-color-warning-darker);
   --oc-text-success: var(--oc-color-success-darker);
+  --oc-layout-border-secondary-dashed-0-5: var(--oc-border-width-0-5) dashed var(--oc-border-secondary);
   --oc-layout-border-secondary-dashed-5: var(--oc-border-width-5) dashed var(--oc-border-secondary);
   --oc-layout-border-secondary-dashed-4: var(--oc-border-width-4) dashed var(--oc-border-secondary);
   --oc-layout-border-secondary-dashed-3: var(--oc-border-width-3) dashed var(--oc-border-secondary);
   --oc-layout-border-secondary-dashed-2: var(--oc-border-width-2) dashed var(--oc-border-secondary);
   --oc-layout-border-secondary-dashed-1: var(--oc-border-width-1) dashed var(--oc-border-secondary);
+  --oc-layout-border-secondary-solid-0-5: var(--oc-border-width-0-5) solid var(--oc-border-secondary);
   --oc-layout-border-secondary-solid-5: var(--oc-border-width-5) solid var(--oc-border-secondary);
   --oc-layout-border-secondary-solid-4: var(--oc-border-width-4) solid var(--oc-border-secondary);
   --oc-layout-border-secondary-solid-3: var(--oc-border-width-3) solid var(--oc-border-secondary);
   --oc-layout-border-secondary-solid-2: var(--oc-border-width-2) solid var(--oc-border-secondary);
   --oc-layout-border-secondary-solid-1: var(--oc-border-width-1) solid var(--oc-border-secondary);
+  --oc-layout-border-primary-dashed-0-5: var(--oc-border-width-0-5) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-5: var(--oc-border-width-5) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-4: var(--oc-border-width-4) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-3: var(--oc-border-width-3) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-2: var(--oc-border-width-2) dashed var(--oc-border-primary);
   --oc-layout-border-primary-dashed-1: var(--oc-border-width-1) dashed var(--oc-border-primary);
+  --oc-layout-border-primary-solid-0-5: var(--oc-border-width-0-5) solid var(--oc-border-primary);
   --oc-layout-border-primary-solid-5: var(--oc-border-width-5) solid var(--oc-border-primary);
   --oc-layout-border-primary-solid-4: var(--oc-border-width-4) solid var(--oc-border-primary);
   --oc-layout-border-primary-solid-3: var(--oc-border-width-3) solid var(--oc-border-primary);
