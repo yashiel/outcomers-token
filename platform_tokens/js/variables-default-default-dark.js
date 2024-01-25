@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 Jan 2024 16:17:27 GMT
+ * Generated on Thu, 25 Jan 2024 17:15:48 GMT
  */
 
 export const ocRadius0 = "0";
@@ -234,12 +234,12 @@ export const ocWebBodySmallRegular = "400 14px/1.5 Inter";
 export const ocWebBodySmallMedium = "500 14px/1.5 Inter";
 export const ocWebBodySmallSemiBold = "Semi Bold 14px/1.5 Inter";
 export const ocWebBodySmallBold = "700 14px/1.5 Inter";
-export const ocWebBodyLight = "300 16px/1.5 Inter";
-export const ocWebBodyExtraLight = "Extra Light 16px/1.5 Inter";
-export const ocWebBodyRegular = "400 16px/1.5 Inter";
-export const ocWebBodyMedium = "500 16px/1.5 Inter";
-export const ocWebBodySemiBold = "Semi Bold 16px/1.5 Inter";
-export const ocWebBodyBold = "700 16px/1.5 Inter";
+export const ocWebBodyLight = "300 16px/1.3 Inter";
+export const ocWebBodyExtraLight = "Extra Light 16px/1.3 Inter";
+export const ocWebBodyRegular = "400 16px/1.3 Inter";
+export const ocWebBodyMedium = "500 16px/1.3 Inter";
+export const ocWebBodySemiBold = "Semi Bold 16px/1.3 Inter";
+export const ocWebBodyBold = "700 16px/1.3 Inter";
 export const ocWebHeading6Light = "300 18px/1.5 Inter";
 export const ocWebHeading6ExtraLight = "Extra Light 18px/1.5 Inter";
 export const ocWebHeading6Regular = "400 18px/1.5 Inter";
@@ -252,12 +252,12 @@ export const ocWebHeading5Regular = "400 20px/1.5 Inter";
 export const ocWebHeading5Medium = "500 20px/1.5 Inter";
 export const ocWebHeading5SemiBold = "Semi Bold 20px/1.5 Inter";
 export const ocWebHeading5Bold = "700 20px/1.5 Inter";
-export const ocWebHeading4Light = "300 24px/1.5 Inter";
-export const ocWebHeading4ExtraLight = "Extra Light 24px/1.5 Inter";
-export const ocWebHeading4Regular = "400 24px/1.5 Inter";
-export const ocWebHeading4Medium = "500 24px/1.5 Inter";
-export const ocWebHeading4SemiBold = "Semi Bold 24px/1.5 Inter";
-export const ocWebHeading4Bold = "700 24px/1.5 Inter";
+export const ocWebHeading4Light = "300 24px/1.1 Inter";
+export const ocWebHeading4ExtraLight = "Extra Light 24px/1.1 Inter";
+export const ocWebHeading4Regular = "400 24px/1.1 Inter";
+export const ocWebHeading4Medium = "500 24px/1.1 Inter";
+export const ocWebHeading4SemiBold = "Semi Bold 24px/1.1 Inter";
+export const ocWebHeading4Bold = "700 24px/1.1 Inter";
 export const ocWebHeading3Light = "300 28px/1.1 Inter";
 export const ocWebHeading3ExtraLight = "Extra Light 28px/1.1 Inter";
 export const ocWebHeading3Regular = "400 28px/1.1 Inter";
