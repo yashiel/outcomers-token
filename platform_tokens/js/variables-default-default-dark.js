@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Jan 2024 20:20:41 GMT
+ * Generated on Thu, 25 Jan 2024 16:17:27 GMT
  */
 
 export const ocRadius0 = "0";
@@ -258,24 +258,24 @@ export const ocWebHeading4Regular = "400 24px/1.5 Inter";
 export const ocWebHeading4Medium = "500 24px/1.5 Inter";
 export const ocWebHeading4SemiBold = "Semi Bold 24px/1.5 Inter";
 export const ocWebHeading4Bold = "700 24px/1.5 Inter";
-export const ocWebHeading3Light = "300 28px/1.5 Inter";
-export const ocWebHeading3ExtraLight = "Extra Light 28px/1.5 Inter";
-export const ocWebHeading3Regular = "400 28px/1.5 Inter";
-export const ocWebHeading3Medium = "500 28px/1.5 Inter";
-export const ocWebHeading3SemiBold = "Semi Bold 28px/1.5 Inter";
-export const ocWebHeading3Bold = "700 28px/1.5 Inter";
-export const ocWebHeading2Light = "300 32px/1.5 Inter";
-export const ocWebHeading2ExtraLight = "Extra Light 32px/1.5 Inter";
-export const ocWebHeading2Regular = "400 32px/1.5 Inter";
-export const ocWebHeading2Medium = "500 32px/1.5 Inter";
-export const ocWebHeading2SemiBold = "Semi Bold 32px/1.5 Inter";
-export const ocWebHeading2Bold = "700 32px/1.5 Inter";
-export const ocWebHeading1Light = "300 40px/1.5 Inter";
-export const ocWebHeading1ExtraLight = "Extra Light 40px/1.5 Inter";
-export const ocWebHeading1Regular = "400 40px/1.5 Inter";
-export const ocWebHeading1Medium = "500 40px/1.5 Inter";
-export const ocWebHeading1SemiBold = "Semi Bold 40px/1.5 Inter";
-export const ocWebHeading1Bold = "700 40px/1.5 Inter";
+export const ocWebHeading3Light = "300 28px/1.1 Inter";
+export const ocWebHeading3ExtraLight = "Extra Light 28px/1.1 Inter";
+export const ocWebHeading3Regular = "400 28px/1.1 Inter";
+export const ocWebHeading3Medium = "500 28px/1.1 Inter";
+export const ocWebHeading3SemiBold = "Semi Bold 28px/1.1 Inter";
+export const ocWebHeading3Bold = "700 28px/1.1 Inter";
+export const ocWebHeading2Light = "300 32px/1.1 Inter";
+export const ocWebHeading2ExtraLight = "Extra Light 32px/1.1 Inter";
+export const ocWebHeading2Regular = "400 32px/1.1 Inter";
+export const ocWebHeading2Medium = "500 32px/1.1 Inter";
+export const ocWebHeading2SemiBold = "Semi Bold 32px/1.1 Inter";
+export const ocWebHeading2Bold = "700 32px/1.1 Inter";
+export const ocWebHeading1Light = "300 40px/1.1 Inter";
+export const ocWebHeading1ExtraLight = "Extra Light 40px/1.1 Inter";
+export const ocWebHeading1Regular = "400 40px/1.1 Inter";
+export const ocWebHeading1Medium = "500 40px/1.1 Inter";
+export const ocWebHeading1SemiBold = "Semi Bold 40px/1.1 Inter";
+export const ocWebHeading1Bold = "700 40px/1.1 Inter";
 export const ocMobileSmallLight = "300 10px/1.5 Inter";
 export const ocMobileSmallExtraLight = "Extra Light 10px/1.5 Inter";
 export const ocMobileSmallRegular = "400 10px/1.5 Inter";
