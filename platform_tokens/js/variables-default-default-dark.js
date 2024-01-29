@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 Jan 2024 17:23:23 GMT
+ * Generated on Mon, 29 Jan 2024 07:44:46 GMT
  */
 
 export const ocRadius0 = "0";
@@ -294,18 +294,18 @@ export const ocMobileBodyRegular = "400 14px/1.5 Inter";
 export const ocMobileBodyMedium = "500 14px/1.5 Inter";
 export const ocMobileBodySemiBold = "Semi Bold 14px/1.5 Inter";
 export const ocMobileBodyBold = "700 14px/1.5 Inter";
-export const ocMobileBodyLgLight = "300 16px/1.5 Inter";
-export const ocMobileBodyLgExtraLight = "Extra Light 16px/1.5 Inter";
-export const ocMobileBodyLgRegular = "400 16px/1.5 Inter";
-export const ocMobileBodyLgMedium = "500 16px/1.5 Inter";
-export const ocMobileBodyLgSemiBold = "Semi Bold 16px/1.5 Inter";
-export const ocMobileBodyLgBold = "700 16px/1.5 Inter";
-export const ocMobileHeading6Light = "300 22px/1.5 Inter";
-export const ocMobileHeading6ExtraLight = "Extra Light 22px/1.5 Inter";
-export const ocMobileHeading6Regular = "400 22px/1.5 Inter";
-export const ocMobileHeading6Medium = "500 22px/1.5 Inter";
-export const ocMobileHeading6SemiBold = "Semi Bold 22px/1.5 Inter";
-export const ocMobileHeading6Bold = "700 22px/1.5 Inter";
+export const ocMobileBodyLgLight = "300 16px/1.4 Inter";
+export const ocMobileBodyLgExtraLight = "Extra Light 16px/1.4 Inter";
+export const ocMobileBodyLgRegular = "400 16px/1.4 Inter";
+export const ocMobileBodyLgMedium = "500 16px/1.4 Inter";
+export const ocMobileBodyLgSemiBold = "Semi Bold 16px/1.4 Inter";
+export const ocMobileBodyLgBold = "700 16px/1.4 Inter";
+export const ocMobileHeading6Light = "300 22px/1.3 Inter";
+export const ocMobileHeading6ExtraLight = "Extra Light 22px/1.3 Inter";
+export const ocMobileHeading6Regular = "400 22px/1.3 Inter";
+export const ocMobileHeading6Medium = "500 22px/1.3 Inter";
+export const ocMobileHeading6SemiBold = "Semi Bold 22px/1.3 Inter";
+export const ocMobileHeading6Bold = "700 22px/1.3 Inter";
 export const ocLayoutRadius2 = "2px";
 export const ocLayoutRadius4 = "4px";
 export const ocLayoutRadius8 = "8px";
