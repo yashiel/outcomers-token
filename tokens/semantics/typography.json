@@ -892,7 +892,7 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.300}",
           "fontSize": "{fontSize.16}",
-          "lineHeight": "{lineHeight.150}",
+          "lineHeight": "{lineHeight.140}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
@@ -903,7 +903,7 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.200}",
           "fontSize": "{fontSize.16}",
-          "lineHeight": "{lineHeight.150}",
+          "lineHeight": "{lineHeight.140}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
@@ -914,7 +914,7 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.400}",
           "fontSize": "{fontSize.16}",
-          "lineHeight": "{lineHeight.150}",
+          "lineHeight": "{lineHeight.140}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
@@ -925,7 +925,7 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.500}",
           "fontSize": "{fontSize.16}",
-          "lineHeight": "{lineHeight.150}",
+          "lineHeight": "{lineHeight.140}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
@@ -936,7 +936,7 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.600}",
           "fontSize": "{fontSize.16}",
-          "lineHeight": "{lineHeight.150}",
+          "lineHeight": "{lineHeight.140}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
@@ -947,7 +947,7 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.700}",
           "fontSize": "{fontSize.16}",
-          "lineHeight": "{lineHeight.150}",
+          "lineHeight": "{lineHeight.140}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
@@ -960,8 +960,8 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.300}",
           "fontSize": "{fontSize.22}",
-          "lineHeight": "{lineHeight.150}",
-          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeight.130}",
+          "letterSpacing": "{letterSpacing.3}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
         "type": "typography"
@@ -971,8 +971,8 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.200}",
           "fontSize": "{fontSize.22}",
-          "lineHeight": "{lineHeight.150}",
-          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeight.130}",
+          "letterSpacing": "{letterSpacing.3}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
         "type": "typography"
@@ -982,8 +982,8 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.400}",
           "fontSize": "{fontSize.22}",
-          "lineHeight": "{lineHeight.150}",
-          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeight.130}",
+          "letterSpacing": "{letterSpacing.3}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
         "type": "typography"
@@ -993,8 +993,8 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.500}",
           "fontSize": "{fontSize.22}",
-          "lineHeight": "{lineHeight.150}",
-          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeight.130}",
+          "letterSpacing": "{letterSpacing.3}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
         "type": "typography"
@@ -1004,8 +1004,8 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.600}",
           "fontSize": "{fontSize.22}",
-          "lineHeight": "{lineHeight.150}",
-          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeight.130}",
+          "letterSpacing": "{letterSpacing.3}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
         "type": "typography"
@@ -1015,8 +1015,8 @@
           "fontFamily": "{fontFamily.inter}",
           "fontWeight": "{fontWeight.700}",
           "fontSize": "{fontSize.22}",
-          "lineHeight": "{lineHeight.150}",
-          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeight.130}",
+          "letterSpacing": "{letterSpacing.3}",
           "paragraphSpacing": "{paragaphSpacing.4}"
         },
         "type": "typography"
