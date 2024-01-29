@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 07:44:46 GMT
+// Generated on Mon, 29 Jan 2024 17:18:47 GMT
 
 
 #import ".h"
@@ -172,22 +172,22 @@
  const OcLineHeight130 = 130%;
  const OcLineHeight140 = 140%;
  const OcLineHeight150 = 150%;
- const OcSizing2 = 2;
- const OcSizing4 = 4;
- const OcSizing8 = 8;
- const OcSizing12 = 12;
- const OcSizing16 = 16;
- const OcSizing20 = 20;
- const OcSizing24 = 24;
- const OcSizing28 = 28;
- const OcSizing32 = 32;
- const OcSizing36 = 36;
- const OcSizing40 = 40;
- const OcSizing44 = 44;
- const OcSizing48 = 48;
- const OcSizing52 = 52;
- const OcSizing56 = 56;
- const OcSizing60 = 60;
+ const OcSizing2 = 2*1;
+ const OcSizing4 = 4*1;
+ const OcSizing8 = 4*2;
+ const OcSizing12 = 4*3;
+ const OcSizing16 = 4*4;
+ const OcSizing20 = 4*5;
+ const OcSizing24 = 4*6;
+ const OcSizing28 = 4*7;
+ const OcSizing32 = 4*8;
+ const OcSizing36 = 4*9;
+ const OcSizing40 = 4*10;
+ const OcSizing44 = 4*11;
+ const OcSizing48 = 4*12;
+ const OcSizing52 = 4*13;
+ const OcSizing56 = 4*14;
+ const OcSizing60 = 4*15;
  const OcSizing64 = 64;
  const OcLetterSpacing0 = 0%;
  const OcLetterSpacing1 = 1%;

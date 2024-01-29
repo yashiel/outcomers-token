@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 29 Jan 2024 07:44:45 GMT
+ * Generated on Mon, 29 Jan 2024 17:18:46 GMT
  */
 
 :root {
@@ -39,22 +39,6 @@
   --oc-letter-spacing-1: 0.01em;
   --oc-letter-spacing-0: 0em;
   --oc-sizing-64: 64px;
-  --oc-sizing-60: 60px;
-  --oc-sizing-56: 56px;
-  --oc-sizing-52: 52px;
-  --oc-sizing-48: 48px;
-  --oc-sizing-44: 44px;
-  --oc-sizing-40: 40px;
-  --oc-sizing-36: 36px;
-  --oc-sizing-32: 32px;
-  --oc-sizing-28: 28px;
-  --oc-sizing-24: 24px;
-  --oc-sizing-20: 20px;
-  --oc-sizing-16: 16px;
-  --oc-sizing-12: 12px;
-  --oc-sizing-8: 8px;
-  --oc-sizing-4: 4px;
-  --oc-sizing-2: 2px;
   --oc-line-height-150: 1.5;
   --oc-line-height-140: 1.4;
   --oc-line-height-130: 1.3;
@@ -222,6 +206,22 @@
   --oc-web-small-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-small-extra-light: var(--oc-font-weight-200) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-small-light: var(--oc-font-weight-300) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-sizing-60: var(--oc-base-4)*15;
+  --oc-sizing-56: var(--oc-base-4)*14;
+  --oc-sizing-52: var(--oc-base-4)*13;
+  --oc-sizing-48: var(--oc-base-4)*12;
+  --oc-sizing-44: var(--oc-base-4)*11;
+  --oc-sizing-40: var(--oc-base-4)*10;
+  --oc-sizing-36: var(--oc-base-4)*9;
+  --oc-sizing-32: var(--oc-base-4)*8;
+  --oc-sizing-28: var(--oc-base-4)*7;
+  --oc-sizing-24: var(--oc-base-4)*6;
+  --oc-sizing-20: var(--oc-base-4)*5;
+  --oc-sizing-16: var(--oc-base-4)*4;
+  --oc-sizing-12: var(--oc-base-4)*3;
+  --oc-sizing-8: var(--oc-base-4)*2;
+  --oc-sizing-4: var(--oc-base-4)*1;
+  --oc-sizing-2: var(--oc-base-2)*1;
   --oc-color-neutral-white: var(--oc-color-white-white);
   --oc-color-neutral-black: var(--oc-color-black-black);
   --oc-color-neutral-400: var(--oc-color-gray-400);

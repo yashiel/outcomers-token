@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Mon, 29 Jan 2024 07:44:46 GMT
+  Generated on Mon, 29 Jan 2024 17:18:47 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1503,52 +1503,52 @@
       <string>150%</string>
     <key>OcSizing2</key>
     </dict>
-      <string>2</string>
+      <string>2*1</string>
     <key>OcSizing4</key>
     </dict>
-      <string>4</string>
+      <string>4*1</string>
     <key>OcSizing8</key>
     </dict>
-      <string>8</string>
+      <string>4*2</string>
     <key>OcSizing12</key>
     </dict>
-      <string>12</string>
+      <string>4*3</string>
     <key>OcSizing16</key>
     </dict>
-      <string>16</string>
+      <string>4*4</string>
     <key>OcSizing20</key>
     </dict>
-      <string>20</string>
+      <string>4*5</string>
     <key>OcSizing24</key>
     </dict>
-      <string>24</string>
+      <string>4*6</string>
     <key>OcSizing28</key>
     </dict>
-      <string>28</string>
+      <string>4*7</string>
     <key>OcSizing32</key>
     </dict>
-      <string>32</string>
+      <string>4*8</string>
     <key>OcSizing36</key>
     </dict>
-      <string>36</string>
+      <string>4*9</string>
     <key>OcSizing40</key>
     </dict>
-      <string>40</string>
+      <string>4*10</string>
     <key>OcSizing44</key>
     </dict>
-      <string>44</string>
+      <string>4*11</string>
     <key>OcSizing48</key>
     </dict>
-      <string>48</string>
+      <string>4*12</string>
     <key>OcSizing52</key>
     </dict>
-      <string>52</string>
+      <string>4*13</string>
     <key>OcSizing56</key>
     </dict>
-      <string>56</string>
+      <string>4*14</string>
     <key>OcSizing60</key>
     </dict>
-      <string>60</string>
+      <string>4*15</string>
     <key>OcSizing64</key>
     </dict>
       <string>64</string>

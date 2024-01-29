@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 07:44:46 GMT
+// Generated on Mon, 29 Jan 2024 17:18:47 GMT
 
 
 import UIKit
@@ -300,23 +300,23 @@ public enum  {
     public static let ocRadius4 = 4
     public static let ocRadius50 = 50
     public static let ocRadius8 = 8
-    public static let ocSizing12 = 12
-    public static let ocSizing16 = 16
-    public static let ocSizing2 = 2
-    public static let ocSizing20 = 20
-    public static let ocSizing24 = 24
-    public static let ocSizing28 = 28
-    public static let ocSizing32 = 32
-    public static let ocSizing36 = 36
-    public static let ocSizing4 = 4
-    public static let ocSizing40 = 40
-    public static let ocSizing44 = 44
-    public static let ocSizing48 = 48
-    public static let ocSizing52 = 52
-    public static let ocSizing56 = 56
-    public static let ocSizing60 = 60
+    public static let ocSizing12 = 4*3
+    public static let ocSizing16 = 4*4
+    public static let ocSizing2 = 2*1
+    public static let ocSizing20 = 4*5
+    public static let ocSizing24 = 4*6
+    public static let ocSizing28 = 4*7
+    public static let ocSizing32 = 4*8
+    public static let ocSizing36 = 4*9
+    public static let ocSizing4 = 4*1
+    public static let ocSizing40 = 4*10
+    public static let ocSizing44 = 4*11
+    public static let ocSizing48 = 4*12
+    public static let ocSizing52 = 4*13
+    public static let ocSizing56 = 4*14
+    public static let ocSizing60 = 4*15
     public static let ocSizing64 = 64
-    public static let ocSizing8 = 8
+    public static let ocSizing8 = 4*2
     public static let ocSurfaceAction = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceActionHover = UIColor(red: 0.016, green: 0.620, blue: 0.325, alpha: 1)
     public static let ocSurfaceDisabled = UIColor(red: 0.776, green: 0.776, blue: 0.776, alpha: 1)

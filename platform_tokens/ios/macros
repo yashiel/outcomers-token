@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 07:44:46 GMT
+// Generated on Mon, 29 Jan 2024 17:18:47 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -172,22 +172,22 @@
 #define OcLineHeight130 130%
 #define OcLineHeight140 140%
 #define OcLineHeight150 150%
-#define OcSizing2 2
-#define OcSizing4 4
-#define OcSizing8 8
-#define OcSizing12 12
-#define OcSizing16 16
-#define OcSizing20 20
-#define OcSizing24 24
-#define OcSizing28 28
-#define OcSizing32 32
-#define OcSizing36 36
-#define OcSizing40 40
-#define OcSizing44 44
-#define OcSizing48 48
-#define OcSizing52 52
-#define OcSizing56 56
-#define OcSizing60 60
+#define OcSizing2 2*1
+#define OcSizing4 4*1
+#define OcSizing8 4*2
+#define OcSizing12 4*3
+#define OcSizing16 4*4
+#define OcSizing20 4*5
+#define OcSizing24 4*6
+#define OcSizing28 4*7
+#define OcSizing32 4*8
+#define OcSizing36 4*9
+#define OcSizing40 4*10
+#define OcSizing44 4*11
+#define OcSizing48 4*12
+#define OcSizing52 4*13
+#define OcSizing56 4*14
+#define OcSizing60 4*15
 #define OcSizing64 64
 #define OcLetterSpacing0 0%
 #define OcLetterSpacing1 1%

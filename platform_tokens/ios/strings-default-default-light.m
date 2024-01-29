@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 07:44:45 GMT
+// Generated on Mon, 29 Jan 2024 17:18:47 GMT
 
 
 #import ".h"
@@ -172,22 +172,22 @@ NSString * const OcLineHeight110 = 110%;
 NSString * const OcLineHeight130 = 130%;
 NSString * const OcLineHeight140 = 140%;
 NSString * const OcLineHeight150 = 150%;
-NSString * const OcSizing2 = 2;
-NSString * const OcSizing4 = 4;
-NSString * const OcSizing8 = 8;
-NSString * const OcSizing12 = 12;
-NSString * const OcSizing16 = 16;
-NSString * const OcSizing20 = 20;
-NSString * const OcSizing24 = 24;
-NSString * const OcSizing28 = 28;
-NSString * const OcSizing32 = 32;
-NSString * const OcSizing36 = 36;
-NSString * const OcSizing40 = 40;
-NSString * const OcSizing44 = 44;
-NSString * const OcSizing48 = 48;
-NSString * const OcSizing52 = 52;
-NSString * const OcSizing56 = 56;
-NSString * const OcSizing60 = 60;
+NSString * const OcSizing2 = 2*1;
+NSString * const OcSizing4 = 4*1;
+NSString * const OcSizing8 = 4*2;
+NSString * const OcSizing12 = 4*3;
+NSString * const OcSizing16 = 4*4;
+NSString * const OcSizing20 = 4*5;
+NSString * const OcSizing24 = 4*6;
+NSString * const OcSizing28 = 4*7;
+NSString * const OcSizing32 = 4*8;
+NSString * const OcSizing36 = 4*9;
+NSString * const OcSizing40 = 4*10;
+NSString * const OcSizing44 = 4*11;
+NSString * const OcSizing48 = 4*12;
+NSString * const OcSizing52 = 4*13;
+NSString * const OcSizing56 = 4*14;
+NSString * const OcSizing60 = 4*15;
 NSString * const OcSizing64 = 64;
 NSString * const OcLetterSpacing0 = 0%;
 NSString * const OcLetterSpacing1 = 1%;
@@ -1515,97 +1515,97 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"150"
   },
 @{
-  @"value": 2,
+  @"value": 2*1,
   @"name": @"OcSizing2",
     @"category": @"sizing",
     @"type": @"2"
   },
 @{
-  @"value": 4,
+  @"value": 4*1,
   @"name": @"OcSizing4",
     @"category": @"sizing",
     @"type": @"4"
   },
 @{
-  @"value": 8,
+  @"value": 4*2,
   @"name": @"OcSizing8",
     @"category": @"sizing",
     @"type": @"8"
   },
 @{
-  @"value": 12,
+  @"value": 4*3,
   @"name": @"OcSizing12",
     @"category": @"sizing",
     @"type": @"12"
   },
 @{
-  @"value": 16,
+  @"value": 4*4,
   @"name": @"OcSizing16",
     @"category": @"sizing",
     @"type": @"16"
   },
 @{
-  @"value": 20,
+  @"value": 4*5,
   @"name": @"OcSizing20",
     @"category": @"sizing",
     @"type": @"20"
   },
 @{
-  @"value": 24,
+  @"value": 4*6,
   @"name": @"OcSizing24",
     @"category": @"sizing",
     @"type": @"24"
   },
 @{
-  @"value": 28,
+  @"value": 4*7,
   @"name": @"OcSizing28",
     @"category": @"sizing",
     @"type": @"28"
   },
 @{
-  @"value": 32,
+  @"value": 4*8,
   @"name": @"OcSizing32",
     @"category": @"sizing",
     @"type": @"32"
   },
 @{
-  @"value": 36,
+  @"value": 4*9,
   @"name": @"OcSizing36",
     @"category": @"sizing",
     @"type": @"36"
   },
 @{
-  @"value": 40,
+  @"value": 4*10,
   @"name": @"OcSizing40",
     @"category": @"sizing",
     @"type": @"40"
   },
 @{
-  @"value": 44,
+  @"value": 4*11,
   @"name": @"OcSizing44",
     @"category": @"sizing",
     @"type": @"44"
   },
 @{
-  @"value": 48,
+  @"value": 4*12,
   @"name": @"OcSizing48",
     @"category": @"sizing",
     @"type": @"48"
   },
 @{
-  @"value": 52,
+  @"value": 4*13,
   @"name": @"OcSizing52",
     @"category": @"sizing",
     @"type": @"52"
   },
 @{
-  @"value": 56,
+  @"value": 4*14,
   @"name": @"OcSizing56",
     @"category": @"sizing",
     @"type": @"56"
   },
 @{
-  @"value": 60,
+  @"value": 4*15,
   @"name": @"OcSizing60",
     @"category": @"sizing",
     @"type": @"60"

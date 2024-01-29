@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 29 Jan 2024 07:44:46 GMT
+  Generated on Mon, 29 Jan 2024 17:18:47 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -167,22 +167,22 @@
   <string name="oc_line_height_130">130%</string>
   <string name="oc_line_height_140">140%</string>
   <string name="oc_line_height_150">150%</string>
-  <string name="oc_sizing_2">2</string>
-  <string name="oc_sizing_4">4</string>
-  <string name="oc_sizing_8">8</string>
-  <string name="oc_sizing_12">12</string>
-  <string name="oc_sizing_16">16</string>
-  <string name="oc_sizing_20">20</string>
-  <string name="oc_sizing_24">24</string>
-  <string name="oc_sizing_28">28</string>
-  <string name="oc_sizing_32">32</string>
-  <string name="oc_sizing_36">36</string>
-  <string name="oc_sizing_40">40</string>
-  <string name="oc_sizing_44">44</string>
-  <string name="oc_sizing_48">48</string>
-  <string name="oc_sizing_52">52</string>
-  <string name="oc_sizing_56">56</string>
-  <string name="oc_sizing_60">60</string>
+  <string name="oc_sizing_2">2*1</string>
+  <string name="oc_sizing_4">4*1</string>
+  <string name="oc_sizing_8">4*2</string>
+  <string name="oc_sizing_12">4*3</string>
+  <string name="oc_sizing_16">4*4</string>
+  <string name="oc_sizing_20">4*5</string>
+  <string name="oc_sizing_24">4*6</string>
+  <string name="oc_sizing_28">4*7</string>
+  <string name="oc_sizing_32">4*8</string>
+  <string name="oc_sizing_36">4*9</string>
+  <string name="oc_sizing_40">4*10</string>
+  <string name="oc_sizing_44">4*11</string>
+  <string name="oc_sizing_48">4*12</string>
+  <string name="oc_sizing_52">4*13</string>
+  <string name="oc_sizing_56">4*14</string>
+  <string name="oc_sizing_60">4*15</string>
   <string name="oc_sizing_64">64</string>
   <string name="oc_letter_spacing_0">0%</string>
   <string name="oc_letter_spacing_1">1%</string>

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 29 Jan 2024 07:44:45 GMT
+ * Generated on Mon, 29 Jan 2024 17:18:46 GMT
  */
 
 export const ocRadius0 = "0";
@@ -165,22 +165,22 @@ export const ocLineHeight110 = 1.1;
 export const ocLineHeight130 = 1.3;
 export const ocLineHeight140 = 1.4;
 export const ocLineHeight150 = 1.5;
-export const ocSizing2 = "2px";
-export const ocSizing4 = "4px";
-export const ocSizing8 = "8px";
-export const ocSizing12 = "12px";
-export const ocSizing16 = "16px";
-export const ocSizing20 = "20px";
-export const ocSizing24 = "24px";
-export const ocSizing28 = "28px";
-export const ocSizing32 = "32px";
-export const ocSizing36 = "36px";
-export const ocSizing40 = "40px";
-export const ocSizing44 = "44px";
-export const ocSizing48 = "48px";
-export const ocSizing52 = "52px";
-export const ocSizing56 = "56px";
-export const ocSizing60 = "60px";
+export const ocSizing2 = 2;
+export const ocSizing4 = 4;
+export const ocSizing8 = 8;
+export const ocSizing12 = 12;
+export const ocSizing16 = 16;
+export const ocSizing20 = 20;
+export const ocSizing24 = 24;
+export const ocSizing28 = 28;
+export const ocSizing32 = 32;
+export const ocSizing36 = 36;
+export const ocSizing40 = 40;
+export const ocSizing44 = 44;
+export const ocSizing48 = 48;
+export const ocSizing52 = 52;
+export const ocSizing56 = 56;
+export const ocSizing60 = 60;
 export const ocSizing64 = "64px";
 export const ocLetterSpacing0 = "0em";
 export const ocLetterSpacing1 = "0.01em";
