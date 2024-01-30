@@ -320,7 +320,19 @@
       "mobile.label.bold": "S:1a8447c63e9c1b6ba2f88b38bb96e13317bcdf45,",
       "mobile.body.bold": "S:09a8960c34063d49969c54a95db47f8f5f1fe6d4,",
       "mobile.body-lg.bold": "S:33f2ff885fe98cfe5075f3cc910a33fd05d3aa4f,",
-      "mobile.heading-6.bold": "S:792821c818c5795b6108284bf3168fe2ca817930,"
+      "mobile.heading-6.bold": "S:792821c818c5795b6108284bf3168fe2ca817930,",
+      "mobile.small.upper.light": "S:42f466cd3f937d90496d171ec608d97cd3a48ba6,",
+      "mobile.small.upper.extra-light": "S:c5c4c5e32fff77b9ea9e04bdc5f3cf97c1503f80,",
+      "mobile.small.upper.regular": "S:f168338d2037dd013440a5916f7cf347dd02e365,",
+      "mobile.small.upper.medium": "S:9cf156e5f563bfd38953744fe9b323d3340b9a4b,",
+      "mobile.small.upper.semi-bold": "S:2ba8ccac73b2347720c0dbefcd7e82ba331ee87b,",
+      "mobile.small.upper.bold": "S:a283435601151adb6d4bc487c655f8cbcf2853c5,",
+      "mobile.label.upper.light": "S:a6c6ac2711a2abecb5b0f6e7d5fc9f308cf729a4,",
+      "mobile.label.upper.extra-light": "S:1b4b59d15ff7646f4d5ddf92da711d2f9863b105,",
+      "mobile.label.upper.regular": "S:7e5cf5a576a9669259e3934b43773f08b386d554,",
+      "mobile.label.upper.medium": "S:d5219443164b8fc3452650edb86db94e530882ce,",
+      "mobile.label.upper.semi-bold": "S:bb3a487276971db07f57745ad14e3eef598a4f55,",
+      "mobile.label.upper.bold": "S:d835e7b80aa81d97941684edbb06c0528c063739,"
     },
     "selectedTokenSets": {
       "brand/default": "source",
