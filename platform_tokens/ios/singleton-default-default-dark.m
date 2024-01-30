@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 17:18:47 GMT
+// Generated on Tue, 30 Jan 2024 05:04:26 GMT
 
 
 #import ".h"
@@ -1942,6 +1942,56 @@
         @"type": @"small",
         @"item": @"light"
         },
+      @"upper": @{
+        @"light": @{
+          @"value": [object Object],
+          @"name": @"OcMobileSmallUpperLight",
+          @"category": @"mobile",
+          @"type": @"small",
+          @"item": @"upper",
+          @"subitem": @"light"
+          },
+        @"extra-light": @{
+          @"value": [object Object],
+          @"name": @"OcMobileSmallUpperExtraLight",
+          @"category": @"mobile",
+          @"type": @"small",
+          @"item": @"upper",
+          @"subitem": @"extra-light"
+          },
+        @"regular": @{
+          @"value": [object Object],
+          @"name": @"OcMobileSmallUpperRegular",
+          @"category": @"mobile",
+          @"type": @"small",
+          @"item": @"upper",
+          @"subitem": @"regular"
+          },
+        @"medium": @{
+          @"value": [object Object],
+          @"name": @"OcMobileSmallUpperMedium",
+          @"category": @"mobile",
+          @"type": @"small",
+          @"item": @"upper",
+          @"subitem": @"medium"
+          },
+        @"semi-bold": @{
+          @"value": [object Object],
+          @"name": @"OcMobileSmallUpperSemiBold",
+          @"category": @"mobile",
+          @"type": @"small",
+          @"item": @"upper",
+          @"subitem": @"semi-bold"
+          },
+        @"bold": @{
+          @"value": [object Object],
+          @"name": @"OcMobileSmallUpperBold",
+          @"category": @"mobile",
+          @"type": @"small",
+          @"item": @"upper",
+          @"subitem": @"bold"
+          }
+        },
       @"extra-light": @{
         @"value": [object Object],
         @"name": @"OcMobileSmallExtraLight",
@@ -1985,6 +2035,56 @@
         @"category": @"mobile",
         @"type": @"label",
         @"item": @"light"
+        },
+      @"upper": @{
+        @"light": @{
+          @"value": [object Object],
+          @"name": @"OcMobileLabelUpperLight",
+          @"category": @"mobile",
+          @"type": @"label",
+          @"item": @"upper",
+          @"subitem": @"light"
+          },
+        @"extra-light": @{
+          @"value": [object Object],
+          @"name": @"OcMobileLabelUpperExtraLight",
+          @"category": @"mobile",
+          @"type": @"label",
+          @"item": @"upper",
+          @"subitem": @"extra-light"
+          },
+        @"regular": @{
+          @"value": [object Object],
+          @"name": @"OcMobileLabelUpperRegular",
+          @"category": @"mobile",
+          @"type": @"label",
+          @"item": @"upper",
+          @"subitem": @"regular"
+          },
+        @"medium": @{
+          @"value": [object Object],
+          @"name": @"OcMobileLabelUpperMedium",
+          @"category": @"mobile",
+          @"type": @"label",
+          @"item": @"upper",
+          @"subitem": @"medium"
+          },
+        @"semi-bold": @{
+          @"value": [object Object],
+          @"name": @"OcMobileLabelUpperSemiBold",
+          @"category": @"mobile",
+          @"type": @"label",
+          @"item": @"upper",
+          @"subitem": @"semi-bold"
+          },
+        @"bold": @{
+          @"value": [object Object],
+          @"name": @"OcMobileLabelUpperBold",
+          @"category": @"mobile",
+          @"type": @"label",
+          @"item": @"upper",
+          @"subitem": @"bold"
+          }
         },
       @"extra-light": @{
         @"value": [object Object],

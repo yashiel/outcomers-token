@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 17:18:47 GMT
+// Generated on Tue, 30 Jan 2024 05:04:25 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -284,12 +284,24 @@ OcWebHeading1Medium,
 OcWebHeading1SemiBold,
 OcWebHeading1Bold,
 OcMobileSmallLight,
+OcMobileSmallUpperLight,
+OcMobileSmallUpperExtraLight,
+OcMobileSmallUpperRegular,
+OcMobileSmallUpperMedium,
+OcMobileSmallUpperSemiBold,
+OcMobileSmallUpperBold,
 OcMobileSmallExtraLight,
 OcMobileSmallRegular,
 OcMobileSmallMedium,
 OcMobileSmallSemiBold,
 OcMobileSmallBold,
 OcMobileLabelLight,
+OcMobileLabelUpperLight,
+OcMobileLabelUpperExtraLight,
+OcMobileLabelUpperRegular,
+OcMobileLabelUpperMedium,
+OcMobileLabelUpperSemiBold,
+OcMobileLabelUpperBold,
 OcMobileLabelExtraLight,
 OcMobileLabelRegular,
 OcMobileLabelMedium,

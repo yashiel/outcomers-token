@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Mon, 29 Jan 2024 17:18:47 GMT
+  Generated on Tue, 30 Jan 2024 05:04:26 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -1837,6 +1837,24 @@
     <key>OcMobileSmallLight</key>
     </dict>
       <string>[object Object]</string>
+    <key>OcMobileSmallUpperLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallUpperExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallUpperRegular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallUpperMedium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallUpperSemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileSmallUpperBold</key>
+    </dict>
+      <string>[object Object]</string>
     <key>OcMobileSmallExtraLight</key>
     </dict>
       <string>[object Object]</string>
@@ -1853,6 +1871,24 @@
     </dict>
       <string>[object Object]</string>
     <key>OcMobileLabelLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileLabelUpperLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileLabelUpperExtraLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileLabelUpperRegular</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileLabelUpperMedium</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileLabelUpperSemiBold</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>OcMobileLabelUpperBold</key>
     </dict>
       <string>[object Object]</string>
     <key>OcMobileLabelExtraLight</key>

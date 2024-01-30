@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 17:18:47 GMT
+// Generated on Tue, 30 Jan 2024 05:04:26 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -284,12 +284,24 @@
 #define OcWebHeading1SemiBold [object Object]
 #define OcWebHeading1Bold [object Object]
 #define OcMobileSmallLight [object Object]
+#define OcMobileSmallUpperLight [object Object]
+#define OcMobileSmallUpperExtraLight [object Object]
+#define OcMobileSmallUpperRegular [object Object]
+#define OcMobileSmallUpperMedium [object Object]
+#define OcMobileSmallUpperSemiBold [object Object]
+#define OcMobileSmallUpperBold [object Object]
 #define OcMobileSmallExtraLight [object Object]
 #define OcMobileSmallRegular [object Object]
 #define OcMobileSmallMedium [object Object]
 #define OcMobileSmallSemiBold [object Object]
 #define OcMobileSmallBold [object Object]
 #define OcMobileLabelLight [object Object]
+#define OcMobileLabelUpperLight [object Object]
+#define OcMobileLabelUpperExtraLight [object Object]
+#define OcMobileLabelUpperRegular [object Object]
+#define OcMobileLabelUpperMedium [object Object]
+#define OcMobileLabelUpperSemiBold [object Object]
+#define OcMobileLabelUpperBold [object Object]
 #define OcMobileLabelExtraLight [object Object]
 #define OcMobileLabelRegular [object Object]
 #define OcMobileLabelMedium [object Object]

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 17:18:47 GMT
+// Generated on Tue, 30 Jan 2024 05:04:25 GMT
 
 
 import UIKit
@@ -277,12 +277,24 @@ public class  {
     public static let ocMobileLabelMedium = [object Object]
     public static let ocMobileLabelRegular = [object Object]
     public static let ocMobileLabelSemiBold = [object Object]
+    public static let ocMobileLabelUpperBold = [object Object]
+    public static let ocMobileLabelUpperExtraLight = [object Object]
+    public static let ocMobileLabelUpperLight = [object Object]
+    public static let ocMobileLabelUpperMedium = [object Object]
+    public static let ocMobileLabelUpperRegular = [object Object]
+    public static let ocMobileLabelUpperSemiBold = [object Object]
     public static let ocMobileSmallBold = [object Object]
     public static let ocMobileSmallExtraLight = [object Object]
     public static let ocMobileSmallLight = [object Object]
     public static let ocMobileSmallMedium = [object Object]
     public static let ocMobileSmallRegular = [object Object]
     public static let ocMobileSmallSemiBold = [object Object]
+    public static let ocMobileSmallUpperBold = [object Object]
+    public static let ocMobileSmallUpperExtraLight = [object Object]
+    public static let ocMobileSmallUpperLight = [object Object]
+    public static let ocMobileSmallUpperMedium = [object Object]
+    public static let ocMobileSmallUpperRegular = [object Object]
+    public static let ocMobileSmallUpperSemiBold = [object Object]
     public static let ocOpacity100 = 100%
     public static let ocOpacity25 = 25%
     public static let ocOpacity50 = 50%

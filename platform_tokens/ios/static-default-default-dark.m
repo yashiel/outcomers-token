@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 17:18:47 GMT
+// Generated on Tue, 30 Jan 2024 05:04:26 GMT
 
 
 #import ".h"
@@ -284,12 +284,24 @@
  const OcWebHeading1SemiBold = [object Object];
  const OcWebHeading1Bold = [object Object];
  const OcMobileSmallLight = [object Object];
+ const OcMobileSmallUpperLight = [object Object];
+ const OcMobileSmallUpperExtraLight = [object Object];
+ const OcMobileSmallUpperRegular = [object Object];
+ const OcMobileSmallUpperMedium = [object Object];
+ const OcMobileSmallUpperSemiBold = [object Object];
+ const OcMobileSmallUpperBold = [object Object];
  const OcMobileSmallExtraLight = [object Object];
  const OcMobileSmallRegular = [object Object];
  const OcMobileSmallMedium = [object Object];
  const OcMobileSmallSemiBold = [object Object];
  const OcMobileSmallBold = [object Object];
  const OcMobileLabelLight = [object Object];
+ const OcMobileLabelUpperLight = [object Object];
+ const OcMobileLabelUpperExtraLight = [object Object];
+ const OcMobileLabelUpperRegular = [object Object];
+ const OcMobileLabelUpperMedium = [object Object];
+ const OcMobileLabelUpperSemiBold = [object Object];
+ const OcMobileLabelUpperBold = [object Object];
  const OcMobileLabelExtraLight = [object Object];
  const OcMobileLabelRegular = [object Object];
  const OcMobileLabelMedium = [object Object];

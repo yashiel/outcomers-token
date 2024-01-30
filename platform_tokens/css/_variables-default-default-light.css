@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 29 Jan 2024 17:18:46 GMT
+ * Generated on Tue, 30 Jan 2024 05:04:25 GMT
  */
 
 :root {
@@ -139,12 +139,24 @@
   --oc-mobile-label-medium: var(--oc-font-weight-500) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-label-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-label-extra-light: var(--oc-font-weight-200) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-label-upper-bold: var(--oc-font-weight-700) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-label-upper-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-label-upper-medium: var(--oc-font-weight-500) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-label-upper-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-label-upper-extra-light: var(--oc-font-weight-200) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-label-upper-light: var(--oc-font-weight-300) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-label-light: var(--oc-font-weight-300) var(--oc-font-size-12)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-bold: var(--oc-font-weight-700) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-medium: var(--oc-font-weight-500) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-extra-light: var(--oc-font-weight-200) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-small-upper-bold: var(--oc-font-weight-700) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-small-upper-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-small-upper-medium: var(--oc-font-weight-500) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-small-upper-regular: var(--oc-font-weight-var(--oc-paragaph-spacing-4)00) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-small-upper-extra-light: var(--oc-font-weight-200) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
+  --oc-mobile-small-upper-light: var(--oc-font-weight-300) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-mobile-small-light: var(--oc-font-weight-300) var(--oc-font-size-10)/var(--oc-line-height-150) var(--oc-font-family-inter);
   --oc-web-heading-1-bold: var(--oc-font-weight-700) var(--oc-font-size-var(--oc-paragaph-spacing-4)0)/var(--oc-line-height-110) var(--oc-font-family-inter);
   --oc-web-heading-1-semi-bold: var(--oc-font-weight-600) var(--oc-font-size-var(--oc-paragaph-spacing-4)0)/var(--oc-line-height-110) var(--oc-font-family-inter);

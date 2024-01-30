@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Jan 2024 17:18:47 GMT
+// Generated on Tue, 30 Jan 2024 05:04:26 GMT
 
 
 #import ".h"
@@ -284,12 +284,24 @@ NSString * const OcWebHeading1Medium = [object Object];
 NSString * const OcWebHeading1SemiBold = [object Object];
 NSString * const OcWebHeading1Bold = [object Object];
 NSString * const OcMobileSmallLight = [object Object];
+NSString * const OcMobileSmallUpperLight = [object Object];
+NSString * const OcMobileSmallUpperExtraLight = [object Object];
+NSString * const OcMobileSmallUpperRegular = [object Object];
+NSString * const OcMobileSmallUpperMedium = [object Object];
+NSString * const OcMobileSmallUpperSemiBold = [object Object];
+NSString * const OcMobileSmallUpperBold = [object Object];
 NSString * const OcMobileSmallExtraLight = [object Object];
 NSString * const OcMobileSmallRegular = [object Object];
 NSString * const OcMobileSmallMedium = [object Object];
 NSString * const OcMobileSmallSemiBold = [object Object];
 NSString * const OcMobileSmallBold = [object Object];
 NSString * const OcMobileLabelLight = [object Object];
+NSString * const OcMobileLabelUpperLight = [object Object];
+NSString * const OcMobileLabelUpperExtraLight = [object Object];
+NSString * const OcMobileLabelUpperRegular = [object Object];
+NSString * const OcMobileLabelUpperMedium = [object Object];
+NSString * const OcMobileLabelUpperSemiBold = [object Object];
+NSString * const OcMobileLabelUpperBold = [object Object];
 NSString * const OcMobileLabelExtraLight = [object Object];
 NSString * const OcMobileLabelRegular = [object Object];
 NSString * const OcMobileLabelMedium = [object Object];
@@ -2249,6 +2261,54 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
   },
 @{
   @"value": [object Object],
+  @"name": @"OcMobileSmallUpperLight",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"upper",
+    @"subitem": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallUpperExtraLight",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"upper",
+    @"subitem": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallUpperRegular",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"upper",
+    @"subitem": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallUpperMedium",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"upper",
+    @"subitem": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallUpperSemiBold",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"upper",
+    @"subitem": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileSmallUpperBold",
+    @"category": @"mobile",
+    @"type": @"small",
+    @"item": @"upper",
+    @"subitem": @"bold"
+  },
+@{
+  @"value": [object Object],
   @"name": @"OcMobileSmallExtraLight",
     @"category": @"mobile",
     @"type": @"small",
@@ -2288,6 +2348,54 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"category": @"mobile",
     @"type": @"label",
     @"item": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelUpperLight",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"upper",
+    @"subitem": @"light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelUpperExtraLight",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"upper",
+    @"subitem": @"extra-light"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelUpperRegular",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"upper",
+    @"subitem": @"regular"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelUpperMedium",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"upper",
+    @"subitem": @"medium"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelUpperSemiBold",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"upper",
+    @"subitem": @"semi-bold"
+  },
+@{
+  @"value": [object Object],
+  @"name": @"OcMobileLabelUpperBold",
+    @"category": @"mobile",
+    @"type": @"label",
+    @"item": @"upper",
+    @"subitem": @"bold"
   },
 @{
   @"value": [object Object],

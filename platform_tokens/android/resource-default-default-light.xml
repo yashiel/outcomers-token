@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 29 Jan 2024 17:18:47 GMT
+  Generated on Tue, 30 Jan 2024 05:04:25 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -279,12 +279,24 @@
   <string name="oc_web_heading_1_semi_bold">[object Object]</string>
   <string name="oc_web_heading_1_bold">[object Object]</string>
   <string name="oc_mobile_small_light">[object Object]</string>
+  <string name="oc_mobile_small_upper_light">[object Object]</string>
+  <string name="oc_mobile_small_upper_extra_light">[object Object]</string>
+  <string name="oc_mobile_small_upper_regular">[object Object]</string>
+  <string name="oc_mobile_small_upper_medium">[object Object]</string>
+  <string name="oc_mobile_small_upper_semi_bold">[object Object]</string>
+  <string name="oc_mobile_small_upper_bold">[object Object]</string>
   <string name="oc_mobile_small_extra_light">[object Object]</string>
   <string name="oc_mobile_small_regular">[object Object]</string>
   <string name="oc_mobile_small_medium">[object Object]</string>
   <string name="oc_mobile_small_semi_bold">[object Object]</string>
   <string name="oc_mobile_small_bold">[object Object]</string>
   <string name="oc_mobile_label_light">[object Object]</string>
+  <string name="oc_mobile_label_upper_light">[object Object]</string>
+  <string name="oc_mobile_label_upper_extra_light">[object Object]</string>
+  <string name="oc_mobile_label_upper_regular">[object Object]</string>
+  <string name="oc_mobile_label_upper_medium">[object Object]</string>
+  <string name="oc_mobile_label_upper_semi_bold">[object Object]</string>
+  <string name="oc_mobile_label_upper_bold">[object Object]</string>
   <string name="oc_mobile_label_extra_light">[object Object]</string>
   <string name="oc_mobile_label_regular">[object Object]</string>
   <string name="oc_mobile_label_medium">[object Object]</string>
