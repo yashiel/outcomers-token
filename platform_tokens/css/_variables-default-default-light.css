@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 30 Jan 2024 05:12:34 GMT
+ * Generated on Thu, 01 Feb 2024 21:24:03 GMT
  */
 
 :root {
@@ -44,13 +44,13 @@
   --oc-line-height-130: 1.3;
   --oc-line-height-110: 1.1;
   --oc-font-weight-900: 900;
-  --oc-font-weight-800: Extra Bold;
+  --oc-font-weight-800: 800;
   --oc-font-weight-700: 700;
-  --oc-font-weight-600: Semi Bold;
+  --oc-font-weight-600: 600;
   --oc-font-weight-500: 500;
   --oc-font-weight-400: 400;
   --oc-font-weight-300: 300;
-  --oc-font-weight-200: Extra Light;
+  --oc-font-weight-200: 200;
   --oc-font-weight-100: 100;
   --oc-font-family-inter: Inter;
   --oc-opacity-none: none;
