@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 01 Feb 2024 21:24:03 GMT
+  Generated on Tue, 13 Feb 2024 05:41:54 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -22,15 +22,15 @@
   <color name="oc_color_red_700">#ffc2210f</color>
   <color name="oc_color_red_800">#ffc2210f</color>
   <color name="oc_color_red_900">#ffc2210f</color>
-  <color name="oc_color_green_100">#ff049e53</color>
-  <color name="oc_color_green_200">#ff049e53</color>
-  <color name="oc_color_green_300">#ff049e53</color>
-  <color name="oc_color_green_400">#ff049e53</color>
-  <color name="oc_color_green_500">#ff049e53</color>
-  <color name="oc_color_green_600">#ff049e53</color>
-  <color name="oc_color_green_700">#ff049e53</color>
-  <color name="oc_color_green_800">#ff049e53</color>
-  <color name="oc_color_green_900">#ff049e53</color>
+  <color name="oc_color_green_100">#ff087c43</color>
+  <color name="oc_color_green_200">#ff087c43</color>
+  <color name="oc_color_green_300">#ff087c43</color>
+  <color name="oc_color_green_400">#ff087c43</color>
+  <color name="oc_color_green_500">#ff087c43</color>
+  <color name="oc_color_green_600">#ff087c43</color>
+  <color name="oc_color_green_700">#ff087c43</color>
+  <color name="oc_color_green_800">#ff087c43</color>
+  <color name="oc_color_green_900">#ff087c43</color>
   <color name="oc_color_yellow_100">#ffeab010</color>
   <color name="oc_color_yellow_200">#ffeab010</color>
   <color name="oc_color_yellow_300">#ffeab010</color>
@@ -82,12 +82,12 @@
   <color name="oc_color_gray_400">#ff0b0b0b</color>
   <color name="oc_color_white_white">#ffffffff</color>
   <color name="oc_color_black_black">#ff111111</color>
-  <color name="oc_color_primary_darker">#ff049e53</color>
-  <color name="oc_color_primary_dark">#ff049e53</color>
-  <color name="oc_color_primary_default">#ff049e53</color>
-  <color name="oc_color_primary_light">#ff049e53</color>
-  <color name="oc_color_primary_lighter">#ff049e53</color>
-  <color name="oc_color_primary_lightest">#ff049e53</color>
+  <color name="oc_color_primary_darker">#ff087c43</color>
+  <color name="oc_color_primary_dark">#ff087c43</color>
+  <color name="oc_color_primary_default">#ff087c43</color>
+  <color name="oc_color_primary_light">#ff087c43</color>
+  <color name="oc_color_primary_lighter">#ff087c43</color>
+  <color name="oc_color_primary_lightest">#ff087c43</color>
   <color name="oc_color_secondary_darker">#fff17f29</color>
   <color name="oc_color_secondary_dark">#fff17f29</color>
   <color name="oc_color_secondary_default">#fff17f29</color>
@@ -100,12 +100,12 @@
   <color name="oc_color_accent_light">#ff2292a4</color>
   <color name="oc_color_accent_lighter">#ff2292a4</color>
   <color name="oc_color_accent_lightest">#ff2292a4</color>
-  <color name="oc_color_success_darker">#ff049e53</color>
-  <color name="oc_color_success_dark">#ff049e53</color>
-  <color name="oc_color_success_default">#ff049e53</color>
-  <color name="oc_color_success_light">#ff049e53</color>
-  <color name="oc_color_success_lighter">#ff049e53</color>
-  <color name="oc_color_success_lightest">#ff049e53</color>
+  <color name="oc_color_success_darker">#ff087c43</color>
+  <color name="oc_color_success_dark">#ff087c43</color>
+  <color name="oc_color_success_default">#ff087c43</color>
+  <color name="oc_color_success_light">#ff087c43</color>
+  <color name="oc_color_success_lighter">#ff087c43</color>
+  <color name="oc_color_success_lightest">#ff087c43</color>
   <color name="oc_color_warning_darker">#ffeab010</color>
   <color name="oc_color_warning_dark">#ffeab010</color>
   <color name="oc_color_warning_default">#ffeab010</color>
@@ -382,7 +382,7 @@
   <string name="oc_text_disabled">#ff2d2d2d</string>
   <string name="oc_text_highlight">#ff2292a4</string>
   <string name="oc_text_information">#ff0065ff</string>
-  <string name="oc_text_success">#ff049e53</string>
+  <string name="oc_text_success">#ff087c43</string>
   <string name="oc_text_warning">#ffeab010</string>
   <string name="oc_text_error">#ffc2210f</string>
   <string name="oc_text_on_action">#ffffffff</string>
@@ -391,27 +391,27 @@
   <string name="oc_surface_primary">#fff1f1f1</string>
   <string name="oc_surface_secondary">#fff1f1f1</string>
   <string name="oc_surface_disabled">#ffc6c6c6</string>
-  <string name="oc_surface_success">#ff049e53</string>
+  <string name="oc_surface_success">#ff087c43</string>
   <string name="oc_surface_error">#ffc2210f</string>
   <string name="oc_surface_warning">#ffeab010</string>
   <string name="oc_surface_information">#ff0065ff</string>
   <string name="oc_surface_highlight">#ff2292a4</string>
-  <string name="oc_surface_action">#ff049e53</string>
-  <string name="oc_surface_action_hover">#ff049e53</string>
+  <string name="oc_surface_action">#ff087c43</string>
+  <string name="oc_surface_action_hover">#ff087c43</string>
   <string name="oc_border_primary">#ffd4d4d4</string>
-  <string name="oc_border_secondary">#ff049e53</string>
+  <string name="oc_border_secondary">#ff087c43</string>
   <string name="oc_border_information">#ff0065ff</string>
-  <string name="oc_border_success">#ff049e53</string>
+  <string name="oc_border_success">#ff087c43</string>
   <string name="oc_border_warning">#ffeab010</string>
   <string name="oc_border_error">#ffc2210f</string>
   <string name="oc_border_disabled">#ff707070</string>
-  <string name="oc_border_action">#ff049e53</string>
-  <string name="oc_border_action_hover">#ff049e53</string>
-  <string name="oc_border_focus">#ff049e53</string>
+  <string name="oc_border_action">#ff087c43</string>
+  <string name="oc_border_action_hover">#ff087c43</string>
+  <string name="oc_border_focus">#ff087c43</string>
   <string name="oc_border_highlight">#ff2292a4</string>
-  <string name="oc_icon_primary">#ff049e53</string>
+  <string name="oc_icon_primary">#ff087c43</string>
   <string name="oc_icon_information">#ff0065ff</string>
-  <string name="oc_icon_success">#ff049e53</string>
+  <string name="oc_icon_success">#ff087c43</string>
   <string name="oc_icon_warning">#ffeab010</string>
   <string name="oc_icon_error">#ffc2210f</string>
   
