@@ -1,166 +1,166 @@
 {
   "text": {
     "heading": {
-      "value": "{color.neutral.white}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.white}"
     },
     "body": {
-      "value": "{color.neutral.white}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.white}"
     },
     "action": {
-      "value": "{color.neutral.white}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.white}"
     },
     "action-hover": {
-      "value": "{color.neutral.white}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.white}"
     },
     "disabled": {
-      "value": "{color.neutral.100}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.100}"
     },
     "highlight": {
-      "value": "{color.accent.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.accent.default}"
     },
     "information": {
-      "value": "{color.info.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.info.default}"
     },
     "success": {
-      "value": "{color.success.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.success.darker}"
     },
     "warning": {
-      "value": "{color.warning.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.warning.darker}"
     },
     "error": {
-      "value": "{color.error.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.error.dark}"
     },
     "on-action": {
-      "value": "{color.neutral.white}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.white}"
     },
     "on-disabled": {
-      "value": "{color.neutral.400}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.400}"
     }
   },
   "surface": {
     "page": {
-      "value": "{color.neutral.400}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.400}"
     },
     "primary": {
-      "value": "{color.neutral.300}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.300}"
     },
     "secondary": {
-      "value": "{color.neutral.200}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.200}"
     },
     "disabled": {
-      "value": "{color.neutral.40}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.40}"
     },
     "success": {
-      "value": "{color.primary.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.darker}"
     },
     "error": {
-      "value": "{color.error.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.error.darker}"
     },
     "warning": {
-      "value": "{color.neutral.400}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.400}"
     },
     "information": {
-      "value": "{color.info.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.info.lightest}"
     },
     "highlight": {
-      "value": "{color.accent.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.accent.default}"
     },
     "action": {
-      "value": "{color.primary.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.darker}"
     },
     "action-hover": {
-      "value": "{color.primary.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.dark}"
     }
   },
   "border": {
     "primary": {
-      "value": "{color.neutral.30}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.30}"
     },
     "secondary": {
-      "value": "{color.primary.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.default}"
     },
     "information": {
-      "value": "{color.info.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.info.light}"
     },
     "success": {
-      "value": "{color.success.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.success.dark}"
     },
     "warning": {
-      "value": "{color.warning.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.warning.light}"
     },
     "error": {
-      "value": "{color.error.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.error.light}"
     },
     "disabled": {
-      "value": "{color.neutral.70}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.neutral.70}"
     },
     "action": {
-      "value": "{color.primary.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.dark}"
     },
     "action-hover": {
-      "value": "{color.primary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.light}"
     },
     "focus": {
-      "value": "{color.primary.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.default}"
     },
     "highlight": {
-      "value": "{color.accent.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.accent.default}"
     }
   },
   "icon": {
     "primary": {
-      "value": "{color.primary.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.primary.default}"
     },
     "information": {
-      "value": "{color.info.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.info.default}"
     },
     "success": {
-      "value": "{color.success.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.success.default}"
     },
     "warning": {
-      "value": "{color.warning.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.warning.default}"
     },
     "error": {
-      "value": "{color.error.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{color.error.default}"
     }
   }
 }
