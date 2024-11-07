@@ -830,39 +830,39 @@
   "fontWeight": {
     "100": {
       "$type": "fontWeights",
-      "$value": "Thin"
+      "$value": "100"
     },
     "200": {
       "$type": "fontWeights",
-      "$value": "Extra Light"
+      "$value": "200"
     },
     "300": {
       "$type": "fontWeights",
-      "$value": "Light"
+      "$value": "300"
     },
     "400": {
       "$type": "fontWeights",
-      "$value": "Regular"
+      "$value": "400"
     },
     "500": {
       "$type": "fontWeights",
-      "$value": "Medium"
+      "$value": "500"
     },
     "600": {
       "$type": "fontWeights",
-      "$value": "Semi Bold"
+      "$value": "600"
     },
     "700": {
       "$type": "fontWeights",
-      "$value": "Bold"
+      "$value": "700"
     },
     "800": {
       "$type": "fontWeights",
-      "$value": "Extra Bold"
+      "$value": "800"
     },
     "900": {
       "$type": "fontWeights",
-      "$value": "Black"
+      "$value": "900"
     }
   },
   "lineHeight": {
